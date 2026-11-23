@@ -1,0 +1,127 @@
+{
+  "display_camera_c2w": [
+    [
+      0.9999998149465797,
+      0.0003368942296367995,
+      0.0005567533362928124,
+      -0.00015376310131237243
+    ],
+    [
+      -0.00033685634967510486,
+      0.9999999414856251,
+      -6.816763416858519e-05,
+      2.470063117095471e-05
+    ],
+    [
+      -0.0005567762090688743,
+      6.79800731898274e-05,
+      0.9999998641928545,
+      7.5660407058779e-05
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "raw_points": 1043157,
+  "saved_points": 100000,
+  "alignment": {
+    "method": "shared_omega_native",
+    "scale": 1.0,
+    "rotation": [
+      [
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "translation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "icp": false,
+    "reference_cameras": false
+  },
+  "coloring": {
+    "policy": "predicted_camera_bilinear_rgb_zbuffer_1percent",
+    "fallback_source": "model_predicted_rgb"
+  },
+  "prediction_sampling": {
+    "maximum": 200000,
+    "seed": 42,
+    "replacement": false
+  },
+  "method": "vsurf_final",
+  "scene": "pyramid",
+  "model_metadata": {
+    "preprocessing": "balanced_512_patch16",
+    "architecture": "vsurf_final",
+    "normalization": {
+      "mode": "median_point_radius",
+      "center": [
+        [
+          -0.011130740866065025,
+          0.018331270664930344,
+          0.8037360310554504
+        ]
+      ],
+      "radius": [
+        0.19482393562793732
+      ],
+      "bounds": null
+    },
+    "camera_pose_optimized": false,
+    "tto_steps": 0,
+    "weights": "checkpoint_native",
+    "confidence_multiplier": 1.0,
+    "point_color_strategy": "projective_with_predicted_fallback",
+    "tto": {
+      "preset": "off"
+    }
+  },
+  "checkpoint_identity": {
+    "checkpoint": [
+      {
+        "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/architecture.yaml",
+        "size": 756,
+        "mtime_ns": 1793819872256854000
+      },
+      {
+        "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/model.safetensors",
+        "size": 3165580704,
+        "mtime_ns": 1793819858501847000
+      }
+    ],
+    "frontend_checkpoint": [
+      {
+        "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+        "size": 4576706117,
+        "mtime_ns": 1781505878115243000
+      }
+    ]
+  },
+  "inputs_sha256": "48b741d66aa5810c844f151e7789403db63810b85c575f880ddd278c8d18c922",
+  "ply_sha256": "d6a9c9e6f3ab5e8bf6399488ef142438f53f2d0beb166b2dde5561754e47a1a4",
+  "post_export_sampling": {
+    "source_points": 200000,
+    "source_ply_sha256": "97006cb51b45c6b0a87db3abd1872d278ee4e7c90154f0c3f4595babf70c6f04",
+    "maximum": 100000,
+    "seed": 42,
+    "replacement": false,
+    "algorithm": "numpy.random.default_rng.choice",
+    "preserve_source_order": true
+  }
+}

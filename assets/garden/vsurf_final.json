@@ -1,0 +1,132 @@
+{
+  "display_camera_c2w": null,
+  "raw_points": 2088825,
+  "saved_points": 100000,
+  "alignment": {
+    "scale": 7.544456562222674,
+    "rotation": [
+      [
+        0.9999397411935225,
+        -0.0062206030764532586,
+        -0.009045334664685625
+      ],
+      [
+        0.00338565276430935,
+        0.9585430156273914,
+        -0.28492775320650227
+      ],
+      [
+        0.010442764825010142,
+        0.28487995943785044,
+        0.9585063157713143
+      ]
+    ],
+    "translation": [
+      0.33327042440049315,
+      3.0050425179923543,
+      -3.2516098388832817
+    ],
+    "camera_residuals": [
+      0.026770791241308173,
+      0.09973100363040222,
+      0.05513703349036927,
+      0.018613032084596307,
+      0.031008329526508227,
+      0.06057518221089567,
+      0.013832653238928672,
+      0.02802240549080618,
+      0.010010846204344405,
+      0.024063813749203026,
+      0.08202849020010963,
+      0.007551873192966088,
+      0.054252802179261546,
+      0.010708020846924994,
+      0.019378311381020957,
+      0.016892939363351345
+    ],
+    "camera_rmse": 0.043903914442172814,
+    "icp": false,
+    "method": "camera_center_sim3_ransac_da3",
+    "ransac": true,
+    "random_state": 42,
+    "ransac_max_iters": 10,
+    "sub_n": null,
+    "inlier_thresh": null,
+    "subset_rule": "max(3, ceil(frame_count / 2))",
+    "threshold_rule": "median_nearest_reference_center_after_initial_umeyama",
+    "implementation_sha256": {
+      "depth_anything_3/utils/pose_align.py": "3e58caa51c499b13650f24049f68b7f659e0f1ce07b9bec24df1c23aaf920428",
+      "depth_anything_3/utils/geometry.py": "3d67391f2eeed57ee5d07387947dea7a5d99fc0ce0a63c6890485183c851c29b"
+    },
+    "evo_version": "1.37.0"
+  },
+  "coloring": {
+    "policy": "predicted_camera_bilinear_rgb_zbuffer_1percent",
+    "fallback_source": "model_predicted_rgb"
+  },
+  "prediction_sampling": {
+    "maximum": 200000,
+    "seed": 42,
+    "replacement": false
+  },
+  "method": "vsurf_final",
+  "scene": "garden",
+  "model_metadata": {
+    "preprocessing": "balanced_512_patch16",
+    "architecture": "vsurf_final",
+    "normalization": {
+      "mode": "median_point_radius",
+      "center": [
+        [
+          0.022041594609618187,
+          0.08397982269525528,
+          0.634063720703125
+        ]
+      ],
+      "radius": [
+        0.4500972628593445
+      ],
+      "bounds": null
+    },
+    "camera_pose_optimized": false,
+    "tto_steps": 0,
+    "weights": "checkpoint_native",
+    "confidence_multiplier": 1.0,
+    "point_color_strategy": "projective_with_predicted_fallback",
+    "tto": {
+      "preset": "off"
+    }
+  },
+  "checkpoint_identity": {
+    "checkpoint": [
+      {
+        "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/architecture.yaml",
+        "size": 756,
+        "mtime_ns": 1793819872256854000
+      },
+      {
+        "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/model.safetensors",
+        "size": 3165580704,
+        "mtime_ns": 1793819858501847000
+      }
+    ],
+    "frontend_checkpoint": [
+      {
+        "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+        "size": 4576706117,
+        "mtime_ns": 1781505878115243000
+      }
+    ]
+  },
+  "inputs_sha256": "2efd2e4022a58a2e5c610a5d81ace9701dd59ddba8f580c5f34243b62ef10a9b",
+  "ply_sha256": "0a859fb8e68a1176d07aabac302fc0e51482a8c29e585df691709ee06cf661ef",
+  "post_export_sampling": {
+    "source_points": 200000,
+    "source_ply_sha256": "2184b317bb6b85c35b726e814e7f4214d2a6078e62fbbce3a27950a0d0a3bbc3",
+    "maximum": 100000,
+    "seed": 42,
+    "replacement": false,
+    "algorithm": "numpy.random.default_rng.choice",
+    "preserve_source_order": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "source": "viewers/pipeline/assets/counter",
+  "sha256": {
+    "input.ply": "5844063046349a68a6882b636e60ff0daf444afa66961fe100290302b0115d69",
+    "voxelized.ply": "375948e65284407f5e7d64b61e6a7088955acb99fb0461b53fad8fef73c7c548",
+    "pruner.ply": "20ebf985d3ecc8760de8530faa627128bbebd38b7d146ea1d379df57ac60ae98",
+    "output.ply": "63105489385881d4c5eb742d8324256dcd616b7b08d99988bb93055d2a3c6e0c",
+    "metadata.json": "9ace2c0f59afe9a46f979ab71cba63f7cd53a22474118c796acb5b73672134b5"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "identity": "8c9d0fa321ca12492c580deb6a1d5d319a013910f671d32d747dc343c124c4bf",
+  "provenance": {
+    "protocol": "surface-v1",
+    "code": "5d9494b36810c33bb79155a603964f528d3e5a6bd0cdaf05d6a4647472336a6d",
+    "alignment_policy": {
+      "method": "camera_center_sim3_ransac_da3",
+      "ransac": true,
+      "random_state": 42,
+      "ransac_max_iters": 10,
+      "sub_n": null,
+      "inlier_thresh": null,
+      "subset_rule": "max(3, ceil(frame_count / 2))",
+      "threshold_rule": "median_nearest_reference_center_after_initial_umeyama",
+      "implementation_sha256": {
+        "depth_anything_3/utils/pose_align.py": "3e58caa51c499b13650f24049f68b7f659e0f1ce07b9bec24df1c23aaf920428",
+        "depth_anything_3/utils/geometry.py": "3d67391f2eeed57ee5d07387947dea7a5d99fc0ce0a63c6890485183c851c29b"
+      },
+      "evo_version": "1.37.0"
+    },
+    "scene": "03d287f2d48e4643d5748d1fa3c8db75ed4b8d889088753f6e667e7da99f8d4b",
+    "config": {
+      "checkpoint": "logs/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final",
+      "frontend_checkpoint": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
+      "max_input_points": null,
+      "input_policy": "all_dataset_valid_uncapped_v1",
+      "contraction_percentile": 0.5
+    },
+    "checkpoints": {
+      "checkpoint": [
+        {
+          "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/architecture.yaml",
+          "size": 756,
+          "mtime_ns": 1793819872256854000
+        },
+        {
+          "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/model.safetensors",
+          "size": 3165580704,
+          "mtime_ns": 1793819858501847000
+        }
+      ],
+      "frontend_checkpoint": [
+        {
+          "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+          "size": 4576706117,
+          "mtime_ns": 1781505878115243000
+        }
+      ]
+    },
+    "seed": 42,
+    "device": "cuda",
+    "torch_version": "2.6.0+cu124",
+    "numpy_version": "2.5.2",
+    "prediction_sampling": {
+      "policy": "uniform-pcd-without-replacement-100k-v1",
+      "maximum": 100000,
+      "seed": 42
+    },
+    "dataset_mask_enabled": true,
+    "geometry_filter": {
+      "policy": "none"
+    }
+  },
+  "processing": {
+    "raw_points": 1537640,
+    "sequence": [
+      "sample_up_to_1m",
+      "camera_sim3_ransac_da3",
+      "uniform_pcd_sample_up_to_100k"
+    ],
+    "normal_fallback_points": 0,
+    "prediction_sampling": {
+      "policy": "uniform-pcd-without-replacement-100k-v1",
+      "maximum": 100000,
+      "seed": 42,
+      "input_points": 1000000,
+      "output_points": 100000
+    },
+    "geometry_filter": {
+      "policy": "none",
+      "ground_culling": false
+    },
+    "sampled_points": 100000,
+    "evaluated_points": 100000,
+    "seed": 42,
+    "bbox_crop": false,
+    "prediction_voxelization": false
+  },
+  "status": "ok",
+  "inference_seconds": 1.246088696992956,
+  "input_mask": {
+    "dataset_valid_pixels": 7716975,
+    "total_pixels": 9633792,
+    "dataset_mask_enabled": true
+  },
+  "input_frames": 49,
+  "raw_points": 1537640,
+  "evaluated_points": 100000,
+  "alignment": {
+    "scale": 748.4952106735187,
+    "rotation": [
+      [
+        0.3179096542861955,
+        0.19940461732050435,
+        -0.9269149099582416
+      ],
+      [
+        -0.8385008630007209,
+        0.515455513807934,
+        -0.176697243985426
+      ],
+      [
+        0.44254915485025864,
+        0.8333927116769512,
+        0.33106922790416493
+      ]
+    ],
+    "translation": [
+      607.3905239328187,
+      87.64851441338568,
+      408.7677997060109
+    ],
+    "method": "camera_center_sim3_ransac_da3",
+    "ransac": true,
+    "random_state": 42,
+    "ransac_max_iters": 10,
+    "sub_n": null,
+    "inlier_thresh": null,
+    "subset_rule": "max(3, ceil(frame_count / 2))",
+    "threshold_rule": "median_nearest_reference_center_after_initial_umeyama",
+    "icp_enabled": false,
+    "cropped_points": 0
+  },
+  "coloring": {
+    "source": "input_images_omega_depth",
+    "projected_points": 1523739,
+    "unseen_points": 13901,
+    "reference_views": 49,
+    "depth_relative_tolerance": 0.01,
+    "depth_diagonal_tolerance": 0.001,
+    "fallback_rgb": [
+      128,
+      128,
+      128
+    ]
+  },
+  "model_metadata": {
+    "checkpoint_architecture": {
+      "architecture": "geosurf_contract",
+      "format_version": 8,
+      "model": {
+        "use_grad_checkpoint": true,
+        "max_input_points": 10000000,
+        "point_encoder": {
+          "input_resolution": 1024,
+          "input_channels": 64,
+          "num_blocks_per_stage": 2
+        },
+        "bottleneck_resolution": 64,
+        "fp_pruner": {
+          "enabled": true
+        },
+        "transformer": {
+          "enabled": true,
+          "num_alter_blocks": 8,
+          "num_self_blocks": 8,
+          "num_register_tokens": 8,
+          "patch_token_source": "average",
+          "alter_order": [
+            "C",
+            "S"
+          ],
+          "channels": 1024,
+          "max_train_voxel_tokens": 16384,
+          "num_heads": 16,
+          "mlp_ratio": 4.0
+        },
+        "decoder": {
+          "num_blocks_per_stage": 2,
+          "output_resolution": 1024,
+          "output_channels": 64
+        },
+        "appearance_head": {
+          "enabled": true
+        },
+        "geometry_head": {
+          "enabled": true
+        },
+        "contraction_percentile": 0.5
+      },
+      "frontend": {
+        "name": "vggt_omega",
+        "patch_size": 16,
+        "embed_dim": 1024
+      }
+    },
+    "normalization": {
+      "kind": "coordinate_median_radial_median",
+      "center": [
+        [
+          0.010447356849908829,
+          0.04918695613741875,
+          0.9311689138412476
+        ]
+      ],
+      "effective_radius": [
+        0.18521805107593536
+      ]
+    },
+    "contraction_percentile": 0.5,
+    "input_policy": "all_dataset_valid_uncapped_v1",
+    "max_input_points": null,
+    "fp_pruner_enabled": true,
+    "image_policy": {
+      "long_side": 512,
+      "patch_size": 16,
+      "resize": "aspect_preserving",
+      "rgb_downsample": "area",
+      "rgb_upsample": "bicubic",
+      "mask_resize": "nearest",
+      "patch_fit": "center_crop",
+      "batch_fit": "center_crop_minimum",
+      "rgb_range": [
+        0,
+        1
+      ]
+    },
+    "input_counts": {
+      "dense_points": 9633792,
+      "eligible_points": 7716975,
+      "voxelizer_input_points": 7716975
+    },
+    "coordinate_mode": "contracted"
+  },
+  "ply_sha256": "e73c78dd4a1625e8d37e8a07d7c584778fbcb0ddaf63fdc997df63b181bbc379",
+  "gt_geometry_filter": {
+    "policy": "none",
+    "input_points": 337683,
+    "retained_points": 337683
+  },
+  "scores": {
+    "cd": 1.910188986872914,
+    "cd_percent": 0.2505500047826275,
+    "precision_0.25": 0.6894,
+    "recall_0.25": 0.5990055762357004,
+    "f1_0.25": 0.6410317556423648,
+    "precision_0.5": 0.9239,
+    "recall_0.5": 0.9113576934580657,
+    "f1_0.5": 0.9175859891363491,
+    "precision_1": 0.98835,
+    "recall_1": 0.9854952721931516,
+    "f1_1": 0.9869205717324218,
+    "nc": 0.7141242656325353
+  },
+  "baseline_scores": {
+    "cd": 4.299503723077748,
+    "cd_percent": 0.5639445551110406,
+    "precision_0.25": 0.21173,
+    "recall_0.25": 0.1305247821181404,
+    "f1_0.25": 0.1614937967957122,
+    "precision_0.5": 0.58387,
+    "recall_0.5": 0.46559347079953683,
+    "f1_0.5": 0.5180667405004937,
+    "precision_1": 0.9279,
+    "recall_1": 0.837199385222235,
+    "f1_1": 0.8802193418133268,
+    "nc": 0.7131974871273036
+  },
+  "registration": {
+    "transform": [
+      [
+        0.9999715538007653,
+        0.0008563794523533902,
+        -0.00749387773680136,
+        -2.537939113205105
+      ],
+      [
+        -0.0008886432125938702,
+        0.999990346865271,
+        -0.004303079073288691,
+        4.096190452673019
+      ],
+      [
+        0.007490120328887969,
+        0.004309616050641294,
+        0.9999626619564213,
+        1.959935944033188
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "stages": [
+      {
+        "max_correspondence_distance": 38.11991519477635,
+        "fitness": 1.0,
+        "inlier_rmse": 2.6181568635890655,
+        "correspondences": 100000
+      },
+      {
+        "max_correspondence_distance": 15.24796607791054,
+        "fitness": 0.99936,
+        "inlier_rmse": 2.5690723781422746,
+        "correspondences": 99936
+      },
+      {
+        "max_correspondence_distance": 7.62398303895527,
+        "fitness": 0.98571,
+        "inlier_rmse": 2.3280003264026936,
+        "correspondences": 98571
+      }
+    ],
+    "with_scaling": false,
+    "source_points": 100000,
+    "target_points": 100000
+  },
+  "aligned_cloud": {
+    "path": "aligned/dtu/scan23/vsurf_final.ply",
+    "ply_sha256": "e73c78dd4a1625e8d37e8a07d7c584778fbcb0ddaf63fdc997df63b181bbc379"
+  },
+  "evaluation_policy": "camera-sim3-rigid-icp-v1",
+  "evaluation_identity": "3d3807030a6eba2f7e26f42335d76618657208dc785b7712899b54bf60d29584",
+  "evaluation_provenance": {
+    "code": "cd78c39f36c2695ef68f73c9daf8d23b5dbb1c94978446f9169b57768d083e4b",
+    "prediction": "8c9d0fa321ca12492c580deb6a1d5d319a013910f671d32d747dc343c124c4bf",
+    "ply_sha256": "07babbd392a322d70367ab49d099a0f07e65fd067196f1e04bd7d2e9337b263c",
+    "scene": "03d287f2d48e4643d5748d1fa3c8db75ed4b8d889088753f6e667e7da99f8d4b",
+    "numpy_version": "2.5.2",
+    "scipy_version": "1.18.0",
+    "open3d_version": "0.19.0",
+    "evaluation_policy": "camera-sim3-rigid-icp-v1",
+    "icp": {
+      "seed": 42,
+      "sample_cap": 100000,
+      "correspondence_fractions": [
+        0.05,
+        0.02,
+        0.01
+      ],
+      "iterations": 50,
+      "relative_fitness": 1e-06,
+      "relative_rmse": 1e-06,
+      "with_scaling": false,
+      "target": "prepared_gt",
+      "metric_diagonal": "original_full_gt",
+      "crop": false,
+      "resample_evaluation": false
+    }
+  },
+  "method": "vsurf_final",
+  "scene": "scan23",
+  "saved_points": 100000,
+  "inputs_sha256": "d7a0f28dc2269d72b4d49ea80eabe4360dad298a6d9c54cd0f53e416f9257fc3",
+  "asset_source": "bench_viewer_ply",
+  "bench_source": {
+    "path": "viewers/bench/assets/points/vsurf_final/dtu/scan23/e73c78dd4a1625e8d37e8a07d7c584778fbcb0ddaf63fdc997df63b181bbc379-display100k-seed42-float32-v2.ply",
+    "ply_sha256": "e73c78dd4a1625e8d37e8a07d7c584778fbcb0ddaf63fdc997df63b181bbc379",
+    "catalog_sha256": "2662a91cb136c1bf8f2f103bbd091ac9d23629d3dfea0d66eb239ea9112367e0",
+    "record_sha256": "b17871531f304ed6c3be10737b43d2bc650e9e95267236d40ad2710760c82e7c"
+  }
+}

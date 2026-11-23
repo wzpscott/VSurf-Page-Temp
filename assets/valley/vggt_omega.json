@@ -1,0 +1,96 @@
+{
+  "display_camera_c2w": [
+    [
+      0.9999999830273462,
+      0.00012566688934174123,
+      -3.435818363771713e-05,
+      -4.7465178615273885e-05
+    ],
+    [
+      -0.00012566651039111303,
+      0.9999999840769158,
+      1.1446125727294788e-05,
+      -9.19668161874493e-05
+    ],
+    [
+      3.43596192492007e-05,
+      -1.1441807558985828e-05,
+      0.9999999986885015,
+      7.963681520186393e-05
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "raw_points": 2906112,
+  "saved_points": 100000,
+  "alignment": {
+    "method": "shared_omega_native",
+    "scale": 1.0,
+    "rotation": [
+      [
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "translation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "icp": false,
+    "reference_cameras": false
+  },
+  "coloring": {
+    "policy": "pixel_aligned_input_rgb"
+  },
+  "prediction_sampling": {
+    "maximum": 200000,
+    "seed": 42,
+    "replacement": false
+  },
+  "method": "vggt_omega",
+  "scene": "valley",
+  "model_metadata": {
+    "preprocessing": "balanced_512_patch16",
+    "architecture": "vggt_omega",
+    "normalization": "none",
+    "camera_pose_optimized": false,
+    "tto_steps": 0,
+    "weights": "checkpoint_native"
+  },
+  "checkpoint_identity": {
+    "checkpoint": [
+      {
+        "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+        "size": 4576706117,
+        "mtime_ns": 1781505878115243000
+      }
+    ]
+  },
+  "inputs_sha256": "5ecad0fdc901d276ed1b71846e0d1f0e05d821575a3d1e68b03172e391e0d635",
+  "ply_sha256": "1d0ce6dd04d1b195604d51a15ad2941d1a0d2af2a07660debccfad51dda91349",
+  "post_export_sampling": {
+    "source_points": 200000,
+    "source_ply_sha256": "3296c081958ad076d218d09a8ace75369dce41f3c6d898d863711451f2bda5d1",
+    "maximum": 100000,
+    "seed": 42,
+    "replacement": false,
+    "algorithm": "numpy.random.default_rng.choice",
+    "preserve_source_order": true
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "identity": "7f6066a8c981720a85d79d131dbc93be7c7bca82c6e4a660c3049b61b57b99b5",
+  "provenance": {
+    "protocol": "surface-v1",
+    "code": "5d9494b36810c33bb79155a603964f528d3e5a6bd0cdaf05d6a4647472336a6d",
+    "alignment_policy": {
+      "method": "camera_center_sim3_ransac_da3",
+      "ransac": true,
+      "random_state": 42,
+      "ransac_max_iters": 10,
+      "sub_n": null,
+      "inlier_thresh": null,
+      "subset_rule": "max(3, ceil(frame_count / 2))",
+      "threshold_rule": "median_nearest_reference_center_after_initial_umeyama",
+      "implementation_sha256": {
+        "depth_anything_3/utils/pose_align.py": "3e58caa51c499b13650f24049f68b7f659e0f1ce07b9bec24df1c23aaf920428",
+        "depth_anything_3/utils/geometry.py": "3d67391f2eeed57ee5d07387947dea7a5d99fc0ce0a63c6890485183c851c29b"
+      },
+      "evo_version": "1.37.0"
+    },
+    "scene": "6191c78dfe7607f4e69c7092fdf68c4ce2aeddb637dd25f5028017a9de10d785",
+    "config": {
+      "checkpoint": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
+      "raw_points": true
+    },
+    "checkpoints": {
+      "checkpoint": [
+        {
+          "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+          "size": 4576706117,
+          "mtime_ns": 1781505878115243000
+        }
+      ]
+    },
+    "seed": 42,
+    "device": "cuda",
+    "torch_version": "2.6.0+cu124",
+    "numpy_version": "2.5.2",
+    "prediction_sampling": {
+      "policy": "uniform-pcd-without-replacement-100k-v1",
+      "maximum": 100000,
+      "seed": 42
+    },
+    "dataset_mask_enabled": true,
+    "geometry_filter": {
+      "policy": "none"
+    }
+  },
+  "processing": {
+    "raw_points": 5176566,
+    "sequence": [
+      "sample_up_to_1m",
+      "camera_sim3_ransac_da3",
+      "uniform_pcd_sample_up_to_100k"
+    ],
+    "normal_fallback_points": 0,
+    "prediction_sampling": {
+      "policy": "uniform-pcd-without-replacement-100k-v1",
+      "maximum": 100000,
+      "seed": 42,
+      "input_points": 1000000,
+      "output_points": 100000
+    },
+    "geometry_filter": {
+      "policy": "none",
+      "ground_culling": false
+    },
+    "sampled_points": 100000,
+    "evaluated_points": 100000,
+    "seed": 42,
+    "bbox_crop": false,
+    "prediction_voxelization": false
+  },
+  "status": "ok",
+  "inference_seconds": 0.8544033489888534,
+  "input_mask": {
+    "dataset_valid_pixels": 5176566,
+    "total_pixels": 9633792,
+    "dataset_mask_enabled": true
+  },
+  "input_frames": 49,
+  "raw_points": 5176566,
+  "evaluated_points": 100000,
+  "alignment": {
+    "scale": 703.5806925799966,
+    "rotation": [
+      [
+        0.31463756737245346,
+        0.19561174367204406,
+        -0.9288375783394681
+      ],
+      [
+        -0.8410136263638913,
+        0.511158020165144,
+        -0.17723870539785583
+      ],
+      [
+        0.44011280538993885,
+        0.8369310151729555,
+        0.3253416579126697
+      ]
+    ],
+    "translation": [
+      609.4794758751137,
+      88.75978470636507,
+      410.45639896343016
+    ],
+    "method": "camera_center_sim3_ransac_da3",
+    "ransac": true,
+    "random_state": 42,
+    "ransac_max_iters": 10,
+    "sub_n": null,
+    "inlier_thresh": null,
+    "subset_rule": "max(3, ceil(frame_count / 2))",
+    "threshold_rule": "median_nearest_reference_center_after_initial_umeyama",
+    "icp_enabled": false,
+    "cropped_points": 0
+  },
+  "coloring": {
+    "source": "pixel_aligned_input_images",
+    "unseen_points": 0
+  },
+  "model_metadata": {
+    "image_policy": {
+      "long_side": 512,
+      "patch_size": 16,
+      "resize": "aspect_preserving",
+      "rgb_downsample": "area",
+      "rgb_upsample": "bicubic",
+      "mask_resize": "nearest",
+      "patch_fit": "center_crop",
+      "batch_fit": "center_crop_minimum",
+      "rgb_range": [
+        0,
+        1
+      ]
+    }
+  },
+  "ply_sha256": "a039ea4ecfe1a562d0aebd53bfcbe5c99ef162886a74bfa3a986178ad055ea1a",
+  "gt_geometry_filter": {
+    "policy": "none",
+    "input_points": 298331,
+    "retained_points": 298331
+  },
+  "scores": {
+    "cd": 2.0040558714180543,
+    "cd_percent": 0.3277285733910626,
+    "precision_0.25": 0.51357,
+    "recall_0.25": 0.5818336009331917,
+    "f1_0.25": 0.5455747674678014,
+    "precision_0.5": 0.79711,
+    "recall_0.5": 0.8412434510660978,
+    "f1_0.5": 0.8185822990063015,
+    "precision_1": 0.98336,
+    "recall_1": 0.9568365339170251,
+    "f1_1": 0.9699169723729495,
+    "nc": 0.8244894866844563
+  },
+  "baseline_scores": {
+    "cd": 4.097184516411549,
+    "cd_percent": 0.6700234537540003,
+    "precision_0.25": 0.13611,
+    "recall_0.25": 0.21418826739427013,
+    "f1_0.25": 0.16644766924993915,
+    "precision_0.5": 0.30728,
+    "recall_0.5": 0.5076643057543467,
+    "f1_0.5": 0.3828361932728643,
+    "precision_1": 0.72909,
+    "recall_1": 0.859153088348177,
+    "f1_1": 0.7887960347874053,
+    "nc": 0.8154826866352696
+  },
+  "registration": {
+    "transform": [
+      [
+        0.9999464008309435,
+        0.009148513997767426,
+        -0.004847696042209239,
+        -2.6083824612085698
+      ],
+      [
+        -0.009160663311621112,
+        0.9999549401730884,
+        -0.002489954044749319,
+        5.578565360256434
+      ],
+      [
+        0.004824698226426056,
+        0.002534228696551369,
+        0.9999851498757205,
+        3.0217969631938155
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "stages": [
+      {
+        "max_correspondence_distance": 30.574933559832022,
+        "fitness": 0.99997,
+        "inlier_rmse": 2.600552395274421,
+        "correspondences": 99997
+      },
+      {
+        "max_correspondence_distance": 12.229973423932808,
+        "fitness": 0.99968,
+        "inlier_rmse": 2.5821494356320325,
+        "correspondences": 99968
+      },
+      {
+        "max_correspondence_distance": 6.114986711966404,
+        "fitness": 0.98066,
+        "inlier_rmse": 2.4091377882579295,
+        "correspondences": 98066
+      }
+    ],
+    "with_scaling": false,
+    "source_points": 100000,
+    "target_points": 100000
+  },
+  "aligned_cloud": {
+    "path": "aligned/dtu/scan114/vggt_omega.ply",
+    "ply_sha256": "a039ea4ecfe1a562d0aebd53bfcbe5c99ef162886a74bfa3a986178ad055ea1a"
+  },
+  "evaluation_policy": "camera-sim3-rigid-icp-v1",
+  "evaluation_identity": "73a74910f7db4da4847c26db7d34482fcee18c7d60d97be36e58d1e3221b4d13",
+  "evaluation_provenance": {
+    "code": "cd78c39f36c2695ef68f73c9daf8d23b5dbb1c94978446f9169b57768d083e4b",
+    "prediction": "7f6066a8c981720a85d79d131dbc93be7c7bca82c6e4a660c3049b61b57b99b5",
+    "ply_sha256": "9a993302bcdea903848e73a06a2c33fdd50ae1cfe78152284534d4707bf0790d",
+    "scene": "6191c78dfe7607f4e69c7092fdf68c4ce2aeddb637dd25f5028017a9de10d785",
+    "numpy_version": "2.5.2",
+    "scipy_version": "1.18.0",
+    "open3d_version": "0.19.0",
+    "evaluation_policy": "camera-sim3-rigid-icp-v1",
+    "icp": {
+      "seed": 42,
+      "sample_cap": 100000,
+      "correspondence_fractions": [
+        0.05,
+        0.02,
+        0.01
+      ],
+      "iterations": 50,
+      "relative_fitness": 1e-06,
+      "relative_rmse": 1e-06,
+      "with_scaling": false,
+      "target": "prepared_gt",
+      "metric_diagonal": "original_full_gt",
+      "crop": false,
+      "resample_evaluation": false
+    }
+  },
+  "method": "vggt_omega",
+  "scene": "scan114",
+  "saved_points": 100000,
+  "inputs_sha256": "c90469d359135712874aab0e88129c48e123d30db5095b0c7756ea58c0f49666",
+  "asset_source": "bench_viewer_ply",
+  "bench_source": {
+    "path": "viewers/bench/assets/points/vggt_omega/dtu/scan114/a039ea4ecfe1a562d0aebd53bfcbe5c99ef162886a74bfa3a986178ad055ea1a-display100k-seed42-float32-v2.ply",
+    "ply_sha256": "a039ea4ecfe1a562d0aebd53bfcbe5c99ef162886a74bfa3a986178ad055ea1a",
+    "catalog_sha256": "2662a91cb136c1bf8f2f103bbd091ac9d23629d3dfea0d66eb239ea9112367e0",
+    "record_sha256": "79cfa8215eddc2979fce85bc5defea19e4ba92053056a6e69a49d3a0d2f7903a"
+  }
+}
