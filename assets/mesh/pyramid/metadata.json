@@ -1,0 +1,143 @@
+{
+  "scene": "pyramid",
+  "method": "screened_poisson",
+  "depth": 10,
+  "density_quantile": 0.02,
+  "density_threshold": 7.916407861709595,
+  "max_triangles": 500000,
+  "raw_vertices": 662472,
+  "position_dtype": "float32",
+  "normal_dtype": "float32",
+  "color_dtype": "uint8",
+  "index_dtype": "uint32",
+  "trimmed_vertices": 649221,
+  "vertices": 251116,
+  "triangles": 500000,
+  "source_points": 1043350,
+  "inputs_sha256": "48b741d66aa5810c844f151e7789403db63810b85c575f880ddd278c8d18c922",
+  "source_prediction": {
+    "display_camera_c2w": [
+      [
+        0.9999998149465797,
+        0.0003368942296367995,
+        0.0005567533362928124,
+        -0.00015376310131237243
+      ],
+      [
+        -0.00033685634967510486,
+        0.9999999414856251,
+        -6.816763416858519e-05,
+        2.470063117095471e-05
+      ],
+      [
+        -0.0005567762090688743,
+        6.79800731898274e-05,
+        0.9999998641928545,
+        7.5660407058779e-05
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "raw_points": 1043350,
+    "saved_points": 1043350,
+    "alignment": {
+      "method": "shared_omega_native",
+      "scale": 1.0,
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "icp": false,
+      "reference_cameras": false
+    },
+    "coloring": {
+      "policy": "predicted_camera_bilinear_rgb_zbuffer_1percent",
+      "fallback_source": "model_predicted_rgb"
+    },
+    "prediction_sampling": {
+      "maximum": 1043350,
+      "seed": 42,
+      "replacement": false
+    },
+    "inputs_sha256": "48b741d66aa5810c844f151e7789403db63810b85c575f880ddd278c8d18c922",
+    "ply_sha256": "0c029e4a2567cae86dda250c78757786ca861401d1449c9e6b1b6461900a1622",
+    "checkpoint_identity": {
+      "checkpoint": [
+        {
+          "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/architecture.yaml",
+          "size": 756,
+          "mtime_ns": 1793819872256854000
+        },
+        {
+          "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/model.safetensors",
+          "size": 3165580704,
+          "mtime_ns": 1793819858501847000
+        }
+      ],
+      "frontend_checkpoint": [
+        {
+          "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+          "size": 4576706117,
+          "mtime_ns": 1781505878115243000
+        }
+      ]
+    },
+    "model_metadata": {
+      "preprocessing": "balanced_512_patch16",
+      "architecture": "vsurf_final",
+      "normalization": {
+        "mode": "median_point_radius",
+        "center": [
+          [
+            -0.011130740866065025,
+            0.018331270664930344,
+            0.8037360310554504
+          ]
+        ],
+        "radius": [
+          0.19482393562793732
+        ],
+        "bounds": null
+      },
+      "camera_pose_optimized": false,
+      "tto_steps": 0,
+      "weights": "checkpoint_native",
+      "foreground_mask_enabled": false,
+      "confidence_multiplier": 1.0,
+      "point_color_strategy": "projective_with_predicted_fallback",
+      "tto": {
+        "preset": "off"
+      }
+    },
+    "timing": {
+      "encode_seconds": 0.4204000800000358,
+      "reconstruction_seconds": 0.4984206409990293,
+      "inference_seconds": 0.9188207209990651
+    }
+  },
+  "ply_sha256": "6367a086700b8ee3cfe97077421e1fe0d393a9729fa8f3d45ba0eea4ea033423",
+  "open3d_version": "0.19.0",
+  "elapsed_seconds": 21.819468429001063
+}

@@ -58,3 +58,22 @@ button:hover{background:#eaf2ff;border-color:#a9c4e7}
 /* Separate the paper sections without changing the viewer cards. */
 main > section + section{border-top:1px solid #ccd9e9;padding-top:44px}
 @media(max-width:800px){main > section + section{padding-top:32px}}
+
+#mesh-reconstruction{margin-top:56px}
+.mesh-panels{display:grid;grid-template-columns:repeat(3,minmax(260px,1fr));gap:16px;min-height:260px}
+.mesh-picker{grid-template-columns:repeat(5,minmax(0,150px));justify-content:center}
+.mesh-status{margin:12px 0 0;color:#60738b;font-size:.875rem;line-height:1.5}
+.mesh-status:empty{display:none}
+@media(max-width:800px){.mesh-panels{gap:12px}}
+
+
+/* One row with a visible horizontal scrollbar, keyboard focus, and touch scrolling. */
+.comparison-picker{display:flex;flex-wrap:nowrap;overflow-x:scroll;gap:12px;padding:6px 4px 14px;scrollbar-width:auto;scrollbar-color:#8ba9cb #e4edf8;scroll-snap-type:x proximity}
+.comparison-picker .scene-button{flex:0 0 150px;scroll-snap-align:start}
+.comparison-picker::-webkit-scrollbar{height:12px}
+.comparison-picker::-webkit-scrollbar-track{background:#e4edf8;border-radius:6px}
+.comparison-picker::-webkit-scrollbar-thumb{background:#8ba9cb;border-radius:6px;border:2px solid #e4edf8}
+
+.demo-video{max-width:1024px;margin:0 auto 56px}.demo-video video{display:block;width:100%;height:auto;aspect-ratio:3380/1440;border-radius:10px;background:#000}
+
+.mesh-panels .panel,.mesh-panels .viewport,.mesh-panels .viewer-message{background:#fff}

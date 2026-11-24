@@ -1,10 +1,25 @@
 {
   "source": "viewers/pipeline/assets/counter",
   "sha256": {
+    "input.ply": "4b9aa96d17587029567e1b303b657500b1f161d39ed43ec575d1cd3e28e577d1",
+    "voxelized.ply": "f3875fc4ecddd4d842df85c967e6d2a936c7b69170077d75173e2879824cdd06",
+    "pruner.ply": "ef681d9406a8e91d74a66040da71348590187bb2fc8abc9ca36a8cd30a6f20dc",
+    "output.ply": "ae917884de5c50169f8c8f47013b0f2930c6ade5e15db92d78e0e2f839f5b603",
+    "metadata.json": "9ace2c0f59afe9a46f979ab71cba63f7cd53a22474118c796acb5b73672134b5"
+  },
+  "source_sha256": {
     "input.ply": "5844063046349a68a6882b636e60ff0daf444afa66961fe100290302b0115d69",
     "voxelized.ply": "375948e65284407f5e7d64b61e6a7088955acb99fb0461b53fad8fef73c7c548",
     "pruner.ply": "20ebf985d3ecc8760de8530faa627128bbebd38b7d146ea1d379df57ac60ae98",
     "output.ply": "63105489385881d4c5eb742d8324256dcd616b7b08d99988bb93055d2a3c6e0c",
     "metadata.json": "9ace2c0f59afe9a46f979ab71cba63f7cd53a22474118c796acb5b73672134b5"
+  },
+  "conversion": {
+    "positions": "float64_to_float32",
+    "normals": "float64_to_float32_where_present",
+    "colors": "unchanged_uint8",
+    "point_order": "unchanged",
+    "point_counts": "unchanged",
+    "format": "binary_little_endian_ply"
   }
 }
