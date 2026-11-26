@@ -1,0 +1,20 @@
+{
+  "input_resolution": 1024,
+  "bottleneck_resolution": 64,
+  "output_resolution": 1024,
+  "scene": "scan75",
+  "fp_pruner_threshold": 0.5,
+  "method": "screened_poisson",
+  "depth": 10,
+  "density_quantile": 0.02,
+  "max_triangles": 500000,
+  "position_dtype": "float32",
+  "normal_dtype": "float32",
+  "vertices": 251229,
+  "triangles": 500000,
+  "input_frames": 49,
+  "max_input_points": 5000000,
+  "raw_points": 1210926,
+  "inputs_sha256": "c1532b7ddb0697a3e481d0e79ae225be7365224d4d1e1bdfc38de9a48b3c6d96",
+  "ply_sha256": "1ddc78c45f6cce70b33e3d72c0cf12c15d91c411ec4075798fa15a4fa904d105"
+}

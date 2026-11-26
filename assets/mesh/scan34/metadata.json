@@ -1,0 +1,15 @@
+{
+  "scene": "scan34",
+  "method": "screened_poisson",
+  "depth": 10,
+  "density_quantile": 0.02,
+  "density_threshold": 6.2178733348846436,
+  "max_triangles": 500000,
+  "vertices": 250678,
+  "triangles": 499999,
+  "source_points": 100000,
+  "source_points_path": "viewers/bench/assets/points/vsurf_final/dtu/scan34/4a19eb70338f151781b49ab13356d9179de0181555a6b2eb26ce4fd913869b04-display100k-seed42-float32-v2.ply",
+  "source_sha256": "4a19eb70338f151781b49ab13356d9179de0181555a6b2eb26ce4fd913869b04",
+  "position_dtype": "float32",
+  "normal_dtype": "float32"
+}

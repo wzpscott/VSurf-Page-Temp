@@ -1,0 +1,19 @@
+{
+  "input_resolution": 1024,
+  "bottleneck_resolution": 64,
+  "output_resolution": 1024,
+  "scene": "colosseum",
+  "method": "screened_poisson",
+  "depth": 10,
+  "density_quantile": 0.02,
+  "max_triangles": 500000,
+  "position_dtype": "float32",
+  "normal_dtype": "float32",
+  "vertices": 250818,
+  "triangles": 499991,
+  "input_frames": 16,
+  "max_input_points": 1000000,
+  "raw_points": 865822,
+  "inputs_sha256": "52c418c7fd1c3f4aadf49007a14412298a4cdf650cc5459f26dadf80bbc284f1",
+  "ply_sha256": "1becb5e4e71b48ee66dd12f636fe7b481cd3703aa15ed49c28f681b53baba9c9"
+}

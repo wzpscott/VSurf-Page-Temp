@@ -1,0 +1,81 @@
+:root{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#182a43;background:#f6f9fd;font-synthesis:none;color-scheme:light}
+*{box-sizing:border-box}body{margin:0}main{max-width:1104px;margin:auto;padding:64px 40px 48px}.paper-title{text-align:center;margin:0 auto 72px}h1{font-size:clamp(1.8rem,3vw,2.8rem);line-height:1.24;letter-spacing:-.035em;font-weight:650;margin:0}h1 span{color:#2364cb;font-weight:800}h2{font-size:1.65rem;letter-spacing:-.025em;margin:0;font-weight:650}.section-heading{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:24px}.section-heading p{margin:0;color:#60738b;font-size:.875rem;line-height:1.5}.toolbar{display:flex;align-items:center;gap:22px;flex-wrap:wrap;margin-top:12px}button{font:inherit;cursor:pointer;color:inherit;background:#fff;border:1px solid #d7dfe9;border-radius:7px;padding:9px 16px;font-size:.875rem}button:hover{background:#f0f5fd}button:focus-visible,input:focus-visible{outline:3px solid #3677df;outline-offset:4px}.appearance{display:flex;background:#f1f4f8;border-radius:8px;padding:3px;gap:3px}.appearance button{border:0;background:transparent;min-width:88px}.appearance button[aria-pressed=true]{background:#fff;color:#205bb7;box-shadow:0 1px 4px #243e611c}.size-control{display:flex;align-items:center;gap:10px;font-size:.875rem;color:#4c607a}.size-control input{width:100px;accent-color:#2364cb}.size-control output{width:45px;font-variant-numeric:tabular-nums}#reset{margin-left:auto}.viewer-scroll{overflow-x:auto;padding-bottom:2px}#panels{display:grid;grid-template-columns:repeat(3,minmax(260px,1fr));gap:16px}.panel{overflow:hidden;border:1px solid #dce3eb;border-radius:10px;background:#f4f6fa}.panel header{padding:14px 16px;background:white;display:flex;align-items:baseline;justify-content:space-between;gap:6px}.panel h3{margin:0;font-size:1rem;font-weight:650}.panel:first-child{border-color:#9dbce9}.panel:first-child h3{color:#205bb7}.viewport{aspect-ratio:4/3;position:relative}.viewport canvas{display:block;width:100%;height:100%;touch-action:none}.viewer-message{position:absolute;inset:0;display:grid;place-items:center;padding:24px;text-align:center;background:#f4f6fae8;font-size:.875rem;color:#4c607a;pointer-events:none}.viewer-message[hidden]{display:none}.scene-picker{margin-top:16px;display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px}.scene-button{padding:2px;border-radius:12px;width:100%;min-width:0;overflow:hidden;border:1px solid #dce3ec;background:#fff;box-shadow:0 2px 6px #1823320a,0 6px 16px #18233206;transition:border-color .18s,box-shadow .18s,transform .18s}.scene-button img{display:block;width:100%;height:auto;aspect-ratio:5/3;object-fit:cover;border-radius:9px}.scene-button[aria-pressed=true]{border-color:#2364cb;background:#f0f6ff;box-shadow:0 0 0 2px #2364cb26,0 4px 12px #2364cb14}
+@media(max-width:800px){main{padding:36px 18px}.paper-title{margin-bottom:44px}.wide-break{display:none}.section-heading{display:block}.section-heading p{margin-top:8px}.toolbar{gap:12px}#panels{gap:12px}.size-control input{width:75px}}
+
+section[aria-labelledby="comparison-title"]{max-width:1024px;margin-inline:auto}
+.abstract{max-width:1024px;margin:0 auto 56px}
+.abstract p{margin:0;color:#4c607a;font-size:1rem;line-height:1.7}
+.method{max-width:1024px;margin:0 auto 56px}
+.method figure{margin:0}
+.method img{display:block;width:100%;height:auto;margin:0 auto 20px}
+.method-description{margin:0 0 24px;color:#4c607a;font-size:1rem;line-height:1.7}
+.section-heading{justify-content:center;text-align:center;margin-bottom:18px}
+.comparison-intro{width:100%;margin:0 0 28px;color:#4c607a;font-size:1rem;line-height:1.7}
+.comparison-intro p{margin:0}
+#status{margin:12px 0 0;color:#60738b;font-size:.875rem;line-height:1.5}
+#status:empty{display:none}
+
+@media(hover:hover){.scene-button:hover{transform:translateY(-2px);border-color:#a7bddb;background:#fff;box-shadow:0 5px 16px #18233214}.scene-button[aria-pressed=true]:hover{border-color:#2364cb;background:#f0f6ff}}
+@media(prefers-reduced-motion:reduce){.scene-button{transition:none}.scene-button:hover{transform:none}}
+
+#method-pipeline{margin:0 0 24px}
+.pipeline-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:12px}
+.pipeline-toolbar button:disabled,.pipeline-toolbar input:disabled{opacity:.5;cursor:default}
+.pipeline-scroll{overflow-x:auto;padding-bottom:2px}
+.pipeline-panels{display:grid;grid-template-columns:repeat(5,minmax(190px,1fr));gap:12px;min-height:210px}
+.pipeline-panel{overflow:hidden;border:1px solid #dce3eb;border-radius:10px;background:#fff}
+.pipeline-panel h3{display:flex;align-items:center;justify-content:center;min-height:60px;margin:0;padding:10px 8px;text-align:center;font-size:.875rem;line-height:1.4;font-weight:650}
+.pipeline-hint,.pipeline-status{margin:10px 0 0;color:#60738b;font-size:.875rem;line-height:1.5}
+.pipeline-status:empty{display:none}
+
+.access-notice{margin:0 0 32px;padding:14px 18px;border:1px solid #dce5f2;border-radius:10px;background:#f5f8fd;color:#4c607a;font-size:.875rem;line-height:1.6}
+.access-notice p{margin:0}
+.access-notice code{overflow-wrap:anywhere;font-size:.95em}
+.access-notice a{color:#205bb7}
+
+/* Cool blue research-page theme. Geometry and figures retain neutral backgrounds. */
+body{background:#f6f9fd}
+.paper-title{position:relative;padding-bottom:28px}
+.paper-brand{white-space:nowrap}
+.paper-icon{width:1.1em;height:1.1em;vertical-align:-.16em;margin-right:.18em}
+.paper-title::after{content:"";position:absolute;bottom:0;left:calc(50% - 42px);width:84px;height:3px;border-radius:3px;background:linear-gradient(90deg,#2563eb,#06b6d4)}
+h1{color:#162b49;letter-spacing:-.04em}
+h1 span{color:#1762da;background:linear-gradient(115deg,#2563eb,#0891b2);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+h2{color:#1e3555}
+.section-heading{margin-bottom:22px}
+.access-notice{border-color:#d4e3f3;border-left:3px solid #3b82f6;background:#f0f6fccc;box-shadow:0 4px 16px #1b437305}
+.access-notice code{padding:2px 5px;border-radius:4px;background:#e4edf8;color:#294a73}
+.access-notice a{color:#1d5dc4;text-underline-offset:3px}
+.toolbar,.pipeline-toolbar{padding:10px 12px;border:1px solid #dce6f2;border-radius:12px;background:#f3f7fccf}
+button{border-color:#ccdbea;border-radius:8px;background:#fff;box-shadow:0 1px 2px #1b437308}
+button:hover{background:#eaf2ff;border-color:#a9c4e7}
+.appearance{background:#e3ebf6}
+.appearance button[aria-pressed=true]{background:linear-gradient(120deg,#245fce,#167fa5);color:#fff;box-shadow:0 2px 5px #235eb72b}
+.size-control input{accent-color:#2563eb}
+#reset,.pipeline-toolbar button{color:#2357a0;font-weight:550}
+.scene-button{border-color:#d3dfef;box-shadow:0 2px 8px #173a670c}
+.scene-button[aria-pressed=true]{border-color:#2b76d9;background:#e7f3ff;box-shadow:0 0 0 2px #3b82f62b,0 4px 14px #2563eb16}
+@media(max-width:800px){.toolbar,.pipeline-toolbar{padding:8px;gap:10px}.appearance button{min-width:70px}}
+
+/* Separate the paper sections without changing the viewer cards. */
+main > section + section{border-top:1px solid #ccd9e9;padding-top:44px}
+@media(max-width:800px){main > section + section{padding-top:32px}}
+
+#mesh-reconstruction{margin-top:56px}
+.mesh-panels{display:grid;grid-template-columns:repeat(3,minmax(260px,1fr));gap:16px;min-height:260px}
+.mesh-picker{grid-template-columns:repeat(6,minmax(0,150px));justify-content:center}
+.mesh-status{margin:12px 0 0;color:#60738b;font-size:.875rem;line-height:1.5}
+.mesh-status:empty{display:none}
+@media(max-width:800px){.mesh-panels{gap:12px}}
+
+
+/* One row with a visible horizontal scrollbar, keyboard focus, and touch scrolling. */
+.comparison-picker{display:flex;flex-wrap:nowrap;overflow-x:scroll;gap:12px;padding:6px 4px 14px;scrollbar-width:auto;scrollbar-color:#8ba9cb #e4edf8;scroll-snap-type:x proximity}
+.comparison-picker .scene-button{flex:0 0 150px;scroll-snap-align:start}
+.comparison-picker::-webkit-scrollbar{height:12px}
+.comparison-picker::-webkit-scrollbar-track{background:#e4edf8;border-radius:6px}
+.comparison-picker::-webkit-scrollbar-thumb{background:#8ba9cb;border-radius:6px;border:2px solid #e4edf8}
+
+.demo-video{max-width:1024px;margin:0 auto 56px}.demo-video video{display:block;width:100%;height:auto;aspect-ratio:3380/1440;border-radius:10px;background:#000}
+
+.mesh-panels .panel,.mesh-panels .viewport,.mesh-panels .viewer-message{background:#fff}

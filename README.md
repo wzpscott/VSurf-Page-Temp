@@ -13,12 +13,33 @@ Open <http://localhost:8000>, forwarding the port if needed. Copy the entire `de
 folder to deploy it elsewhere; browser scripts, Three.js, and assets are local.
 Use HTTP/HTTPS rather than opening `index.html` through `file://`.
 
+## File layout
+
+```text
+demo/
+├── index.html          # Page entry point
+├── css/style.css       # Page styles
+├── js/                 # Comparison, pipeline, and mesh viewers
+│   └── lib/            # Shared browser rendering and asset helpers
+├── assets/
+│   ├── images/         # Framework figure and VSurf icon
+│   ├── media/          # Demonstration video
+│   ├── mesh/           # Reconstructed meshes by scene
+│   ├── pipeline/       # Method-preview geometry
+│   └── <scene>/        # Comparison points, thumbnails, and metadata
+├── scripts/            # Offline Python generation and validation tools
+└── vendor/             # Bundled Three.js runtime and license
+```
+
+Serve `demo/` as before. Browser assets are local; `scripts/` is only needed
+to regenerate or validate data from the repository. Run these tools as modules
+from the repository root, for example `python -m demo.scripts.validate`.
+
 ## Qualitative Comparison
 
-Eight scenes appear in this order: Green Room, Staircase, DTU 114, DTU 23,
-Garden, Pyramid, Valley, and Rubble. Select scenes from the single-row thumbnail
+The point-comparison picker lists Valley, Staircase, ScanNet++ 1ada7a0617, Rubble, Pyramid, Garden, DTU scan23, and DTU scan114 in reverse alphabetical order. Select scenes from the single-row thumbnail
 strip using its horizontal scrollbar, touch scrolling, or keyboard focus.
-Counter, ScanNet++, Stadium, and 7Scenes Office are omitted from this comparison.
+Counter, Stadium, and 7Scenes Office are omitted from this comparison.
 
 The VSurf, VGGT-omega, and Surflo panels share orbit, zoom, and pan controls.
 RGB / Normals switches their appearance; Point size and Reset view affect only
@@ -37,42 +58,40 @@ original and converted hashes. The Method assets total approximately 15.8 MB;
 
 ## Mesh Reconstruction
 
-Five scenes appear in this order: DTU scan114, Staircase, Green Room, Pyramid, and Stadium.
-DTU scan114 is selected initially. Colored Mesh, Surface, and Normals use synchronized
-cameras and white backgrounds. Selecting a scene restores its starting viewpoint. There are no scene
+The mesh picker lists scenes alphabetically by label: BlendedMVS 5a3b9731e24cd76dad1a5f1b, Colosseum, DTU scan34, DTU scan75, Hypersim ai_001_001, and N-RGBD Green Room.
+Green Room uses the mesh, input cameras, and thumbnail from `demo_full`. Hypersim uses 64 evenly spaced images and bottleneck resolution 128.
+Both viewers initially select the first thumbnail in their own picker. Colored Mesh, Surface, and Normals use synchronized
+cameras and white backgrounds. Selecting a scene restores the same mesh-centered framing as `demo_full`, using the saved display rotation or the first input camera’s orientation and a 45° vertical field of view. There are no scene
 counts, Reset view buttons, or Save figure buttons in this section.
 
-Meshes are capped at 500,000 triangles. Green Room and Pyramid use full VSurf
-predictions, Poisson depth 10, and remove the lowest 2% density vertices.
-Stadium, scan114, and Staircase are copied from `demo_video/assets/`:
+Meshes are capped at 500,000 triangles. The picker displays six thumbnails per row.
 
-- Stadium: bottleneck resolution 128, output resolution 2048, 2M sampled points,
-  Poisson depth 10, lowest 3% density vertices removed.
-- scan114: 100k sampled points, Poisson depth 9, lowest 3% removed.
-- Staircase: full VSurf prediction, Poisson depth 10, lowest 1% removed.
+Colosseum uses 16 views from the VGGT Colosseum sequence. Regenerate it with `python -m demo.scripts.indoor_mesh --scenes colosseum`.
+
+BlendedMVS `5a3b9731e24cd76dad1a5f1b` uses 100 evenly spaced views from its 394 valid frames, with foreground masks and bottleneck resolution 128. Regenerate it with `python -m demo.scripts.indoor_mesh --scenes 5a3b9731e24cd76dad1a5f1b`.
+
+New Poisson exports use up to five million oriented points.
+
+Scan75 uses all 49 RGB images from its scene directory under `data/bench/vsurf/surface_v3/dtu` with their supplied foreground masks at bottleneck resolution 64 and pruner probability threshold 0.5. Regenerate it with `python -m demo.scripts.indoor_mesh --scenes scan75`.
+
+Scan34 uses the published 100k-point VSurf Final prediction, Poisson depth 10, and 2% density trimming. Regenerate it with `python -m demo.scripts.reconstruct_mesh --scenes scan34 --output-root demo/assets/mesh`.
 
 PLY positions and normals are float32, colors uint8, and triangle indices uint32.
 Metadata retains settings and hashes. Mesh assets are packaged within `demo/`.
-
-Stadium remains in this section, so its input manifest and thumbnail are retained;
-its comparison point clouds are omitted. ScanNet++ is omitted from both sections.
 
 ## Regeneration and checks
 
 Comparison generation and validation default to the eight included scenes:
 
 ```bash
-python -m demo.generate
-python -m demo.validate
-python -m demo.reconstruct_mesh --reuse-points --output-root outputs/demo_mesh/assets
+python -m demo.scripts.generate
+python -m demo.scripts.validate
+python -m demo.scripts.reconstruct_mesh --reuse-points --output-root outputs/demo_mesh/assets
 ```
 
 Run inference/reconstruction in the `mesh3r` environment on an allocation. Use
 `--scenes` to select scenes and `--output-root` to stage generation. Mesh generation
-defaults to Green Room, Pyramid, and the original Stadium configuration.
-For the updated Stadium, scan114, and Staircase meshes, use
-`python -m demo_video.reconstruct_mesh --scene <scene>` instead. Copy validated `mesh.ply` and
-`metadata.json` into `demo/assets/mesh/<scene>/`. The complete model, sampling,
+defaults to Scan34. Copy validated `mesh.ply` and `metadata.json` into `demo/assets/mesh/<scene>/`. The complete model, sampling,
 alignment, and coloring conventions are documented in `demo_full/README.md`.
 
 ```bash

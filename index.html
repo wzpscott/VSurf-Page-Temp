@@ -5,19 +5,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Interactive visual surface comparisons of VSurf, VGGT-omega, and unguided Surflo.">
   <title>VSurf: Feed-forward Visual Surface Learning with Structured Scene States</title>
-  <link rel="stylesheet" href="style.css?v=mesh-white-v1">
+  <link rel="icon" type="image/svg+xml" sizes="any" href="assets/images/vsurf-icon.svg">
+  <link rel="stylesheet" href="css/style.css?v=vsurf-icon-v1">
   <script type="importmap">{"imports":{"three":"./vendor/three/build/three.module.js","three/addons/":"./vendor/three/examples/jsm/"}}</script>
-  <script type="module" src="viewer.js?v=compact-v2"></script>
-  <script type="module" src="pipeline.js?v=http-v4"></script>
-  <script type="module" src="mesh.js?v=mesh-white-v1"></script>
+  <script type="module" src="js/viewer.js?v=compact-v2"></script>
+  <script type="module" src="js/pipeline.js?v=http-v4"></script>
+  <script type="module" src="js/mesh.js?v=mesh-white-v1"></script>
 </head>
 <body>
   <main>
-    <header class="paper-title"><h1><span>VSurf:</span> Feed-forward Visual Surface Learning<br class="wide-break"> with Structured Scene States</h1></header>
+    <aside class="access-notice" aria-label="How to open this demo">
+      <p><strong>Viewing this demo:</strong> In the <code>demo</code> folder, run <code>python -m http.server 8000</code>, then visit <a href="http://localhost:8000">http://localhost:8000</a>. Opening <code>index.html</code> directly will not load the 3D scenes.</p>
+    </aside>
+    <header class="paper-title"><h1><span class="paper-brand"><img class="paper-icon" src="assets/images/vsurf-icon.svg" width="48" height="48" alt="" aria-hidden="true">VSurf:</span> Feed-forward Visual Surface Learning<br class="wide-break"> with Structured Scene States</h1></header>
     <section class="demo-video" aria-label="VSurf demonstration video">
       <video controls autoplay muted playsinline preload="auto" width="3380" height="1440" aria-label="VSurf demonstration">
-        <source src="demo-video-new.mp4" type="video/mp4">
-        Your browser does not support embedded video. <a href="demo-video-new.mp4">Download the demonstration video</a>.
+        <source src="assets/media/demo.mp4" type="video/mp4">
+        Your browser does not support embedded video. <a href="assets/media/demo.mp4">Download the demonstration video</a>.
       </video>
     </section>
     <section class="abstract" aria-labelledby="abstract-title">
@@ -28,7 +32,7 @@
       <div class="section-heading"><h2 id="method-title">Method</h2></div>
       <p class="method-description">A frozen geometry transformer extracts coarse pointmaps and context features from unposed multi-view images. Contractive voxelization and a sparse point encoder construct voxel features, which are consolidated through interleaved global voxel self-attention and voxel-to-context cross-attention. A parameter-free Context-Lifted Positional Embedding (CLiPE) incorporates 3D geometric priors into cross-attention. The refined features are pruned to form Structured Scene States, which are progressively decoded into surface-aligned oriented points. The bottom row illustrates the progression from noisy frontend predictions to coherent surface geometry.</p>
       <figure>
-        <img src="assets/framework_top.svg" width="1142" height="254" alt="VSurf framework: multi-view images pass through a frozen geometry transformer, contractive voxelization, a voxel transformer with CLiPE, and a surface decoder to produce oriented surface points." loading="lazy" decoding="async">
+        <img src="assets/images/framework_top.svg" width="1142" height="254" alt="VSurf framework: multi-view images pass through a frozen geometry transformer, contractive voxelization, a voxel transformer with CLiPE, and a surface decoder to produce oriented surface points." loading="lazy" decoding="async">
         <div id="method-pipeline" aria-label="Interactive Counter reconstruction stages">
           <div class="pipeline-scroll"><div class="pipeline-panels"></div></div>
           <div class="pipeline-toolbar">
@@ -49,14 +53,14 @@
       <div class="viewer-scroll"><div id="panels"></div></div>
       <p id="status" role="status" aria-live="polite">Loading…</p>
       <div class="scene-picker comparison-picker" role="group" tabindex="0" aria-label="Select a scene; scroll horizontally for more">
-        <button type="button" class="scene-button" data-scene="green_room" aria-pressed="true"><img src="assets/green_room/thumbnail.jpg" alt="Green Room scene" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-scene="valley" aria-pressed="true"><img src="assets/valley/thumbnail.jpg" alt="Valley scene" width="240" height="160"></button>
         <button type="button" class="scene-button" data-scene="staircase" aria-pressed="false"><img src="assets/staircase/thumbnail.jpg" alt="Staircase scene" width="240" height="160"></button>
-        <button type="button" class="scene-button" data-scene="scan114" aria-pressed="false"><img src="assets/scan114/thumbnail.jpg" alt="DTU scan114 scene" width="240" height="160"></button>
-        <button type="button" class="scene-button" data-scene="scan23" aria-pressed="false"><img src="assets/scan23/thumbnail.jpg" alt="DTU scan23 scene" width="240" height="160"></button>
-        <button type="button" class="scene-button" data-scene="garden" aria-pressed="false"><img src="assets/garden/thumbnail.jpg" alt="Garden scene" width="240" height="160"></button>
-        <button type="button" class="scene-button" data-scene="pyramid" aria-pressed="false"><img src="assets/pyramid/thumbnail.jpg" alt="Pyramid scene" width="240" height="160"></button>
-        <button type="button" class="scene-button" data-scene="valley" aria-pressed="false"><img src="assets/valley/thumbnail.jpg" alt="Valley scene" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-scene="1ada7a0617" aria-pressed="false"><img src="assets/1ada7a0617/thumbnail.jpg" alt="ScanNet++ 1ada7a0617 scene" width="240" height="160"></button>
         <button type="button" class="scene-button" data-scene="rubble" aria-pressed="false"><img src="assets/rubble/thumbnail.jpg" alt="Rubble scene" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-scene="pyramid" aria-pressed="false"><img src="assets/pyramid/thumbnail.jpg" alt="Pyramid scene" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-scene="garden" aria-pressed="false"><img src="assets/garden/thumbnail.jpg" alt="Garden scene" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-scene="scan23" aria-pressed="false"><img src="assets/scan23/thumbnail.jpg" alt="DTU scan23 scene" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-scene="scan114" aria-pressed="false"><img src="assets/scan114/thumbnail.jpg" alt="DTU scan114 scene" width="240" height="160"></button>
       </div>
       <div class="toolbar">
         <div class="appearance" role="group" aria-label="Point appearance"><button type="button" data-mode="rgb" aria-pressed="true">RGB</button><button type="button" data-mode="normals" aria-pressed="false">Normals</button></div>
@@ -71,11 +75,12 @@
       <div class="viewer-scroll"><div class="mesh-panels"></div></div>
       <p class="mesh-status" role="status" aria-live="polite">Mesh preview loads as you scroll.</p>
       <div class="scene-picker mesh-picker" role="group" aria-label="Select a mesh scene">
-        <button type="button" class="scene-button" data-mesh-scene="scan114" aria-pressed="true"><img src="assets/scan114/thumbnail.jpg" alt="DTU scan114 mesh" width="240" height="160"></button>
-        <button type="button" class="scene-button" data-mesh-scene="staircase" aria-pressed="false"><img src="assets/staircase/thumbnail.jpg" alt="Staircase mesh" width="240" height="160"></button>
-        <button type="button" class="scene-button" data-mesh-scene="green_room" aria-pressed="false"><img src="assets/green_room/thumbnail.jpg" alt="Green Room mesh" width="240" height="160"></button>
-        <button type="button" class="scene-button" data-mesh-scene="pyramid" aria-pressed="false"><img src="assets/pyramid/thumbnail.jpg" alt="Pyramid mesh" width="240" height="160"></button>
-        <button type="button" class="scene-button" data-mesh-scene="stadium" aria-pressed="false"><img src="assets/stadium/thumbnail.jpg?v=overview372" alt="Stadium mesh" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-mesh-scene="5a3b9731e24cd76dad1a5f1b" aria-pressed="true"><img src="assets/5a3b9731e24cd76dad1a5f1b/thumbnail.jpg" alt="BlendedMVS 5a3b9731e24cd76dad1a5f1b mesh" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-mesh-scene="colosseum" aria-pressed="false"><img src="assets/colosseum/thumbnail.jpg" alt="Colosseum mesh" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-mesh-scene="scan34" aria-pressed="false"><img src="assets/scan34/thumbnail.jpg" alt="DTU scan34 mesh" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-mesh-scene="scan75" aria-pressed="false"><img src="assets/scan75/thumbnail.jpg" alt="DTU scan75 mesh" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-mesh-scene="ai_001_001" aria-pressed="false"><img src="assets/ai_001_001/thumbnail.jpg" alt="Hypersim ai_001_001 mesh" width="240" height="160"></button>
+        <button type="button" class="scene-button" data-mesh-scene="green_room" aria-pressed="false"><img src="assets/green_room/thumbnail.jpg" alt="N-RGBD Green Room mesh" width="240" height="160"></button>
       </div>
       <p class="pipeline-hint">Drag to orbit · Scroll or pinch to zoom · Right-drag or Ctrl/⌘/Shift + drag to pan</p>
     </section>
