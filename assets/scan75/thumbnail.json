@@ -1,5 +1,5 @@
 {
-  "source": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/bench/vsurf/surface_v3/dtu/scan75/images/000024.png",
+  "source": "data/bench/vsurf/surface_v3/dtu/scan75/images/000024.png",
   "source_sha256": "272e5455dfe42c3ed8efb2ae17666b7b60cc42e3fd9b5a1b95294bb831e2b463",
   "thumbnail_sha256": "a29b2324624cd85416512bd62301c60e1a791e5c77497776825332edb2880b71"
 }

@@ -14,7 +14,8 @@ METHODS = ('vsurf_final', 'vggt_omega', 'surflo_plain')
 BENCH_SCENES = dict(green_room='nrgbd', staircase='nrgbd',
                     **{'1ada7a0617':'scannetpp'},
                     scan114='dtu', scan34='dtu', scan23='dtu', office='7scenes')
-SCENES = ('1ada7a0617', 'staircase', 'scan114', 'scan23', 'garden', 'pyramid', 'valley', 'rubble')
+SCENES = ('1ada7a0617', 'staircase', 'scan114', 'scan23', 'garden', 'pyramid', 'valley', 'rubble',
+          'stadium', 'counter', 'green_room')
 WILD_SCENES = dict(colosseum='vggt_videos/colosseum', pyramid='vggt_videos/pyramid', valley='pi3_examples/valley',
                    stadium='blendedmvs/5afacb69ab00705d0cefdd5b')
 THUMBNAIL_FRAMES = dict(green_room=0, staircase=99,

@@ -161,7 +161,7 @@
       },
       "checkpoint": [
         {
-          "path": "/project/visgroup/zwang253/ckpts/surflo/surflo_v0.pt",
+          "path": "ckpts/surflo/surflo_v0.pt",
           "size": 5542438742,
           "mtime_ns": 1790072516527984000
         }
@@ -405,7 +405,7 @@
   "method": "surflo_plain",
   "scene": "scan23",
   "saved_points": 100000,
-  "inputs_sha256": "d7a0f28dc2269d72b4d49ea80eabe4360dad298a6d9c54cd0f53e416f9257fc3",
+  "inputs_sha256": "a36c42df722eb171a364db758e60de1aa761ac39489231758b5221c8b6d929b1",
   "asset_source": "bench_viewer_ply",
   "bench_source": {
     "path": "viewers/bench/assets/points/surflo_plain/dtu/scan23/1f8108279ab255dd5f893e11f7348b55986c14b43d22da27eb7c1f2910430b9e-display100k-seed42-float32-v2.ply",

@@ -81,7 +81,7 @@
   "checkpoint_identity": {
     "checkpoint": [
       {
-        "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+        "path": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
         "size": 4576706117,
         "mtime_ns": 1781505878115243000
       }

@@ -1,5 +1,5 @@
 {
-  "source": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5a3b9731e24cd76dad1a5f1b/blended_images/00000198.jpg",
+  "source": "data/geometry/bmvs/blendedmvs/5a3b9731e24cd76dad1a5f1b/blended_images/00000198.jpg",
   "source_sha256": "95b975c54aafe277144639fad63845fdfce3b3960eb977e420905b8e2479e902",
   "thumbnail_sha256": "89ddf54cd6b049233bd9bec13449584b0e5886e22e44fbd67e4e3dbbf68a77c1"
 }

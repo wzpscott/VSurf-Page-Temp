@@ -3,7 +3,7 @@
   "source_scene": "pi3_examples/valley",
   "frames": [
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_0.png",
+      "path": "external/Pi3/examples/valley/image_0.png",
       "sha256": "62f3228ec5cf9ba6aa78f576b0cfd093d3ec76e12b81a18581c0d9dc45d15696",
       "c2w": [
         [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_1.png",
+      "path": "external/Pi3/examples/valley/image_1.png",
       "sha256": "f60a49183b29e1848f2e15dd01bbd5ed484ff56ce9ccb7e3c8349ab669e4653a",
       "c2w": [
         [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_2.png",
+      "path": "external/Pi3/examples/valley/image_2.png",
       "sha256": "94770b2d99b0e63b9ee8b29d768b2e70a60d7b7ece4c42b355bd3a646103f54e",
       "c2w": [
         [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_3.png",
+      "path": "external/Pi3/examples/valley/image_3.png",
       "sha256": "91cc1951e45f63e36c0849d634080dad088ea6ea643caadfa293d962eff97b24",
       "c2w": [
         [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_4.png",
+      "path": "external/Pi3/examples/valley/image_4.png",
       "sha256": "4f60c6bb282fc79ef5130ffb29671af05184b6331cb4f4eebf448138cb431fc4",
       "c2w": [
         [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_5.png",
+      "path": "external/Pi3/examples/valley/image_5.png",
       "sha256": "f278e0e063f5113dce272b88658081eaf46445f06eb4caab0159048dfd5f2998",
       "c2w": [
         [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_6.png",
+      "path": "external/Pi3/examples/valley/image_6.png",
       "sha256": "f9558237eb22af823e479fcbcf98bc92f6a62133616752c2380df1a2edefdf37",
       "c2w": [
         [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_7.png",
+      "path": "external/Pi3/examples/valley/image_7.png",
       "sha256": "1b0fc34a73c7a09a5f0b19cd884f3ee7e6eaab8301d34953631267afa11c0a86",
       "c2w": [
         [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_8.png",
+      "path": "external/Pi3/examples/valley/image_8.png",
       "sha256": "4580c47fefdcc5db392c46ba33add8c6984f25f4974338e59c41f690327c82a6",
       "c2w": [
         [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_9.png",
+      "path": "external/Pi3/examples/valley/image_9.png",
       "sha256": "b0aac174ef3158df72cf3bdc044648d64f0b499d4755e66376614165ac70c493",
       "c2w": [
         [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/external/Pi3/examples/valley/image_10.png",
+      "path": "external/Pi3/examples/valley/image_10.png",
       "sha256": "e3cc1375ea4268410a5383a1d59d19d43b6f1d4ef7d0c4b38624c8361ca3e5ba",
       "c2w": [
         [
@@ -358,7 +358,7 @@
   "reference_camera_checkpoint": {
     "checkpoint": [
       {
-        "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+        "path": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
         "size": 4576706117,
         "mtime_ns": 1781505878115243000
       }

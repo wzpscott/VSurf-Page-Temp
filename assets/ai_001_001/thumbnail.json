@@ -1,5 +1,5 @@
 {
-  "source": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/ml-hypersim/data/ai_001_001/images/scene_cam_00_final_preview/frame.0050.color.jpg",
+  "source": "data/geometry/ml-hypersim/data/ai_001_001/images/scene_cam_00_final_preview/frame.0050.color.jpg",
   "source_sha256": "9f89d98d6264b56935c4462dc98e9b45a71f8b657bf9c19e7a072e14d8322e6c",
   "thumbnail_sha256": "d292d4d1ed7748e1d3cabcee9eb20b69a6e8abeed886000f0b99cc7a7f2c00b1"
 }

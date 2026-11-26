@@ -37,34 +37,34 @@
     ]
   },
   "provenance": {
-    "checkpoint": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final",
+    "checkpoint": "logs/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final",
     "weights_sha256": "7a67f9065ce2369e414ca13c7216f43565b9b7a291a0d38ec5096b61f79583e4",
     "weights_size": 3165580704,
     "weights_mtime_ns": 1793819858501847000,
     "config": {
-      "checkpoint": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final",
-      "frontend_checkpoint": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+      "checkpoint": "logs/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final",
+      "frontend_checkpoint": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
       "max_input_points": 10000000,
       "image_resolution": 512
     }
   },
   "images": [
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF5857.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF5872.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF5888.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF5904.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF5920.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF5936.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF5952.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF5968.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF5984.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF6000.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF6016.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF6032.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF6048.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF6064.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF6080.JPG",
-    "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/images/counter/DSCF6096.JPG"
+    "viewers/wild/assets/images/counter/DSCF5857.JPG",
+    "viewers/wild/assets/images/counter/DSCF5872.JPG",
+    "viewers/wild/assets/images/counter/DSCF5888.JPG",
+    "viewers/wild/assets/images/counter/DSCF5904.JPG",
+    "viewers/wild/assets/images/counter/DSCF5920.JPG",
+    "viewers/wild/assets/images/counter/DSCF5936.JPG",
+    "viewers/wild/assets/images/counter/DSCF5952.JPG",
+    "viewers/wild/assets/images/counter/DSCF5968.JPG",
+    "viewers/wild/assets/images/counter/DSCF5984.JPG",
+    "viewers/wild/assets/images/counter/DSCF6000.JPG",
+    "viewers/wild/assets/images/counter/DSCF6016.JPG",
+    "viewers/wild/assets/images/counter/DSCF6032.JPG",
+    "viewers/wild/assets/images/counter/DSCF6048.JPG",
+    "viewers/wild/assets/images/counter/DSCF6064.JPG",
+    "viewers/wild/assets/images/counter/DSCF6080.JPG",
+    "viewers/wild/assets/images/counter/DSCF6096.JPG"
   ],
   "preprocessing": {
     "mode": "balanced",

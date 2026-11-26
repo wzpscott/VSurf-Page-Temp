@@ -76,13 +76,13 @@
   "checkpoint_identity": {
     "checkpoint": [
       {
-        "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+        "path": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
         "size": 4576706117,
         "mtime_ns": 1781505878115243000
       }
     ]
   },
-  "inputs_sha256": "5ecad0fdc901d276ed1b71846e0d1f0e05d821575a3d1e68b03172e391e0d635",
+  "inputs_sha256": "333c89b38e8f49ad8051ba6ff3ddd07fe98200d5d90b056174b9a21373db9403",
   "ply_sha256": "1d0ce6dd04d1b195604d51a15ad2941d1a0d2af2a07660debccfad51dda91349",
   "post_export_sampling": {
     "source_points": 200000,

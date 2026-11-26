@@ -14,6 +14,6 @@
   "input_frames": 16,
   "max_input_points": 1000000,
   "raw_points": 865822,
-  "inputs_sha256": "52c418c7fd1c3f4aadf49007a14412298a4cdf650cc5459f26dadf80bbc284f1",
+  "inputs_sha256": "ef9683ea04d6042703b01e7fb19f9fe336346d703b99b7f191d0f493208a8f9d",
   "ply_sha256": "1becb5e4e71b48ee66dd12f636fe7b481cd3703aa15ed49c28f681b53baba9c9"
 }

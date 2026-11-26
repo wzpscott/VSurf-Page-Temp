@@ -26,7 +26,7 @@
     "checkpoints": {
       "checkpoint": [
         {
-          "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+          "path": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
           "size": 4576706117,
           "mtime_ns": 1781505878115243000
         }
@@ -257,7 +257,7 @@
   "method": "vggt_omega",
   "scene": "scan23",
   "saved_points": 100000,
-  "inputs_sha256": "d7a0f28dc2269d72b4d49ea80eabe4360dad298a6d9c54cd0f53e416f9257fc3",
+  "inputs_sha256": "a36c42df722eb171a364db758e60de1aa761ac39489231758b5221c8b6d929b1",
   "asset_source": "bench_viewer_ply",
   "bench_source": {
     "path": "viewers/bench/assets/points/vggt_omega/dtu/scan23/aa8fc0a3ee1de85165e497f1e0bfc0f8d2d478cd47c214ec1cb80abb95e04ec8-display100k-seed42-float32-v2.ply",

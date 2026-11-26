@@ -3,7 +3,7 @@
   "source_scene": "blendedmvs/5afacb69ab00705d0cefdd5b",
   "frames": [
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000000.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000000.jpg",
       "sha256": "eb3471a692337fbdabb7fd49dc3c92d9f985a6735e1809ce644ec4189600c033",
       "c2w": [
         [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000003.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000003.jpg",
       "sha256": "5173c706434e3da40a38592de33bb4e1adb9cf5dd77b198c80db7ee5705c61c9",
       "c2w": [
         [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000006.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000006.jpg",
       "sha256": "b6ea2d1f95386413176e6535b630332bfc42db486168ba335496b3cd860db567",
       "c2w": [
         [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000010.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000010.jpg",
       "sha256": "cc7b5028d700fd16904a852eb8a6d708c7097aa2c271a35980f486c2441b1f46",
       "c2w": [
         [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000013.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000013.jpg",
       "sha256": "8e60e438d2fec251dbef375039c2089867633c9d5799d7e04d05be7f6ecd007b",
       "c2w": [
         [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000016.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000016.jpg",
       "sha256": "f8f3b9d1201ed0205830d8f0ccf48a5b8564522a73ff283c595f0848f3004234",
       "c2w": [
         [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000020.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000020.jpg",
       "sha256": "1c0c79f05bd1deae07feb5170f2fcd9cabf241ebcd3e66964d09cc9eb95142aa",
       "c2w": [
         [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000023.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000023.jpg",
       "sha256": "db9e751f104a7786b8ccdef61ecfc06907a1cb0644ecfa33ed3c565644e058cd",
       "c2w": [
         [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000026.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000026.jpg",
       "sha256": "412886e060d1519e1d6c3d0c1083798f967db25d5b3797a60b810f450f9eda62",
       "c2w": [
         [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000030.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000030.jpg",
       "sha256": "2b07c0f783f2745fac932badc79f05e5224fecfd22ec43241156a13164b7dae7",
       "c2w": [
         [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000033.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000033.jpg",
       "sha256": "63e3c6d8a0084cc369c0bc4337b1a3fb97d328332d30bd35ef1e9c2e0e6cfa27",
       "c2w": [
         [
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000037.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000037.jpg",
       "sha256": "43b35e96be1be52804489adc3d250533c73ad5a49a3f2220422776c8bedf74c5",
       "c2w": [
         [
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000040.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000040.jpg",
       "sha256": "19fb829b5a83e4e0236ac655400447debef54ff804d129e6db0267e0cee0c335",
       "c2w": [
         [
@@ -393,7 +393,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000043.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000043.jpg",
       "sha256": "ab4a8ee48faef3a2ace764bb10e4ee91da84a846e61843d6e53a47a71781d86a",
       "c2w": [
         [
@@ -423,7 +423,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000047.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000047.jpg",
       "sha256": "94c991bf0eab10a6cbf12a18eca7c383d2fa61b32731c9ddc80a2763aff3bfc9",
       "c2w": [
         [
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000050.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000050.jpg",
       "sha256": "68cb56c9ff4c16ce07ebc68ea831574b17d586c1ca635d51d057c367cc7f014b",
       "c2w": [
         [
@@ -483,7 +483,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000053.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000053.jpg",
       "sha256": "a5ac623f15c177001f6a61445f083a2a3eb9806a7b64aca6173a5a96c807af42",
       "c2w": [
         [
@@ -513,7 +513,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000057.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000057.jpg",
       "sha256": "94e68bdef4b489b28951f1a7bfdabd26c12a6ec9cdf6d2e52dcfdb02079746fc",
       "c2w": [
         [
@@ -543,7 +543,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000060.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000060.jpg",
       "sha256": "f3e90a3e36f5c06c392ac509b7c7a1dfc09686c9f451abffbd139e8f6365ea28",
       "c2w": [
         [
@@ -573,7 +573,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000064.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000064.jpg",
       "sha256": "a081983612f57c0beeb772aaa9300556f7c6dbcd522fd05884f2e641acfc6d20",
       "c2w": [
         [
@@ -603,7 +603,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000067.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000067.jpg",
       "sha256": "5632213f00e74076ddcc1a0dc8d214563101e8fc8f6537729709ea06dbd570d9",
       "c2w": [
         [
@@ -633,7 +633,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000070.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000070.jpg",
       "sha256": "961a33d8549ff0a00c3971241ec34df44e012fd981076a115e8b8c7a4d056da6",
       "c2w": [
         [
@@ -663,7 +663,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000074.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000074.jpg",
       "sha256": "ed8d1ff38563a5ed37dca3eec494f277f40f20fa6355ee6d4cfffa0ee5fd4acd",
       "c2w": [
         [
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000077.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000077.jpg",
       "sha256": "afbe062ab63a3209e42147d1cef11f78a7d7c75c25d381f7679d74164c2b5f8e",
       "c2w": [
         [
@@ -723,7 +723,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000080.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000080.jpg",
       "sha256": "c5699e60b17c682b8a1dac33d78d3bfa45e3a6e92f9d9eb0ae0938ab7873d8a2",
       "c2w": [
         [
@@ -753,7 +753,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000084.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000084.jpg",
       "sha256": "b73ac89911c2c938569d6856a618608dba8a6310e37953af485b8f4a95ff9dcc",
       "c2w": [
         [
@@ -783,7 +783,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000087.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000087.jpg",
       "sha256": "fcf7520070f15d7d531b92dcccc629450c2cd081e8398b79e8296a928fed6e34",
       "c2w": [
         [
@@ -813,7 +813,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000090.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000090.jpg",
       "sha256": "643e5206f66cca1a69e4be5abf65851268dfbeaad67baf873f6c1981eab5b52d",
       "c2w": [
         [
@@ -843,7 +843,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000094.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000094.jpg",
       "sha256": "8b083691661ed4f0ed4dfe43057299bf82dc1fba4dcdb96158854b0a1c21eaaa",
       "c2w": [
         [
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000097.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000097.jpg",
       "sha256": "7d0b7ba1e777d5ff2f7ebfc8cf3f272efaaa61ed9c363a48250623159c44ca4c",
       "c2w": [
         [
@@ -903,7 +903,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000101.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000101.jpg",
       "sha256": "96d55ad58916d7f1a093a1742d69a9bd5d1afd55a2f7d548e815ba2cfc3a584c",
       "c2w": [
         [
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000104.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000104.jpg",
       "sha256": "1567bba869ddfb9eabd59348a773b470cd8a08091f8641ee2dfeb56b1dd827ed",
       "c2w": [
         [
@@ -963,7 +963,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000107.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000107.jpg",
       "sha256": "fee3c389a74481111646b6141d9ff459eab29f5e6d7a337857a47c256814d19a",
       "c2w": [
         [
@@ -993,7 +993,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000111.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000111.jpg",
       "sha256": "5405b32c037f1f972b7b28aa32fd8beb95d16101b515337791f0c7a76bafa35b",
       "c2w": [
         [
@@ -1023,7 +1023,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000114.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000114.jpg",
       "sha256": "fd1f831fa18b1afabfbd7a78342c07199649847ae8c5def94ecd5753ec5ba4bf",
       "c2w": [
         [
@@ -1053,7 +1053,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000117.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000117.jpg",
       "sha256": "47cefc8cc61cedce94be94acb513b1f3d3d3a24c604af62437b3a4948bf66faa",
       "c2w": [
         [
@@ -1083,7 +1083,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000121.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000121.jpg",
       "sha256": "4973774c898ee7f6d2ab6a8006c2dff14f0141d35afa8cacca767c30c96b57b6",
       "c2w": [
         [
@@ -1113,7 +1113,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000124.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000124.jpg",
       "sha256": "8239e3d02c8696d040a12d1da2e4cd958abcc59c5915f7f25094b38e98f2f4f0",
       "c2w": [
         [
@@ -1143,7 +1143,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000128.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000128.jpg",
       "sha256": "bf89274d6d8f30e6f58cf5b7df5a70ac26d16808f3be85329e0076385fe88fcf",
       "c2w": [
         [
@@ -1173,7 +1173,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000131.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000131.jpg",
       "sha256": "db22f7765293b0e69173b929859bd7c0df722fb677d94899038165f64cc667bc",
       "c2w": [
         [
@@ -1203,7 +1203,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000134.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000134.jpg",
       "sha256": "3c60cb5cf9e8ba92b63f6d13eb0cbbc1cbe64de33dca0eb125cc1be20cafc2f5",
       "c2w": [
         [
@@ -1233,7 +1233,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000138.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000138.jpg",
       "sha256": "bd940338aec7d7b7d32076807f81d3a7f7a9bfae65340bcdf7e5ec3b8ba83b84",
       "c2w": [
         [
@@ -1263,7 +1263,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000141.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000141.jpg",
       "sha256": "04cfa2f942d5ba02bd2eeb9a4ce326c9b28aec45b69dd7a2a1a7aa8e57adb9a2",
       "c2w": [
         [
@@ -1293,7 +1293,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000144.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000144.jpg",
       "sha256": "4d4178e1a3c862b0a227ab6d4d5590d069918a41d58a02fb5a90373573ec1a2d",
       "c2w": [
         [
@@ -1323,7 +1323,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000148.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000148.jpg",
       "sha256": "bc602a24eebcb67517cd7f77c16acdf991844b9113cbce3d60bf0b3e55a70425",
       "c2w": [
         [
@@ -1353,7 +1353,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000151.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000151.jpg",
       "sha256": "debf212231e79fa9b87b157f9bf5948a0efda263e2f47d45179d732f9d7ed36c",
       "c2w": [
         [
@@ -1383,7 +1383,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000155.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000155.jpg",
       "sha256": "ec17f564e73ce4d62ce50b85c83a0f2a43c166c1bf0a358fd2db549df7de4fe5",
       "c2w": [
         [
@@ -1413,7 +1413,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000158.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000158.jpg",
       "sha256": "cd980068dc37cf88223675d82b61fd4441d0ef78869a7374a176a2f64632d772",
       "c2w": [
         [
@@ -1443,7 +1443,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000161.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000161.jpg",
       "sha256": "d0d1d1ed47dccd8780f07874dca8a209e281851f5f7212d5cbc56ed1f42e21cf",
       "c2w": [
         [
@@ -1473,7 +1473,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000165.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000165.jpg",
       "sha256": "53b7b01b579007de8595eea8b4d1265d95225032dc2b9a3123133cbc6738aacf",
       "c2w": [
         [
@@ -1503,7 +1503,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000168.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000168.jpg",
       "sha256": "a5a6b47c88659d9801ec064b8b4849ab3808be386b3b3bf3640dd62d09688246",
       "c2w": [
         [
@@ -1533,7 +1533,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000171.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000171.jpg",
       "sha256": "d6a9d444b17e579e86e61ac4110a0d9132eb37421bf42c8bd6f57377b6a199d6",
       "c2w": [
         [
@@ -1563,7 +1563,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000175.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000175.jpg",
       "sha256": "0e717af27e708b3f4c3f46e7f74fb610b8df2aefb0e760b7689215bd538c6e97",
       "c2w": [
         [
@@ -1593,7 +1593,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000178.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000178.jpg",
       "sha256": "1e7f71b50db01f67dbcdf637065bc61af37ccba8db4cec8233631cfce9ab094c",
       "c2w": [
         [
@@ -1623,7 +1623,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000181.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000181.jpg",
       "sha256": "cf30ac26172dc88ea8359f244b8502d0df521ab7b4191792e0102eb9270e36fc",
       "c2w": [
         [
@@ -1653,7 +1653,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000185.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000185.jpg",
       "sha256": "8e69137d6e71193c4bf339eb973ce0e1a2fd0c16277d1c3df0efdf66cfd0df85",
       "c2w": [
         [
@@ -1683,7 +1683,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000188.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000188.jpg",
       "sha256": "22bf19d2f284e6aaceb1fcab15a7eb46d4e9a8ed96cd1cee683456a7f26579ee",
       "c2w": [
         [
@@ -1713,7 +1713,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000192.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000192.jpg",
       "sha256": "29afcf82f38323f7b716a00b30122bad2636873329f54e7cbc387a20cce9820c",
       "c2w": [
         [
@@ -1743,7 +1743,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000195.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000195.jpg",
       "sha256": "5ab73de32486116b4d27acce25e2bf45121e95f7f99da00e36ed75972b50f7d9",
       "c2w": [
         [
@@ -1773,7 +1773,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000198.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000198.jpg",
       "sha256": "8f85b7495bbcd90f3dbcd8b9853096ba7adff1bac55eba0e63adbdd9882a1c59",
       "c2w": [
         [
@@ -1803,7 +1803,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000202.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000202.jpg",
       "sha256": "e6c1dc16eacc2c19477893c4f855b3dfaeb86fae2c7eba9ab47830051c91091c",
       "c2w": [
         [
@@ -1833,7 +1833,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000205.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000205.jpg",
       "sha256": "239c3c1fe1c2445e63d27ea55d85e858941bb4b467d46b40cba6e3236679d83f",
       "c2w": [
         [
@@ -1863,7 +1863,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000208.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000208.jpg",
       "sha256": "be444456d34ae2cbb271a4bdd47a0dc21dfd1aca6ff64e159566367884579609",
       "c2w": [
         [
@@ -1893,7 +1893,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000212.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000212.jpg",
       "sha256": "b95d32fe693adeba340a4ffcc0b4d96fdd3f4703eacba4e2eae9f24f8bf4e64a",
       "c2w": [
         [
@@ -1923,7 +1923,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000215.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000215.jpg",
       "sha256": "821711ae684bbf1861adc8195d9afc5cc8048a5f857ba7ed57e70e36aa6f5c49",
       "c2w": [
         [
@@ -1953,7 +1953,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000219.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000219.jpg",
       "sha256": "88cbf133c7bea9b3fbfec67e4b5e1453d380b7f5a94a06b6c7a83d7fb896c585",
       "c2w": [
         [
@@ -1983,7 +1983,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000222.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000222.jpg",
       "sha256": "ded6d77983e26433be8bda69a59765fba71aa78c89b8417fc90a96b16745647a",
       "c2w": [
         [
@@ -2013,7 +2013,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000225.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000225.jpg",
       "sha256": "c848435a0bcbc59fec3e19a2ff2c0e9a643538161cbe4bab4c0871934cb7b4da",
       "c2w": [
         [
@@ -2043,7 +2043,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000229.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000229.jpg",
       "sha256": "368c49ec4a51d098d53e4da221b7231d083457259fe9cd9301fa68ec6569eaaa",
       "c2w": [
         [
@@ -2073,7 +2073,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000232.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000232.jpg",
       "sha256": "5a5de1e6e375a4e42e85c25f9103a75d775b2d795a116d84950f5e20d074bbf4",
       "c2w": [
         [
@@ -2103,7 +2103,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000235.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000235.jpg",
       "sha256": "f53210f2ff872dca64388f7acbd8065489d3178be923c2c4ceca0126171618d9",
       "c2w": [
         [
@@ -2133,7 +2133,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000239.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000239.jpg",
       "sha256": "c618798893d3c7e1373d4c93862b8d820f1725530639aa73656d407617cd0bf2",
       "c2w": [
         [
@@ -2163,7 +2163,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000242.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000242.jpg",
       "sha256": "72c3c1947bf54b6b78463f953cbc55eee74dc78e9bf3a998c1280e8c62c23e12",
       "c2w": [
         [
@@ -2193,7 +2193,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000246.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000246.jpg",
       "sha256": "6c76c51868b3bc7959bb7a9e050e456271c47c3ab51aca7d3d9512e8181cb83c",
       "c2w": [
         [
@@ -2223,7 +2223,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000249.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000249.jpg",
       "sha256": "cc28ed67802cd386940fe5401c3cb9d0ab9956793df8e9627b9b80c323b74bc5",
       "c2w": [
         [
@@ -2253,7 +2253,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000252.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000252.jpg",
       "sha256": "c7a290e1757f762b5a4c175c6322bbbb2214b44f804b6eb409fd4b1130d4b5d9",
       "c2w": [
         [
@@ -2283,7 +2283,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000256.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000256.jpg",
       "sha256": "88f30640c2ee9ef5c12c62a7e0ea014cbfe99a627f35d178ecc001209aa0c525",
       "c2w": [
         [
@@ -2313,7 +2313,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000259.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000259.jpg",
       "sha256": "3aa90e0a2256abe98309bcde64b9275776cd07e81ba1d30b6bd1b7ea8fc0b3df",
       "c2w": [
         [
@@ -2343,7 +2343,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000262.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000262.jpg",
       "sha256": "ef8788759c1bac77a9c30c0d82a762961ba9975393190d0064c4c69f55abd173",
       "c2w": [
         [
@@ -2373,7 +2373,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000266.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000266.jpg",
       "sha256": "0b96d8b1071d40d31d5ae3bea6fa27a2d3002989c2b472a9e481e5fa4c5aa8f9",
       "c2w": [
         [
@@ -2403,7 +2403,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000269.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000269.jpg",
       "sha256": "0229a6d89abe36704d436ec4239d883a95d6dbd7b440ff91dc2154754b0fa767",
       "c2w": [
         [
@@ -2433,7 +2433,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000272.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000272.jpg",
       "sha256": "3230c8ccb4258859ce46fa9822faea778d88ab2770f50b344e2a05579408f5ec",
       "c2w": [
         [
@@ -2463,7 +2463,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000276.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000276.jpg",
       "sha256": "0ca9b5f627a0c19cdce717823af209be04fc1f6c0172849ce3da643069b7cc08",
       "c2w": [
         [
@@ -2493,7 +2493,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000279.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000279.jpg",
       "sha256": "ea7c8b00f4bf3bbf6830c9103fc5ed6872905b3fb23ed137a185abaf1b09f992",
       "c2w": [
         [
@@ -2523,7 +2523,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000283.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000283.jpg",
       "sha256": "bf3ecaa3ff4be923f160ac76bc3df64a222d5b3c93308449ec40ea3f168a7542",
       "c2w": [
         [
@@ -2553,7 +2553,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000286.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000286.jpg",
       "sha256": "722e0a73302521d3319fc6515feb0388cd634163dc27bd822c55da2155c21e78",
       "c2w": [
         [
@@ -2583,7 +2583,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000289.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000289.jpg",
       "sha256": "60549bdfa552b552f554351803355bd2c34dde324735ba0095b54c17f1457b58",
       "c2w": [
         [
@@ -2613,7 +2613,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000293.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000293.jpg",
       "sha256": "8e80e5adad6125ae0ba23170fb665b3baf4b333d51c0ca276a966e841cfea8ce",
       "c2w": [
         [
@@ -2643,7 +2643,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000296.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000296.jpg",
       "sha256": "bd24665f13e587868c3d4b705774c8e9ffb927532f88b279772d1b612bc23d33",
       "c2w": [
         [
@@ -2673,7 +2673,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000299.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000299.jpg",
       "sha256": "85efb67133a7fb6074abb9cf56cfb106193c4301dbda8ba2091d4e45126129fc",
       "c2w": [
         [
@@ -2703,7 +2703,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000303.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000303.jpg",
       "sha256": "7f671b7e76bd1fd971c42820b57a3247087d5d7faa95f2e06264157a1a990209",
       "c2w": [
         [
@@ -2733,7 +2733,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000306.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000306.jpg",
       "sha256": "43b2b06f3ba512eee963bcf047f8b0574e60609f2ab83ed683d78a53010743c3",
       "c2w": [
         [
@@ -2763,7 +2763,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000310.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000310.jpg",
       "sha256": "6363372c57aeda77011b81f4507c2da29ff12c8b64d7a498b1728eb13ccee75e",
       "c2w": [
         [
@@ -2793,7 +2793,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000313.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000313.jpg",
       "sha256": "7570390596342e988d4ccffec3759d0797cf3285f405a18288d97ed7a530f0b5",
       "c2w": [
         [
@@ -2823,7 +2823,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000316.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000316.jpg",
       "sha256": "9e9694c2a9dc891e2c2edb48166cc6bf8ccb6da718f8e2d440b415baef0774f0",
       "c2w": [
         [
@@ -2853,7 +2853,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000320.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000320.jpg",
       "sha256": "c240230dd36018f50c5b8315c8077b977e66ca88fc7bfb466d25c68264da083e",
       "c2w": [
         [
@@ -2883,7 +2883,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000323.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000323.jpg",
       "sha256": "4d02e8d3f3e392b7231dd9bf7f892c96cb38f0a0968e4aa8a3329fd425aa0556",
       "c2w": [
         [
@@ -2913,7 +2913,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000326.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000326.jpg",
       "sha256": "c1705016a1fdccf28d3202426b32874fefb39dbfd6590cf81339a3598a68f9c5",
       "c2w": [
         [
@@ -2943,7 +2943,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000330.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000330.jpg",
       "sha256": "3d25683396af56b7f29a6bb2fff4ca15b9e5d66043d31236b7e302c94832da25",
       "c2w": [
         [
@@ -2973,7 +2973,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000333.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000333.jpg",
       "sha256": "31effbcb974b2afe000f647a0d2df933ec552d22431c223b8dd39428d708c548",
       "c2w": [
         [
@@ -3003,7 +3003,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000337.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000337.jpg",
       "sha256": "4d139ca5f85a811427f5840eb88d9199cb93e095782fc786d973062ea930ffea",
       "c2w": [
         [
@@ -3033,7 +3033,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000340.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000340.jpg",
       "sha256": "638dae266b4a1ae3c68c99dde04d3b305659d0d07c59a2222ea9397e8acf7fcb",
       "c2w": [
         [
@@ -3063,7 +3063,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000343.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000343.jpg",
       "sha256": "a21b9c7d10764a9a3efdc419025e996772902f140790184ff2f34ae302216d6f",
       "c2w": [
         [
@@ -3093,7 +3093,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000347.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000347.jpg",
       "sha256": "04e3dd3d006f25c17c4647a7c61f5c5c960bbc1b6d13461972fcf78b4db72522",
       "c2w": [
         [
@@ -3123,7 +3123,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000350.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000350.jpg",
       "sha256": "db578a67813553d6eb56261f8fc2bb6243a75ae71a1fe37d54319935b7560970",
       "c2w": [
         [
@@ -3153,7 +3153,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000353.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000353.jpg",
       "sha256": "b4f2b373489a6b18a0e11116c191ba2b240c660f82cb46e4da487b4f849eaa0b",
       "c2w": [
         [
@@ -3183,7 +3183,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000357.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000357.jpg",
       "sha256": "17721726c62abd69ae8eb04d75a416fc94a02c8747d2c18b4925a857913be217",
       "c2w": [
         [
@@ -3213,7 +3213,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000360.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000360.jpg",
       "sha256": "7ae055dade43acc5b7ea7b0a631ba1644d3f685a03c703043164050119a4dfcf",
       "c2w": [
         [
@@ -3243,7 +3243,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000363.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000363.jpg",
       "sha256": "400c032885b0d37d0546d6cb621a4917726de45164b0aefe15e09d1c7f6bda40",
       "c2w": [
         [
@@ -3273,7 +3273,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000367.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000367.jpg",
       "sha256": "0e6cebb36e929dca93dfd09c7f557e7d8fc05a879f2ef3572eb2687d933a0401",
       "c2w": [
         [
@@ -3303,7 +3303,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000370.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000370.jpg",
       "sha256": "98a06048bc09eba461f45fed3cdf53ce9e13f27c9128adce46f196feed4399dc",
       "c2w": [
         [
@@ -3333,7 +3333,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000374.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000374.jpg",
       "sha256": "066102b7b0628c0550dbb2401174f1c34ee56aaa0044eeb84abbcb15b3a7d01e",
       "c2w": [
         [
@@ -3363,7 +3363,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000377.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000377.jpg",
       "sha256": "8d4bb5fa23217bbf0bc6bd7e42d8f588ae383aa3ea5f4f738d14d89379a2b6f3",
       "c2w": [
         [
@@ -3393,7 +3393,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000380.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000380.jpg",
       "sha256": "584806be7b4fbdad43fb995cb777beecb74f56a52ee063fc4268c55baebe3d94",
       "c2w": [
         [
@@ -3423,7 +3423,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000384.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000384.jpg",
       "sha256": "92d0eadb9db4e65c308fc3259f089060b2d1a39bd6f2eb35c82401cdac50b3a6",
       "c2w": [
         [
@@ -3453,7 +3453,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000387.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000387.jpg",
       "sha256": "0b575e76e4c57e0cfe3e326c41d8177016c680bba48502fee4653f99b89e794e",
       "c2w": [
         [
@@ -3483,7 +3483,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000390.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000390.jpg",
       "sha256": "be36834259b4e90ff201e72d6130f88a5fc7fcc7a8343cfec59e3ac8bb93fb52",
       "c2w": [
         [
@@ -3513,7 +3513,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000394.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000394.jpg",
       "sha256": "98aa041cd9b519ece3d272ef871b8f5d86acf7a76fce7ef61f5fe52d2faf90ee",
       "c2w": [
         [
@@ -3543,7 +3543,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000397.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000397.jpg",
       "sha256": "28e1b2dba034abb15abdbf3d019e5b4bacd310592e2bebb40c8932911f8eef22",
       "c2w": [
         [
@@ -3573,7 +3573,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000401.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000401.jpg",
       "sha256": "20f8b50217021a99a409fcec8844c66d028c9a540a87bf0fb93334aa5db2e52d",
       "c2w": [
         [
@@ -3603,7 +3603,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000404.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000404.jpg",
       "sha256": "d436c7d291b0a471818f4998550fc5cdea2f8bd48c90bc4e5de3e83fc0edb680",
       "c2w": [
         [
@@ -3633,7 +3633,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000407.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000407.jpg",
       "sha256": "014fe1878fe4defd5b8d83854ff8ed81f5397e462cfce58295b55880902b350c",
       "c2w": [
         [
@@ -3663,7 +3663,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000411.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000411.jpg",
       "sha256": "b228021fb2123d3d73bbe223fc85e1601564bfe2c3cb10aac5be6aed1f79929a",
       "c2w": [
         [
@@ -3693,7 +3693,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000414.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000414.jpg",
       "sha256": "bc8105c3e93e87a69f5d62c44096d6f14e9fbe6d8285d6f90f1316daf00975af",
       "c2w": [
         [
@@ -3723,7 +3723,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000417.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000417.jpg",
       "sha256": "0af78d0760ab3e805998ce7f118a48e357c073bf0389945b31c2df353ae143c4",
       "c2w": [
         [
@@ -3753,7 +3753,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000421.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000421.jpg",
       "sha256": "91d9bc4df5f708c5bef9f7c925f55b8753b1e2b9b46da461f478c1c1ebb19003",
       "c2w": [
         [
@@ -3783,7 +3783,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000424.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000424.jpg",
       "sha256": "60292c273cfd54b290a66182c4a27b9c8afaedb222dbb04ecfc0190d2ea0b90c",
       "c2w": [
         [
@@ -3813,7 +3813,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000428.jpg",
+      "path": "data/geometry/bmvs/blendedmvs/5afacb69ab00705d0cefdd5b/blended_images/00000428.jpg",
       "sha256": "d6f9314c85bd82781d5e01ba0f47b49cd5806bbe3add83a0f57aa7c2379a792b",
       "c2w": [
         [

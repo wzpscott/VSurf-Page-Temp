@@ -1,5 +1,5 @@
 {
-  "source": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000292.png",
+  "source": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000292.png",
   "source_sha256": "2d1b46a45f877606f04708c9ede07ac02fd3750f088175d5b7557055c653046a",
   "thumbnail_sha256": "706ff930a3187bae8d16c0573f562f779a8f3a0531a00b7009da755b8837153e"
 }

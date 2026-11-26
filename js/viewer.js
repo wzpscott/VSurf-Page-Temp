@@ -6,7 +6,8 @@ import {createRenderer, synchronize, pointSize} from './lib/runtime.js';
 import {createPointMaterials, preparePointGeometry} from './lib/points.js';
 
 const methods = [['vsurf_final','VSurf'], ['vggt_omega','VGGT-omega'], ['surflo_plain','Surflo']];
-const scenes = {garden:['Garden',16], pyramid:['Pyramid',16], valley:['Valley',11], rubble:['Rubble',256],
+const scenes = {stadium:['Stadium',128], counter:['Counter',16], green_room:['Green Room',100],
+  garden:['Garden',16], pyramid:['Pyramid',16], valley:['Valley',11], rubble:['Rubble',256],
   '1ada7a0617':['ScanNet++ 1ada7a0617',100,100000], staircase:['Staircase',100,100000],
   scan114:['DTU 114',49,100000], scan23:['DTU 23',49,100000]};
 const assetVersion = 'all-scenes-100k-v8';

@@ -3,7 +3,7 @@
   "source_scene": "nrgbd/staircase",
   "frames": [
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000000.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000000.png",
       "sha256": "f8c088791de5bb8422e81b9ff635409480e81b1b59ce7e9ea51076625994aeca",
       "c2w": [
         [
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000011.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000011.png",
       "sha256": "1da03c076cd21fa21bb24cbc8a9aff83ea9e8fbe6e95ef61fc51744a729c8dc1",
       "c2w": [
         [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000023.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000023.png",
       "sha256": "a3513fa618b1b95b4c026151e8817f652f3ba96609fe6b8e271f99f9433a3912",
       "c2w": [
         [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000034.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000034.png",
       "sha256": "dd22219caed4dbd1b719e97d2c4e5283fdcc898a583162fa2eb6af4eae3fbb7a",
       "c2w": [
         [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000046.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000046.png",
       "sha256": "c696bb77e83140a12cfbc85ee1f3cb3ac44d5e3cd8f3c8a8cbc2f2f42690d46e",
       "c2w": [
         [
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000057.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000057.png",
       "sha256": "8854c0cfc806755b59b703bae892f03389faa86a3e2d2f4547afb248c49de544",
       "c2w": [
         [
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000069.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000069.png",
       "sha256": "7e669a7334b5fa0e2d9339c23082df87cb0f3b21f927c415fd8b21126dcf9c0c",
       "c2w": [
         [
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000081.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000081.png",
       "sha256": "e4fd4b26ecdf4c96d3b979b644973008a4d006a068e84989125680e010f05ba4",
       "c2w": [
         [
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000092.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000092.png",
       "sha256": "c09ca3c2675560bc211f6e87cad057fbad75b123245212cc7d7adb21ec0cdcfb",
       "c2w": [
         [
@@ -426,7 +426,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000104.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000104.png",
       "sha256": "9443ab2e99c63cd61b6b6fd46ff927a456ea094d9f0eede62648f279945dd8f2",
       "c2w": [
         [
@@ -473,7 +473,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000115.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000115.png",
       "sha256": "cc7692416e30ec58d4391b04b627b91b82d256544d96da32f6d7f746aac5ae9d",
       "c2w": [
         [
@@ -520,7 +520,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000127.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000127.png",
       "sha256": "7a720b3225efa309b9d41e05f9b2c29b41a850c5de0b51756c7bb328b4857cc4",
       "c2w": [
         [
@@ -567,7 +567,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000139.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000139.png",
       "sha256": "c51163c963380b1276a8de3cd02ecbe3ef8cd0778c270ca6529deaa368bf3898",
       "c2w": [
         [
@@ -614,7 +614,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000150.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000150.png",
       "sha256": "1d61cb75598743277d9c9b9e5927be5144c1d0a646b2abfd0f62d8d65b7af419",
       "c2w": [
         [
@@ -661,7 +661,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000162.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000162.png",
       "sha256": "e85ad8a70844ee0328f0441703389ed93565aae62c6935573c5b26a7c19b88ea",
       "c2w": [
         [
@@ -708,7 +708,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000173.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000173.png",
       "sha256": "bb027f9248520a0a3e3f98c0ee2e70bcb73e44442da5cdf656d5d75731692797",
       "c2w": [
         [
@@ -755,7 +755,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000185.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000185.png",
       "sha256": "20d9ef7e5d3c1d58f05939775c7fabcaab809478a22e03b0aa0a222b6b06984f",
       "c2w": [
         [
@@ -802,7 +802,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000197.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000197.png",
       "sha256": "b295465ffafb499f5f0fcfddd18185e67c7af1fa0ed0bcdf7c1639ace2b79d9c",
       "c2w": [
         [
@@ -849,7 +849,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000208.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000208.png",
       "sha256": "50214c5bcded0bd436767c97f372497c06791e6d769a5708532f6503239ae8bd",
       "c2w": [
         [
@@ -896,7 +896,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000220.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000220.png",
       "sha256": "76592aeb5063c063aa54c1cb8501a9be9e0f0eb8cd302b7460d3dda48f6780a3",
       "c2w": [
         [
@@ -943,7 +943,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000231.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000231.png",
       "sha256": "2676ca4171b3b9a5102c7de9f630ba095b24996ceb2646f09f5f0f25572ab789",
       "c2w": [
         [
@@ -990,7 +990,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000243.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000243.png",
       "sha256": "b0bd5585406e6075ae79cd35046b93a4b1ddca063c10dd51ece06f40a2e77213",
       "c2w": [
         [
@@ -1037,7 +1037,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000255.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000255.png",
       "sha256": "aae48cc8574b2b164f67bfa15dc009b96f9d2a53ea14bca510b50fcbe597f87b",
       "c2w": [
         [
@@ -1084,7 +1084,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000266.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000266.png",
       "sha256": "3316c4b8ffc1783426f45db0d60c25ba11d1fae1b729e71382474472396e956c",
       "c2w": [
         [
@@ -1131,7 +1131,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000278.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000278.png",
       "sha256": "d5e1d1a233d9f24e0134a9427409372945f7584e37db00764b74c17cdacb3735",
       "c2w": [
         [
@@ -1178,7 +1178,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000289.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000289.png",
       "sha256": "34ee867ada529458ef95bf375220fd350ad831e7baec3d69dc04331234b22ed7",
       "c2w": [
         [
@@ -1225,7 +1225,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000301.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000301.png",
       "sha256": "d405e846230f846982cd4641536e71f6d09e882d0f6205ce5175d3a8200aac9b",
       "c2w": [
         [
@@ -1272,7 +1272,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000313.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000313.png",
       "sha256": "96849393b97b78e57a1a974ee3ba723a331c804e24cde83274f1afab2f7772f2",
       "c2w": [
         [
@@ -1319,7 +1319,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000324.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000324.png",
       "sha256": "3bfb9d4ec84f71969bbb99c7ed945e163b695bfe0c422dbec34dbfc155734bf5",
       "c2w": [
         [
@@ -1366,7 +1366,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000336.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000336.png",
       "sha256": "635d36ab5e3b5929bc2fc35a0f2f87e387595451957cf7992c365410986c5a79",
       "c2w": [
         [
@@ -1413,7 +1413,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000347.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000347.png",
       "sha256": "4edfb21350e0dc65a7e82010f831436df0d63c31a5e7e5ce26a8c85185d7955d",
       "c2w": [
         [
@@ -1460,7 +1460,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000359.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000359.png",
       "sha256": "65f8c3c5a17b4eb121507462b8d4a016b1c0ea0a059894b4bba56f2fa719f7c8",
       "c2w": [
         [
@@ -1507,7 +1507,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000371.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000371.png",
       "sha256": "c8edb550c447f0707d32fc86def1f895877d5212a4f6c397aba1f9339eca25a6",
       "c2w": [
         [
@@ -1554,7 +1554,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000382.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000382.png",
       "sha256": "ec22919dfc498636f33ec864904b2c87f32ea433fd4377285e881143636c6225",
       "c2w": [
         [
@@ -1601,7 +1601,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000394.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000394.png",
       "sha256": "b1c1f0f718b6642593bffafd303d3d4211518d2737cec337a47732ac139cf4d1",
       "c2w": [
         [
@@ -1648,7 +1648,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000405.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000405.png",
       "sha256": "282b35a16de3bcdee4cc2fc96932c6569415f3a9dc6e8a752a3105f953f9b198",
       "c2w": [
         [
@@ -1695,7 +1695,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000417.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000417.png",
       "sha256": "50f62fbf442334b30f8d65ce563dec0f908aeff32028393374e6780ca758f45f",
       "c2w": [
         [
@@ -1742,7 +1742,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000429.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000429.png",
       "sha256": "6253a5d278035ea9a3df73910b4ff96e423831803e81e1cc95eab53a0d8f6726",
       "c2w": [
         [
@@ -1789,7 +1789,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000440.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000440.png",
       "sha256": "45a22f5c02b703cc68d9c11b5d5a00f688096da38680ea06cb22d4325d8f115d",
       "c2w": [
         [
@@ -1836,7 +1836,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000452.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000452.png",
       "sha256": "43ce772468c2c8abc5a5e82284736f0bd5f71012bc3f060b9d0e6fca62e14baf",
       "c2w": [
         [
@@ -1883,7 +1883,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000463.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000463.png",
       "sha256": "fe56f9d67dd5b257cc220cf5eb52f306b423e88caa34747a2f11408218b6d7ab",
       "c2w": [
         [
@@ -1930,7 +1930,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000475.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000475.png",
       "sha256": "398077b5ac17b0b00d16b049521e31df457bfad1a577e1a89550ababfa83594e",
       "c2w": [
         [
@@ -1977,7 +1977,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000487.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000487.png",
       "sha256": "2a90e898b6b746ea54322260f5c7e348bdf15da445826d0e0495a0eea243d92f",
       "c2w": [
         [
@@ -2024,7 +2024,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000498.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000498.png",
       "sha256": "12651b986746b8050b5906b1d606a5170439373dee968acd08f6adb9cba6703e",
       "c2w": [
         [
@@ -2071,7 +2071,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000510.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000510.png",
       "sha256": "e26733fae125ee4cdce5b468092d581b73adedc640e4a3aa30cb2e597b8ae5a5",
       "c2w": [
         [
@@ -2118,7 +2118,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000521.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000521.png",
       "sha256": "e9ee6354faeb17aea8b15c25b58c44a7950f8334ec9502e1fa276720b0ec3b0c",
       "c2w": [
         [
@@ -2165,7 +2165,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000533.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000533.png",
       "sha256": "ba1bf2904fcecd6d99849fa5e188cdadf300a5f31a2cb5ab7b72ab47fa492943",
       "c2w": [
         [
@@ -2212,7 +2212,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000545.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000545.png",
       "sha256": "af93f39018846878b94f7400180f0768f7f0f46f966c6c39e041e1d37606a77f",
       "c2w": [
         [
@@ -2259,7 +2259,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000556.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000556.png",
       "sha256": "2ead724a28de68dcd40f89caaa8a7eaacc8f71f5cdd593d7dd08830939b111fc",
       "c2w": [
         [
@@ -2306,7 +2306,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000568.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000568.png",
       "sha256": "914cfca15aa62ac5548c58b9bd280286acbadd763ee6cf09f72817b407ffacb2",
       "c2w": [
         [
@@ -2353,7 +2353,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000579.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000579.png",
       "sha256": "67026cf7f4c2e4c79a2dfe5cfe7c6dcb05237395a0a4f66902bd773eb025350e",
       "c2w": [
         [
@@ -2400,7 +2400,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000591.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000591.png",
       "sha256": "da3f001970661ad0fed2b33a4c1524ff253d2f1d17d157e874077409592da5b9",
       "c2w": [
         [
@@ -2447,7 +2447,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000602.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000602.png",
       "sha256": "d868c7266ee1400c22a7fa935d26cfc9202ef5a2a7c2016047436eb8be4cbd7a",
       "c2w": [
         [
@@ -2494,7 +2494,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000614.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000614.png",
       "sha256": "018b98ca95587ba425ef4cb8f92f1814c64c75a2fa4ba3401439225a9913307f",
       "c2w": [
         [
@@ -2541,7 +2541,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000626.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000626.png",
       "sha256": "2804122ee7fe74de2e84d89bdb7bd2c40425e06f2c10b21d80105f9a67ae48e3",
       "c2w": [
         [
@@ -2588,7 +2588,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000637.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000637.png",
       "sha256": "98401365a3dccd9df1b52508bbd0b6b52896e048e2ab7385e1155ba00fac651f",
       "c2w": [
         [
@@ -2635,7 +2635,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000649.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000649.png",
       "sha256": "12aab8faf498890b3acd0e1e7d1b0852f41018c45e9ecca34fb397e2adba7d92",
       "c2w": [
         [
@@ -2682,7 +2682,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000660.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000660.png",
       "sha256": "29026dad16b32f21dfd633f0f51daa71c69384ac92233afb066aa1c6c72e8d15",
       "c2w": [
         [
@@ -2729,7 +2729,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000672.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000672.png",
       "sha256": "8e0eaf3887af3f5349a8ccb1c7520b2c802b99aabdd2594a1601b377f5a3df26",
       "c2w": [
         [
@@ -2776,7 +2776,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000684.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000684.png",
       "sha256": "25471af84d04bfa2c62aac4fad8b4e686945c4858a76d40775c27c8b70fd9023",
       "c2w": [
         [
@@ -2823,7 +2823,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000695.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000695.png",
       "sha256": "56518ca42067b9bc6cfc7c5c042ae81dedea8dcba4a52ca0efb4de17b3c7c402",
       "c2w": [
         [
@@ -2870,7 +2870,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000707.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000707.png",
       "sha256": "ac6885a834e0c9a5d4f44ea817a5017036912b224c907646fc7204d3f63e1d0c",
       "c2w": [
         [
@@ -2917,7 +2917,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000718.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000718.png",
       "sha256": "482780939eda40ca8d7aef8b41d0670f1f1789ac6e393acce027936ee72c629d",
       "c2w": [
         [
@@ -2964,7 +2964,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000730.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000730.png",
       "sha256": "b6c3ad89451c11d1746b0413515f7bbaa752ccce6ead88c8211d8e184831e5ec",
       "c2w": [
         [
@@ -3011,7 +3011,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000742.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000742.png",
       "sha256": "f98ed990d2d918ac1a0c5ae1de7243a2b59981c890241502556a1a3ec2d29fa5",
       "c2w": [
         [
@@ -3058,7 +3058,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000753.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000753.png",
       "sha256": "99cbab6dbb22720e1ad6bff27943a78cf86cf3e530daaeb88a617306961a1d32",
       "c2w": [
         [
@@ -3105,7 +3105,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000765.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000765.png",
       "sha256": "79f46e1147e5da4aa495ca994d7365c5196aa189f697a3fdba05f76dc5abbfe8",
       "c2w": [
         [
@@ -3152,7 +3152,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000776.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000776.png",
       "sha256": "1f8515c15b9f0cbc47c3ccb64f35e203d490e2a20f15715b468d57195cc7f938",
       "c2w": [
         [
@@ -3199,7 +3199,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000788.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000788.png",
       "sha256": "327b8e8209abafce0cfbd41032e0d4d7e87411d12ae0a068799be501754f9c80",
       "c2w": [
         [
@@ -3246,7 +3246,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000800.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000800.png",
       "sha256": "9a95f15a1263cfd94c42d9c32805ae75f33a05d1962b7bea9da4dff9b7ea734e",
       "c2w": [
         [
@@ -3293,7 +3293,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000811.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000811.png",
       "sha256": "da7030cf3e91127685270f56aacbb0ee84fc968c8ee2afda77c36fabca17bf23",
       "c2w": [
         [
@@ -3340,7 +3340,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000823.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000823.png",
       "sha256": "5e94338e9be78208d0edb7fd5a2bfdf96a14e944c6852c0943a3ab72e0a67abf",
       "c2w": [
         [
@@ -3387,7 +3387,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000834.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000834.png",
       "sha256": "0a38ffa49f5a79f22455ddcd9cf3995dd9f754774011f0cc32775fd8da130278",
       "c2w": [
         [
@@ -3434,7 +3434,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000846.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000846.png",
       "sha256": "f4d0c0157ca1b654f0b5b716d8514411bf03e71f4eb860b1b97a33bc1dd7fc41",
       "c2w": [
         [
@@ -3481,7 +3481,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000858.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000858.png",
       "sha256": "1227d2a3345ed8ece7536bb0e8f4302f3e814793fad10480900718a4bdce8f2a",
       "c2w": [
         [
@@ -3528,7 +3528,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000869.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000869.png",
       "sha256": "e37a077fb5d7587167c0b882b0adba12470ceb682c4e01f637adf515cc16e4c2",
       "c2w": [
         [
@@ -3575,7 +3575,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000881.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000881.png",
       "sha256": "3d925860e604cf4e4d934201b1bc0b5a524973aecb80a7c132e85b4e27bff7b4",
       "c2w": [
         [
@@ -3622,7 +3622,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000892.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000892.png",
       "sha256": "9218acbdbbc352fe64e4ab87be7ed6657ec18df12340d8230d40cb6557699245",
       "c2w": [
         [
@@ -3669,7 +3669,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000904.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000904.png",
       "sha256": "4977110627a5ccda3c23fa1270284f28811e0dc60d61346778d6cbde875ddcf1",
       "c2w": [
         [
@@ -3716,7 +3716,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000916.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000916.png",
       "sha256": "55fc88202b642be1af6d7d34106b39906930d2ab1f10f9e05da18c4b264d47c8",
       "c2w": [
         [
@@ -3763,7 +3763,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000927.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000927.png",
       "sha256": "2de0ccf1253c7d7b56f13f9d36f7a0dd87f6d1aedd7de7d2907607f41c4bfbb4",
       "c2w": [
         [
@@ -3810,7 +3810,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000939.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000939.png",
       "sha256": "0e948b309aa41a722498cc29329f41c945b2f7d327e26716cb2612fe6305f627",
       "c2w": [
         [
@@ -3857,7 +3857,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000950.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000950.png",
       "sha256": "bc96d295225d37a0a3c7f0352d557215fb93cd7022f5f6e3ed21a0608146aee9",
       "c2w": [
         [
@@ -3904,7 +3904,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000962.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000962.png",
       "sha256": "db48f1cd42ce9dfc6eb3abe7262acda02a359f5716b517b43cf7500e2790ed20",
       "c2w": [
         [
@@ -3951,7 +3951,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000974.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000974.png",
       "sha256": "44832666cbf9b2027263a83873ada3aacce23017387e8db63f456151f827f1ca",
       "c2w": [
         [
@@ -3998,7 +3998,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000985.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000985.png",
       "sha256": "39f0bf0de85ab8841fef0255c2cf975335927f97f102ac9dde81a2b254e05749",
       "c2w": [
         [
@@ -4045,7 +4045,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/000997.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/000997.png",
       "sha256": "2be5d1a2ef1943c2176f5c471b252ab16b4fe6d57a49750ffc8023e8e3980961",
       "c2w": [
         [
@@ -4092,7 +4092,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001008.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001008.png",
       "sha256": "ea31c098ff84aaccf155367bbd46c91a6772845a459a83674b52f22e084ff06c",
       "c2w": [
         [
@@ -4139,7 +4139,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001020.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001020.png",
       "sha256": "254b8ccc6cde312bf9095a5552c2643c9d442e12db34fd7f919af189b7ace099",
       "c2w": [
         [
@@ -4186,7 +4186,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001032.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001032.png",
       "sha256": "20a498dd83297600aae513f0ca0438c2e74f3c0ab3abd5eadd3a158844d59f7c",
       "c2w": [
         [
@@ -4233,7 +4233,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001043.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001043.png",
       "sha256": "0d33d6326912c9b356573f13ce754e79d5a28d99cdab7bd7630cca917314efb6",
       "c2w": [
         [
@@ -4280,7 +4280,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001055.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001055.png",
       "sha256": "ebcede2661b52273936b5f3f45c467fb28319fb9aeabe92b29aaa710eb87087d",
       "c2w": [
         [
@@ -4327,7 +4327,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001066.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001066.png",
       "sha256": "692bc77b56aa79a66f9c457ddbc27be1186223c45cd2f924c55fbd1bb06abf52",
       "c2w": [
         [
@@ -4374,7 +4374,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001078.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001078.png",
       "sha256": "d71789757ae33ff22e34464a8cfb26d460fad99cb75e43e694228ae2538de6d9",
       "c2w": [
         [
@@ -4421,7 +4421,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001090.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001090.png",
       "sha256": "da5f80e7d020c009a010323b896b5cddb061374e2b58483c717feee3ab288c7c",
       "c2w": [
         [
@@ -4468,7 +4468,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001101.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001101.png",
       "sha256": "20c77604513f863e14017fba59247e43a38e99d0f8e6e5bf3eadc39653af11c7",
       "c2w": [
         [
@@ -4515,7 +4515,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001113.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001113.png",
       "sha256": "5d044b4caeadef70086feba29facaa8b330282e12fc2be588dc8cc62484bc931",
       "c2w": [
         [
@@ -4562,7 +4562,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001124.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001124.png",
       "sha256": "6de60e21478a83d8703cfd23ce27eb4c74cc45ac1e56d1d3ecddbda61953f93a",
       "c2w": [
         [
@@ -4609,7 +4609,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001136.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001136.png",
       "sha256": "66c8e42e84e5c662aa5c04fdb5e44bffba2552957df9f28f5bd2a2be7b6ea9b4",
       "c2w": [
         [
@@ -4656,7 +4656,7 @@
       ]
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001148.png",
+      "path": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001148.png",
       "sha256": "573ef5939ad112a2a00153fb3b5854c5132e4e774640e398bd2ce6622057d69e",
       "c2w": [
         [

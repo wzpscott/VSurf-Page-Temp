@@ -1,5 +1,5 @@
 {
-  "source": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/nrgbd/staircase/images/001148.png",
+  "source": "data/bench/vsurf/surface_v3/nrgbd/staircase/images/001148.png",
   "source_sha256": "573ef5939ad112a2a00153fb3b5854c5132e4e774640e398bd2ce6622057d69e",
   "thumbnail_sha256": "af3d360c3f8132d731e7fa33d927e9a1136b633a87e347308be7615aed25be88"
 }

@@ -3,7 +3,7 @@
   "source_scene": "mill19/rubble",
   "frames": [
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000000.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000000.png",
       "sha256": "c101717f1376cdc5fe9f3c5a22d6eff248118159d1f5010b424ca45e8bcdeede",
       "c2w": [
         [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000006.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000006.png",
       "sha256": "3cc1b76fe00c71734fbd48ce8d35aa8455e6b5edfc4212a1df92e25dfb461923",
       "c2w": [
         [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000013.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000013.png",
       "sha256": "03cb4afeeb75d5000924a14827c6708675e3d86dcf5027d1af38046715f0dd8d",
       "c2w": [
         [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000019.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000019.png",
       "sha256": "a5b46679befde402ca105634b1de5eedbedf2dd3d422e00e5ba13d1539c31a33",
       "c2w": [
         [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000026.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000026.png",
       "sha256": "f796db4b3cff6e3f8eab728ecf47715f7cb2d21ff7ae49e66a25bdcc0f49813c",
       "c2w": [
         [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000032.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000032.png",
       "sha256": "e96f00d6c5e05a983d0de30baf5a3355beb529c8d6a76ec92e789c4d01a54087",
       "c2w": [
         [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000039.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000039.png",
       "sha256": "e9368a55896237a2eb5ab3fb94b64b209f0bb91ac70df88d8edb79d5e4a182f5",
       "c2w": [
         [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000046.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000046.png",
       "sha256": "2d96abe9b3fd16f03c38be019e1db60e9f7565186f32dbdffe5b6f6a14aa208f",
       "c2w": [
         [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000052.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000052.png",
       "sha256": "62f36832cdc9be2916a6606bc2328a99a3d874810b35458f107b63757c6c59a9",
       "c2w": [
         [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000059.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000059.png",
       "sha256": "5f5e8a4d188bb601ac986ecaa5ce6e2596e22f8bcf52a292cd25de6a34a423ec",
       "c2w": [
         [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000065.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000065.png",
       "sha256": "c42aec0f0427802b8e54977badb1235c8c0ac084d4f5ff7fe569d6641ab6a5c3",
       "c2w": [
         [
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000072.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000072.png",
       "sha256": "705ab9bd2995ce393949b8118fa035f3e50ecadade2aea3ca631552a01792dce",
       "c2w": [
         [
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000078.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000078.png",
       "sha256": "aec8660dd47cc3be1c8cd0f768c83d1f5f8f6ec80936a70e96a78b52883b1c02",
       "c2w": [
         [
@@ -393,7 +393,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000085.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000085.png",
       "sha256": "739c7d2018c8156f7dedba056ea1c5e432cfd265b16f3c9ce6515d1639f144e6",
       "c2w": [
         [
@@ -423,7 +423,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000092.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000092.png",
       "sha256": "eabb0df3d7034550212251f39ea14797e95a796d49973a547e9a1b69c50c6f1b",
       "c2w": [
         [
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000098.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000098.png",
       "sha256": "5f1e4cbec95ead3b39b86053298789d3d3e3ef6b697f2f8199959b85898ef8b5",
       "c2w": [
         [
@@ -483,7 +483,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000105.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000105.png",
       "sha256": "9949fd69824dbca4f02cf399471f1031441f51685a4de132ffba44268f64bfae",
       "c2w": [
         [
@@ -513,7 +513,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000111.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000111.png",
       "sha256": "150fc2511fce27b15284c32605867a452d8fa587805f7611522c71ca356aa96d",
       "c2w": [
         [
@@ -543,7 +543,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000118.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000118.png",
       "sha256": "06087c55a06fc0fd44feec03bdd495f8f0ecd28fee17599914956f6836be58cd",
       "c2w": [
         [
@@ -573,7 +573,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000124.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000124.png",
       "sha256": "80babacfeee4d91cf0b95b22d9e1e1b569ee637d704a4675d676762ec3cb9c68",
       "c2w": [
         [
@@ -603,7 +603,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000131.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000131.png",
       "sha256": "1e8e8baf65bb16be859c3d694d4f2c2b75177af55bc348ecc5c9488e9e024239",
       "c2w": [
         [
@@ -633,7 +633,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000138.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000138.png",
       "sha256": "eb160ae0e74453984478dd138b5a0fc6e094b2265279cafa75f67f764d01eb2b",
       "c2w": [
         [
@@ -663,7 +663,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000144.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000144.png",
       "sha256": "5d1882e0efecc6c2d73b73812d7b1214e7d3659a9302010bb5794e9ba81fae71",
       "c2w": [
         [
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000151.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000151.png",
       "sha256": "893a343f4fc2b337a9ed7d088a90c248015bd3661845e68b284f6a9268104611",
       "c2w": [
         [
@@ -723,7 +723,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000157.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000157.png",
       "sha256": "e72806be11f69aca5e734ba08f2e6b5af61b935d342565f20e47a1c24c0393de",
       "c2w": [
         [
@@ -753,7 +753,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000164.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000164.png",
       "sha256": "03e1459b28fbd3da1b4d0274ca73f0341661f4881b06b704ab9de79990af637c",
       "c2w": [
         [
@@ -783,7 +783,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000170.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000170.png",
       "sha256": "dc4b242673b52b66e0b3b10a3ea4d3bd9b232156b1b7e7e8c208eb786a01f271",
       "c2w": [
         [
@@ -813,7 +813,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000177.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000177.png",
       "sha256": "728e5008f8b6659c6e43894fd3723f443e72a005ea32fa66341c0f4397e71025",
       "c2w": [
         [
@@ -843,7 +843,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000184.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000184.png",
       "sha256": "40024bf4c53a30fd1b03088c3cceecb8ad8a5b91e9d0f54fbc890080f2c31bd3",
       "c2w": [
         [
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000190.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000190.png",
       "sha256": "3178191fce3ef43ebb6f0bc94caa5db94e1f0cd6ba2616120a92e3ee1a2dc2fc",
       "c2w": [
         [
@@ -903,7 +903,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000197.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000197.png",
       "sha256": "b32ebfaf2708e7572bf8a67b7584cdc390726fea0d39dd02dfe2688426601e81",
       "c2w": [
         [
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000203.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000203.png",
       "sha256": "e2f0fc525722a95c32cb9b0dba92f7e045cdd81e03cb341251b4a80dcd3e81ef",
       "c2w": [
         [
@@ -963,7 +963,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000210.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000210.png",
       "sha256": "a16c6876e3fb29e93f72ab8331c4285a6204698044553c71cd96188a0440c3cd",
       "c2w": [
         [
@@ -993,7 +993,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000216.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000216.png",
       "sha256": "a94bdb72c69472e551718c5e7ec2158e734b8c325f031aa15a2be9504d6dcdf0",
       "c2w": [
         [
@@ -1023,7 +1023,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000223.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000223.png",
       "sha256": "ef03bb9311986bc88d99a47694badd191fb105cefc6f62479c0a15efe7c4e586",
       "c2w": [
         [
@@ -1053,7 +1053,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000230.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000230.png",
       "sha256": "846f50f95f7eed07b1c9bebbf39b861c4b1e6d22a74a3df0c8cdb825bcdc46ae",
       "c2w": [
         [
@@ -1083,7 +1083,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000236.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000236.png",
       "sha256": "080124ff745ab299f3c5ab9eab5d11ab653a6d4f0a9297d9ad03ebbf118d0c4c",
       "c2w": [
         [
@@ -1113,7 +1113,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000243.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000243.png",
       "sha256": "b7073dfcaccabdab6048d688776b1439e55c2d40cf6d7a42a99979be092ab6e4",
       "c2w": [
         [
@@ -1143,7 +1143,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000249.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000249.png",
       "sha256": "4362757c13b4396ee826f82805a5d36ed9cab5705e08a4ed2432e17f641c51c1",
       "c2w": [
         [
@@ -1173,7 +1173,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000256.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000256.png",
       "sha256": "6c35e87c00192357c8aaee37b016a14ea9defa8496f691ddfa9004f2f7acb074",
       "c2w": [
         [
@@ -1203,7 +1203,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000262.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000262.png",
       "sha256": "c14cba66646302d5da10869386a99f83183afac1cc11233f9fb079284f8beefe",
       "c2w": [
         [
@@ -1233,7 +1233,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000269.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000269.png",
       "sha256": "9f741a65235e0e8a519bfafad1b3d2181182daf12710eaf3868982be2d5dbe13",
       "c2w": [
         [
@@ -1263,7 +1263,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000276.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000276.png",
       "sha256": "45c6e6bcb622b8f6a22c8f5463f3295a55e55794183bd65e168fdc2b180d3732",
       "c2w": [
         [
@@ -1293,7 +1293,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000282.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000282.png",
       "sha256": "644a03969d1855e308bf4a869cf4071a03c27817a76b9e85043b295be8bc5881",
       "c2w": [
         [
@@ -1323,7 +1323,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000289.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000289.png",
       "sha256": "e989b4ac43e0c18cb11baeebeaab4f9f6eb32080899da3e4e7817dd66163d48f",
       "c2w": [
         [
@@ -1353,7 +1353,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000295.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000295.png",
       "sha256": "4a520c56cbbff45a3ddd906cc66d5d7c9a01412a1e030520672dec11fc09daf0",
       "c2w": [
         [
@@ -1383,7 +1383,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000302.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000302.png",
       "sha256": "dd077f614e10c1010a8b65a4d3bffd81870c28b0d33f484334e57bfa101e2a0d",
       "c2w": [
         [
@@ -1413,7 +1413,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000308.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000308.png",
       "sha256": "ddfb22acd55acea6edf8c3a5ae529b1a77ad6020d1944b10aedc3d464422f882",
       "c2w": [
         [
@@ -1443,7 +1443,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000315.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000315.png",
       "sha256": "d1de60c6ea927ef24babc7d1ed7214994c8946e0ceae10e0980c18282202a5f0",
       "c2w": [
         [
@@ -1473,7 +1473,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000322.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000322.png",
       "sha256": "5b939da6c029b8079de9b3302784b0cf60bf60a6ffd81582aa783ff84fd9d168",
       "c2w": [
         [
@@ -1503,7 +1503,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000328.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000328.png",
       "sha256": "beb9ca8f81fffe1c2edef1d8b2bea390f56aabf841ce8e424c758b3cc6a24a7e",
       "c2w": [
         [
@@ -1533,7 +1533,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000335.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000335.png",
       "sha256": "80fd5bded5156a58b44c01176b5ada5fcc3e6e998a064e206f3a42391419a58b",
       "c2w": [
         [
@@ -1563,7 +1563,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000341.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000341.png",
       "sha256": "3a89ff9e51ba30e10ca13dde3592914b535429a39b590fc7afb055d55db50e5a",
       "c2w": [
         [
@@ -1593,7 +1593,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000348.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000348.png",
       "sha256": "8bb0a4cca79a8af2470a2641a2b434da6f95e05974416d49920e8dbd72b8a2cb",
       "c2w": [
         [
@@ -1623,7 +1623,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000354.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000354.png",
       "sha256": "c9795a2d2717daed7f7226f3e11769b04efaafdb9afbee85ff15a81e27ac7ac1",
       "c2w": [
         [
@@ -1653,7 +1653,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000361.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000361.png",
       "sha256": "482c41860da444902b8a9149367bb4097c5279effb12b1d7ec3f5c502d496f0f",
       "c2w": [
         [
@@ -1683,7 +1683,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000368.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000368.png",
       "sha256": "721a22cb6f99af95df083fae5139583817acc012fd65f16f96231c06ae21fa97",
       "c2w": [
         [
@@ -1713,7 +1713,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000374.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000374.png",
       "sha256": "c7dce90f9b98765db9f6fa94c06c26b1c6bfb0ac289589301e7497c12d0603e4",
       "c2w": [
         [
@@ -1743,7 +1743,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000381.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000381.png",
       "sha256": "8b66054d3c465320e00d3050058f7133136221da480e5eeea00bc41acd25969f",
       "c2w": [
         [
@@ -1773,7 +1773,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000387.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000387.png",
       "sha256": "a0b48f3b9449fff9432c181602add934fbe54fe23ab6e24ff30a7f60edddabab",
       "c2w": [
         [
@@ -1803,7 +1803,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000394.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000394.png",
       "sha256": "615ff58934573f7fcfa2fef3d1f831a76a4251246de30f83d1727a8c16af6ca4",
       "c2w": [
         [
@@ -1833,7 +1833,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000400.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000400.png",
       "sha256": "8cb93c0d7eb794c2e7801f0cafcda015a54ab1d11dd119e5a0a1f055bfa6a392",
       "c2w": [
         [
@@ -1863,7 +1863,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000407.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000407.png",
       "sha256": "be1c156601797a6e95ebab9eec77550e5f38dbcf0c84c581f5ea55a414659095",
       "c2w": [
         [
@@ -1893,7 +1893,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000414.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000414.png",
       "sha256": "eb28edc1054dd4791a12adda0c4ee121f1ff2993cda78202639ffb76aa7589fb",
       "c2w": [
         [
@@ -1923,7 +1923,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000420.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000420.png",
       "sha256": "ad094e4617eb2c7c5033033ec8e629c3a2442fb659dd62d6fea958d3bcae34ea",
       "c2w": [
         [
@@ -1953,7 +1953,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000427.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000427.png",
       "sha256": "06f4ae1c1812f6728177b5a1ad87b84b178621ae56a43a392ee356f41f43b6c3",
       "c2w": [
         [
@@ -1983,7 +1983,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000433.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000433.png",
       "sha256": "ebab58d04533098d07ac266a8a97cd4780792772802cc1c443485c7455fd6de6",
       "c2w": [
         [
@@ -2013,7 +2013,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000440.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000440.png",
       "sha256": "ae1ffb9379712e1c130c68f47dcd3de52efe35a812b45c7ce6f4958b3e427c0b",
       "c2w": [
         [
@@ -2043,7 +2043,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000446.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000446.png",
       "sha256": "26e58d26fb8aaff5da81e9de4b71da09e2b0bd2c7d4c168045cec106e0dbaef8",
       "c2w": [
         [
@@ -2073,7 +2073,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000453.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000453.png",
       "sha256": "4d5cc64c6f204a65e6843eb07a453794cf8a8e3346df8ced82dd102be248f4c7",
       "c2w": [
         [
@@ -2103,7 +2103,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000460.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000460.png",
       "sha256": "4c40aa330e783ac3b672e93bac1ad5f9e8fbef4b0253de6f1871e5072608f552",
       "c2w": [
         [
@@ -2133,7 +2133,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000466.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000466.png",
       "sha256": "a709cad756532c8c76d14d03b0ea4e908d1687694db0e43ba3af39782b2908bc",
       "c2w": [
         [
@@ -2163,7 +2163,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000473.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000473.png",
       "sha256": "9289837728c5f59c80ae5c1365f5115d24c1ec51a501cf338182228908ed8922",
       "c2w": [
         [
@@ -2193,7 +2193,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000479.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000479.png",
       "sha256": "bface6fecb21074d032dca762d9cd368c4a2c8239591f58b237d5b4b2281027a",
       "c2w": [
         [
@@ -2223,7 +2223,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000486.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000486.png",
       "sha256": "2914f02325c0de118f1681dc2eceda3a564b1f2ea1c085369c46f82167048d2e",
       "c2w": [
         [
@@ -2253,7 +2253,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000492.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000492.png",
       "sha256": "85ecabd7cbd6860a95f15924e1f6706c167846afcb51ff4e7299fb42a16692b6",
       "c2w": [
         [
@@ -2283,7 +2283,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000499.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000499.png",
       "sha256": "3eeebcde53aaa0eff44bbc6a39d9560dc8804687304bb00038d1ecf43111495c",
       "c2w": [
         [
@@ -2313,7 +2313,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000506.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000506.png",
       "sha256": "8fc1a16f310a8a44d3b6c302fe725ac7f1277e389913aae9d60eb0d5dba84d2b",
       "c2w": [
         [
@@ -2343,7 +2343,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000512.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000512.png",
       "sha256": "e80ce075fc1dcbdb23122c68cdaec3f73c8cbfae1f24e18537423804db97b230",
       "c2w": [
         [
@@ -2373,7 +2373,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000519.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000519.png",
       "sha256": "0a5c013d382e92a8bb1d04d7db2bed77ac8e2e61fdb4038416ed796fa70e765a",
       "c2w": [
         [
@@ -2403,7 +2403,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000525.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000525.png",
       "sha256": "5fae2fb176e2bd563c29a9e14d660aa33757a8b1a66f12cf92ce4ba4a80a6cef",
       "c2w": [
         [
@@ -2433,7 +2433,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000532.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000532.png",
       "sha256": "6cb370d7a398334405ed163b51b4aaa53abf422f13f51b2c7fb022b0798ac5b2",
       "c2w": [
         [
@@ -2463,7 +2463,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000538.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000538.png",
       "sha256": "6217502e707ee6960765ecc3949e5c98e686cf28e8ac8cc57b7a1fded57cf2c9",
       "c2w": [
         [
@@ -2493,7 +2493,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000545.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000545.png",
       "sha256": "f071d1debb412c8c1d6345ffdfa243678a28c68345d6745cc98f80bdfab874b3",
       "c2w": [
         [
@@ -2523,7 +2523,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000552.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000552.png",
       "sha256": "bd8972c180951f05965d45a95903257db95ac2562a76bfc06c498a64bd90b2c7",
       "c2w": [
         [
@@ -2553,7 +2553,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000558.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000558.png",
       "sha256": "6ce2783e6100906cc02318f7894f2ecfaa3c08fc74daed7389ee5009e2db9d02",
       "c2w": [
         [
@@ -2583,7 +2583,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000565.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000565.png",
       "sha256": "092d59888b2a1826cc5421c252368debc3856c815607076cd0ae144cbf14ccf0",
       "c2w": [
         [
@@ -2613,7 +2613,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000571.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000571.png",
       "sha256": "bb516cf146e41118004af5c92f49abfe473e791d1183f87b04aa14ecf5a07075",
       "c2w": [
         [
@@ -2643,7 +2643,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000578.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000578.png",
       "sha256": "5e8a3f0dcaafdb06c7d0c5e35cc1352c8c6d6592bf9c7b5dfd8061246a5ba092",
       "c2w": [
         [
@@ -2673,7 +2673,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000584.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000584.png",
       "sha256": "bc1d0b1350d13e047b987e12f2acfeea99b4dcebb182a557ec6d7350cf6998c7",
       "c2w": [
         [
@@ -2703,7 +2703,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000591.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000591.png",
       "sha256": "3938b631e5282bd52a881dbf32ce53ea96493150c3e2936f52c01f4020008726",
       "c2w": [
         [
@@ -2733,7 +2733,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000598.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000598.png",
       "sha256": "a0a4842a059fa644abc839c72b2d71aad54cc386cf07118c10f5fdce9246ce54",
       "c2w": [
         [
@@ -2763,7 +2763,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000604.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000604.png",
       "sha256": "20e3408f83abef3b49e8657fc075a265cc8e18c48377e31c74fdb6d1f410c632",
       "c2w": [
         [
@@ -2793,7 +2793,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000611.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000611.png",
       "sha256": "196ffeba3c531cb1c3d1c6fff9ebd0efdd8a03939ce5befb174de60a757c721a",
       "c2w": [
         [
@@ -2823,7 +2823,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000617.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000617.png",
       "sha256": "3926485fc210b0fef0da8a39dd32fc3db101160abc18e505573361931020df93",
       "c2w": [
         [
@@ -2853,7 +2853,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000624.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000624.png",
       "sha256": "06e52454290958e79dc11269ab84435d2ba78f5b2ace797c67b29a23b5ff85e2",
       "c2w": [
         [
@@ -2883,7 +2883,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000630.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000630.png",
       "sha256": "7b1905c1e4338237944bfeff08657f4a8ba3b7ed90c733665d31f211eb4c8530",
       "c2w": [
         [
@@ -2913,7 +2913,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000637.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000637.png",
       "sha256": "8158c872600facdf1ddb1dd5e140e89d9193d4611b59569558843a29f0c9a8ec",
       "c2w": [
         [
@@ -2943,7 +2943,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000644.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000644.png",
       "sha256": "b1354315d249358a486ced0c8f8fb5329cfa25ed3e696b40fa8b8859661b81bd",
       "c2w": [
         [
@@ -2973,7 +2973,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000650.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000650.png",
       "sha256": "d1e5a75504215a784d247f656f9f1305fa8d40fad76a1735696d489816880010",
       "c2w": [
         [
@@ -3003,7 +3003,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000657.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000657.png",
       "sha256": "a5ce727a7142eb406427276f988523b835f1491b11e3319861f07303c57ccac1",
       "c2w": [
         [
@@ -3033,7 +3033,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000663.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000663.png",
       "sha256": "df63a2626bdcd4a71d85f330594874b1762320722ddef83e840281ccbff4c21a",
       "c2w": [
         [
@@ -3063,7 +3063,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000670.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000670.png",
       "sha256": "c74cd8c268034f9dd1bcd88d880666a536872f43bf21b6247ba3b6fa81a939d3",
       "c2w": [
         [
@@ -3093,7 +3093,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000676.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000676.png",
       "sha256": "b501876e1f4c6ae08858e128522fff82521a1669d3fcf949e30d1fda02b62922",
       "c2w": [
         [
@@ -3123,7 +3123,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000683.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000683.png",
       "sha256": "01129566964de212036525a20dc903a8173ac2f95edb586cba2f76f80860149d",
       "c2w": [
         [
@@ -3153,7 +3153,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000690.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000690.png",
       "sha256": "bb1da28379dfc6f11d59e4704c6497c366233221ae7df9424354d4bbeedea25a",
       "c2w": [
         [
@@ -3183,7 +3183,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000696.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000696.png",
       "sha256": "60d0bbfdd4b47eb4dbead7eef2009576168252db04a9f965b8acd966766752ad",
       "c2w": [
         [
@@ -3213,7 +3213,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000703.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000703.png",
       "sha256": "a644186fab91bf90bb076d2bd2128bf59f30a17870657c3aebedfdb03cf33995",
       "c2w": [
         [
@@ -3243,7 +3243,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000709.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000709.png",
       "sha256": "6c03c3fd7dbf089eecab184db142a629f22e04b01359eaf566f679150935aa42",
       "c2w": [
         [
@@ -3273,7 +3273,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000716.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000716.png",
       "sha256": "f8e2b3365e9d88d83d0b158645ed2bde37c0cfe73ebda9f4953c365c071175e5",
       "c2w": [
         [
@@ -3303,7 +3303,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000722.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000722.png",
       "sha256": "5641ee4a76ab9c26e84fe080cd7bb3d10e4b46668377140afeebe2fb51f7da4f",
       "c2w": [
         [
@@ -3333,7 +3333,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000729.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000729.png",
       "sha256": "af2b7d7c2d17d003cbda399420ad625c802a9c0bcbc662694992b9f51ac04197",
       "c2w": [
         [
@@ -3363,7 +3363,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000736.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000736.png",
       "sha256": "ea9980ca8b09635f7d6910288e7b1f510d838d0a78e367586ebd99e2a87d1243",
       "c2w": [
         [
@@ -3393,7 +3393,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000742.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000742.png",
       "sha256": "fc8b5bd4eb061b5ac5e5a2ce8ec831f58182434adb303ea9cf128936bffb8eea",
       "c2w": [
         [
@@ -3423,7 +3423,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000749.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000749.png",
       "sha256": "a38721acfc616780de2a041f0a9eb0d1a7cddd9a261806c2471f8bffd567bf1c",
       "c2w": [
         [
@@ -3453,7 +3453,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000755.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000755.png",
       "sha256": "4bbd91e1f71a59fc9de203f71563a198ccec20a29356accdef0b6f0c945496b4",
       "c2w": [
         [
@@ -3483,7 +3483,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000762.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000762.png",
       "sha256": "2edf0201ce4a51820ba7d380257409332ae733f1237b0e25aa84fa74cb12a7d2",
       "c2w": [
         [
@@ -3513,7 +3513,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000768.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000768.png",
       "sha256": "36928821b03e0a3c76cd5a8c7b32f236903614c5036681e8ec444f5eb51a47f0",
       "c2w": [
         [
@@ -3543,7 +3543,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000775.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000775.png",
       "sha256": "e60dd7e4a41fc9a5852db64c82a1ebdca51bf528a9f68610b2564f98dae466ba",
       "c2w": [
         [
@@ -3573,7 +3573,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000782.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000782.png",
       "sha256": "fd9b49cf50804dcc23b6caea3e11954dc186aa089f571223c90982e71e184e4d",
       "c2w": [
         [
@@ -3603,7 +3603,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000788.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000788.png",
       "sha256": "1398c064791e8ea3749136a32b54193d935ebcd0346bdcf0ebf71394f04c2994",
       "c2w": [
         [
@@ -3633,7 +3633,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000795.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000795.png",
       "sha256": "9d79a742bff29ef156712932bac632c123ecc360ae68e4bbb2437902152837d0",
       "c2w": [
         [
@@ -3663,7 +3663,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000801.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000801.png",
       "sha256": "58caf71a4c79fa29567a344ee3d7db00e84fa77b26a2ca0dcf4b439c73f2ba7c",
       "c2w": [
         [
@@ -3693,7 +3693,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000808.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000808.png",
       "sha256": "8450ea082008fc019e36378358b11dfd35e571aa9aec1dc98637728e4f168b4d",
       "c2w": [
         [
@@ -3723,7 +3723,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000814.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000814.png",
       "sha256": "26e92dad90140b9a653334728bc49264c185d547dc841e0916c4d5f18f4ff944",
       "c2w": [
         [
@@ -3753,7 +3753,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000821.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000821.png",
       "sha256": "7485c5595c28c82b67ea9c53397ecbd639baf4655c9b77f36b10660fc039e02a",
       "c2w": [
         [
@@ -3783,7 +3783,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000828.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000828.png",
       "sha256": "5d89397fa0ad18782bcededd487446c332213f82d7da55a3c0a064d39dcf1b94",
       "c2w": [
         [
@@ -3813,7 +3813,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000834.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000834.png",
       "sha256": "2921bbe06e275937b1c9f3b70c8d254f922ada8c8c8c16a602798894bc2412bc",
       "c2w": [
         [
@@ -3843,7 +3843,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000841.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000841.png",
       "sha256": "052082cbe0ec648dc06028c478cd4f1c9a7d8d19b8189294545d2678b8359ede",
       "c2w": [
         [
@@ -3873,7 +3873,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000847.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000847.png",
       "sha256": "73290a79cdfcc2b9a07e160ee97eeef9922f50c306b742e8f45924e4281b37df",
       "c2w": [
         [
@@ -3903,7 +3903,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000854.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000854.png",
       "sha256": "fb1be81b61bc2fccd6e854f32d5695620a22ae1d9d8494c068d479909d140cbf",
       "c2w": [
         [
@@ -3933,7 +3933,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000861.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000861.png",
       "sha256": "62fbfce0e8dca4880dc95fb83a13df58b194898a33724ee2125a14862d2569d4",
       "c2w": [
         [
@@ -3963,7 +3963,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000867.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000867.png",
       "sha256": "43dfce1ccf5d835d3d8781e3a36922f2b63838e543a60ab4bf188cf4b94764ee",
       "c2w": [
         [
@@ -3993,7 +3993,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000874.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000874.png",
       "sha256": "d566053cfcba9bdeb09cc0b08597d49534fd48bcf4b732045d9a617343ed0de5",
       "c2w": [
         [
@@ -4023,7 +4023,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000880.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000880.png",
       "sha256": "e6c55191f9193ad22f725c8a138fd4592840ca89b50b7c3f7b1e71efca406f78",
       "c2w": [
         [
@@ -4053,7 +4053,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000887.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000887.png",
       "sha256": "6af4a6b5c367b3dd141acda04d931a7baf22b6c4307cb38dcff67f3af13ab0f9",
       "c2w": [
         [
@@ -4083,7 +4083,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000893.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000893.png",
       "sha256": "4d28120c754bb220cebc68b0d1d1b6333788ac381234e6baf8193834bf948754",
       "c2w": [
         [
@@ -4113,7 +4113,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000900.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000900.png",
       "sha256": "52745904ad016f34bbf7474be0153143f5055c47f8cd9b9683910d1dac24605f",
       "c2w": [
         [
@@ -4143,7 +4143,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000907.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000907.png",
       "sha256": "5b3b0abbcd53c5994dabf5d80acd3c10dcbabaa08c53a82944dfc86b23ce9e0e",
       "c2w": [
         [
@@ -4173,7 +4173,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000913.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000913.png",
       "sha256": "c106e2a9f36556d7fa0019b9f5379cff319c5886e86fc93e268e7e0462692f97",
       "c2w": [
         [
@@ -4203,7 +4203,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000920.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000920.png",
       "sha256": "922074ee887a337934be99fb896c9e8b5605fe7f00223f1e5cf2914a85483bbf",
       "c2w": [
         [
@@ -4233,7 +4233,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000926.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000926.png",
       "sha256": "92846a286d73554ff996adeb48c6751b41adb745382baca088fd54ec90788ec5",
       "c2w": [
         [
@@ -4263,7 +4263,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000933.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000933.png",
       "sha256": "285fae00e7c3be365edc691716304360bd6f830afcdf3425a7602b7714d392c6",
       "c2w": [
         [
@@ -4293,7 +4293,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000939.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000939.png",
       "sha256": "23d4361744c4a16b4134f68010d846ecfa3d083daabd9cc61a5cecc05bd45e0e",
       "c2w": [
         [
@@ -4323,7 +4323,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000946.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000946.png",
       "sha256": "e1bfd544c65f3ed097e9256bbd430bd89b5f2119d41268ef6e75d1158b67d9cc",
       "c2w": [
         [
@@ -4353,7 +4353,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000953.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000953.png",
       "sha256": "7b912123181bd5a00790950f69dd35d8cfa8a59f07a6efdab869f9f7d09cf18d",
       "c2w": [
         [
@@ -4383,7 +4383,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000959.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000959.png",
       "sha256": "ef149760efc707b72b6b7a2dbd1613b0690743f9a9bf3f3c16b2d0f0ea991652",
       "c2w": [
         [
@@ -4413,7 +4413,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000966.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000966.png",
       "sha256": "8c0b7778121a12bcda841f15ef7e0a6a4c0cf765c2d1aa85f95767de8ec458f4",
       "c2w": [
         [
@@ -4443,7 +4443,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000972.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000972.png",
       "sha256": "9c2aa6bcf361188b34b38ffeed751c339ff2e160a3a06f5ca5c31bf77eed2632",
       "c2w": [
         [
@@ -4473,7 +4473,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000979.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000979.png",
       "sha256": "9ccfc30f7492e06b711098841d6925c0e5a91554980ffa33f41b25653a2fba2e",
       "c2w": [
         [
@@ -4503,7 +4503,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000985.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000985.png",
       "sha256": "9ec8d7e0a2c84ebe17168d221c8e9a425a4e83368ce7cdd8350a3183d59acd40",
       "c2w": [
         [
@@ -4533,7 +4533,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000992.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000992.png",
       "sha256": "3a0d6833c8be8cce8ef2aabce0798f9c95652f6c0c7c4b6f9f81726acaddbe13",
       "c2w": [
         [
@@ -4563,7 +4563,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/000999.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/000999.png",
       "sha256": "413a442e6ed4ddd99647332cf57c306349c4852968c67a100a369d07bc2cfa80",
       "c2w": [
         [
@@ -4593,7 +4593,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001005.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001005.png",
       "sha256": "61fcfcb2450b9bcbeac11bc8d1306c8d5845c7bc9b182603055e2b40ca82643c",
       "c2w": [
         [
@@ -4623,7 +4623,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001012.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001012.png",
       "sha256": "30cc84135038157b31ac92483157f0ef10c422dabe16e3361b6135e8dd72191f",
       "c2w": [
         [
@@ -4653,7 +4653,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001018.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001018.png",
       "sha256": "5e75854fa32436d5d909a12ca587e2e35f79a7e18830ecf7a63dd86ae0c98948",
       "c2w": [
         [
@@ -4683,7 +4683,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001025.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001025.png",
       "sha256": "3ad182738b1a2d732ed861b226c943f93c9b8bf25cb7a2893af7cb1e92068ee9",
       "c2w": [
         [
@@ -4713,7 +4713,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001031.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001031.png",
       "sha256": "4813f4bf7805512b1c2076ca72e7d6d9e8a336383be78e8f326b93fcedb991b6",
       "c2w": [
         [
@@ -4743,7 +4743,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001038.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001038.png",
       "sha256": "6ea0fd40f19bca3837e559461fb91f3ab6fd2ec054a469547c04051d2ab96207",
       "c2w": [
         [
@@ -4773,7 +4773,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001045.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001045.png",
       "sha256": "7122157b4ff32b9285b7162887e408f7db18b637049c7a90107e69fe4ec2f720",
       "c2w": [
         [
@@ -4803,7 +4803,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001051.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001051.png",
       "sha256": "8ba82d56e2602d59a862aa9c1269b0da0081113e259c9bac8f06b57c68ce7d74",
       "c2w": [
         [
@@ -4833,7 +4833,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001058.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001058.png",
       "sha256": "95b256ce6ca417c8d23d395c9b5feef2b8522ddd4695b5568215f9930ba1bbb1",
       "c2w": [
         [
@@ -4863,7 +4863,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001064.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001064.png",
       "sha256": "bf3652d5fbcb7eb5db7f016dc43ebf7f2959113dbfd74fbfce1b56b0cc23ae71",
       "c2w": [
         [
@@ -4893,7 +4893,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001071.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001071.png",
       "sha256": "fe81c06bfd89b6e4aff2db38233064e37b9e6cd5c6c42843868183f4007aa159",
       "c2w": [
         [
@@ -4923,7 +4923,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001077.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001077.png",
       "sha256": "fc98c92e8dbc338ce2c61a3d83e5e45b47272e2c72343db595a4d4000e27176f",
       "c2w": [
         [
@@ -4953,7 +4953,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001084.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001084.png",
       "sha256": "d44a611f1be2bbfbd66088d0208118284657e05565ca3236b652e74928d4807f",
       "c2w": [
         [
@@ -4983,7 +4983,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001091.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001091.png",
       "sha256": "9a30bd1cff3277b8abe5262c50a5c37de5e0982951f341b4436cb4597df287ce",
       "c2w": [
         [
@@ -5013,7 +5013,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001097.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001097.png",
       "sha256": "766584d6982034099fa524e0e959249870488b4cc80ba7de89050e6ffd1a1d6d",
       "c2w": [
         [
@@ -5043,7 +5043,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001104.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001104.png",
       "sha256": "74919429549977caaaa9b1d37b240d51191be886b92149a0f4797917a489ff9b",
       "c2w": [
         [
@@ -5073,7 +5073,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001110.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001110.png",
       "sha256": "dc06ec5c4f285ae53bb35811a1590b6ec7faf4d370af6c9bb440b6f3602d8958",
       "c2w": [
         [
@@ -5103,7 +5103,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001117.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001117.png",
       "sha256": "05f4d5cccdea8c491697429ac2a2dea7fb83ec289113aedbcd63ce7328923917",
       "c2w": [
         [
@@ -5133,7 +5133,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001123.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001123.png",
       "sha256": "9cb1c330f65072010bdd4b435c2d29ba284874e1165c20b0556fb1f64f5f6be1",
       "c2w": [
         [
@@ -5163,7 +5163,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001130.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001130.png",
       "sha256": "bc38001c4e375adac6c7a824e44583259e8a6bde796a5fea1de266e16bfde1ca",
       "c2w": [
         [
@@ -5193,7 +5193,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001137.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001137.png",
       "sha256": "0b6d8b5375dd0c24f8abd229e1bd70e8699fe945a0ec6ccdb2d70d971b9bdfc0",
       "c2w": [
         [
@@ -5223,7 +5223,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001143.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001143.png",
       "sha256": "cf1f17e3470b95d82fec0ed2f4983a76399c27b16bb6ed1bb2aea9c021ae694c",
       "c2w": [
         [
@@ -5253,7 +5253,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001150.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001150.png",
       "sha256": "185285048fa5193296f897141816b813b84289b47a0170a31b63f85748bcdb7f",
       "c2w": [
         [
@@ -5283,7 +5283,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001156.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001156.png",
       "sha256": "bd5774e03be3709c103ffdb1deb82eae11d53864d40e4d6cdb1206b77ccbf9cd",
       "c2w": [
         [
@@ -5313,7 +5313,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001163.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001163.png",
       "sha256": "7a535b46ceac45e8eb6c64ad162b1ad73420a41a9bdcae71bfee526c24c6409d",
       "c2w": [
         [
@@ -5343,7 +5343,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001169.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001169.png",
       "sha256": "15f7c8f2f83474d7083a874f23906cdbb382245ccbe37c8d0234c5a26c7f95c7",
       "c2w": [
         [
@@ -5373,7 +5373,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001176.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001176.png",
       "sha256": "da7e2aa306c5a1c310a17cff9d3831c351cc7a626cee884fba723df9582ba76d",
       "c2w": [
         [
@@ -5403,7 +5403,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001183.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001183.png",
       "sha256": "f45ce18da1216c69fd6e3e03c03f2c714249b737181c2b8f004b1b878d106d53",
       "c2w": [
         [
@@ -5433,7 +5433,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001189.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001189.png",
       "sha256": "6be84654f5bdf247dde3b475c0028af35f6bd09cbebc6d871778d7ecdb29e7df",
       "c2w": [
         [
@@ -5463,7 +5463,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001196.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001196.png",
       "sha256": "9f2b4a55342e4c99564d8b3bcf2475ff5c09c9608f87948a3cf7c92dc149a9a0",
       "c2w": [
         [
@@ -5493,7 +5493,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001202.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001202.png",
       "sha256": "e152618f9517e4bb046015a13fa220e0d743f68ac36e1c97d6f0e8f3ef374dc6",
       "c2w": [
         [
@@ -5523,7 +5523,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001209.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001209.png",
       "sha256": "32c056b5cb1f077c20cc81b5e2d499fe2c5a73b5edb394bec71d6a37a77d04ef",
       "c2w": [
         [
@@ -5553,7 +5553,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001215.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001215.png",
       "sha256": "5416821a77b7c9e7f410646d7848a295f76ae36bda44d76c57c960afa1d4cb26",
       "c2w": [
         [
@@ -5583,7 +5583,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001222.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001222.png",
       "sha256": "c071b636ac6c6b0a0acea33746484517e19c43782d15df1b2e793c0f52549478",
       "c2w": [
         [
@@ -5613,7 +5613,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001229.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001229.png",
       "sha256": "6decc0fa9ae02f835fa58aaf45497e0906bb5727e34b94114df64639aba520e5",
       "c2w": [
         [
@@ -5643,7 +5643,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001235.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001235.png",
       "sha256": "0071f3fe4a3df72a13b2af872a1c336e3c459ed2baafb317939dfbe713aea8f4",
       "c2w": [
         [
@@ -5673,7 +5673,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001242.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001242.png",
       "sha256": "df40ee9331f48ea355cb6a31b4ebba89112c60514504deece7291b6126f6274f",
       "c2w": [
         [
@@ -5703,7 +5703,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001248.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001248.png",
       "sha256": "b5a85efd463a1f8b098b37820631cec6e93a769692eedb9bcedecdccf1aa4384",
       "c2w": [
         [
@@ -5733,7 +5733,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001255.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001255.png",
       "sha256": "8f4ea1ef051da8ab0a26938910fa5078c94d45a5b354163cdaee302ecc581983",
       "c2w": [
         [
@@ -5763,7 +5763,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001261.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001261.png",
       "sha256": "4526d9ea594094729fbe142c055b52d26184a18b39bda2adb3ee584c64ea3fa6",
       "c2w": [
         [
@@ -5793,7 +5793,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001268.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001268.png",
       "sha256": "281a78c23457f0d013be21354e72c4a876ecacf4d3eb243269ae9b12c355f6c8",
       "c2w": [
         [
@@ -5823,7 +5823,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001275.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001275.png",
       "sha256": "f975d9f35d9e15800c75f69e57ad0f6f3a6b93b60f341615cc311798a28d0e90",
       "c2w": [
         [
@@ -5853,7 +5853,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001281.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001281.png",
       "sha256": "7b67baf5ed671a21cf47783738a7bccaf67235419a932d1e517cfc641fd746b8",
       "c2w": [
         [
@@ -5883,7 +5883,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001288.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001288.png",
       "sha256": "feb859c6ef41d7f322d1eac454e34346840fb817df9bf30392f834f2659a8a82",
       "c2w": [
         [
@@ -5913,7 +5913,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001294.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001294.png",
       "sha256": "a0b80c1bdd94169ca2684f8284230382e55982ae49c24cdbe948e797aa1cb394",
       "c2w": [
         [
@@ -5943,7 +5943,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001301.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001301.png",
       "sha256": "e19a490fbfa3457fd51a4f3f0afa403785808a80ee92e40d9a0bdd340c6efa82",
       "c2w": [
         [
@@ -5973,7 +5973,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001307.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001307.png",
       "sha256": "c4a95552100bb17a319ff881e30a43ef5525110fdbaafc26d2736a717c48e892",
       "c2w": [
         [
@@ -6003,7 +6003,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001314.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001314.png",
       "sha256": "2eb4e750514c96c280e664289cb49401a059daf0b03ec0bb3d11602168db0d25",
       "c2w": [
         [
@@ -6033,7 +6033,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001321.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001321.png",
       "sha256": "4977f02e2e73810bef8081acc94f5071450d7bc840d8c62e2465fd5e7a40c1c2",
       "c2w": [
         [
@@ -6063,7 +6063,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001327.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001327.png",
       "sha256": "173ff71431663d81e09bd93e5ff7482d2cf9eac0ff7c75e19d5e84f1e90405e5",
       "c2w": [
         [
@@ -6093,7 +6093,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001334.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001334.png",
       "sha256": "9ffc625eabad1a371dab516a49c32cc4d286ef35f7c28f931a35679d6efdfbd3",
       "c2w": [
         [
@@ -6123,7 +6123,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001340.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001340.png",
       "sha256": "c7ddbd9b13cc76de4d6a493c70e4d404a9c4a0b95474f5180e69caf2c7347a2b",
       "c2w": [
         [
@@ -6153,7 +6153,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001347.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001347.png",
       "sha256": "86ce0149ff0cfdcf771aa7cafd567cab15f8c1b4bdf05dcda55b20838e98b1da",
       "c2w": [
         [
@@ -6183,7 +6183,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001353.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001353.png",
       "sha256": "774c6965752198c39e773d9fd32dc0efb9b03f431acd734859633a20a8087285",
       "c2w": [
         [
@@ -6213,7 +6213,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001360.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001360.png",
       "sha256": "fc1d24f1379913a4c6c7fe13bed79f92e84e8c2895c4639d61600d15b72b07dd",
       "c2w": [
         [
@@ -6243,7 +6243,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001367.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001367.png",
       "sha256": "12a95b8eee9460bd04f46d110d4460801ab7cbab134a6c16c7f83efc27d98e0a",
       "c2w": [
         [
@@ -6273,7 +6273,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001373.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001373.png",
       "sha256": "475526af399ee8d0fffe001c2db600b16f2adb237413239b564fc4ff0790488f",
       "c2w": [
         [
@@ -6303,7 +6303,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001381.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001381.png",
       "sha256": "8d32bcb034c8a53debb313f6888720841a9119ab811a46776e1b6a1431604ffc",
       "c2w": [
         [
@@ -6333,7 +6333,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001387.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001387.png",
       "sha256": "08dbf20bd4fb8dfc1c6a21fc59f85c5fc36e8ca1d2f9162a4c569ca1ee44d1a1",
       "c2w": [
         [
@@ -6363,7 +6363,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001394.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001394.png",
       "sha256": "21e9f6dfd9fc96322ebd49ad361f0a92ca8f586279df6404e1f9a397d604b544",
       "c2w": [
         [
@@ -6393,7 +6393,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001400.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001400.png",
       "sha256": "c3190139997502469b9b1ee62c87ffa3fac523a311f7e648e363c0accf7f0f85",
       "c2w": [
         [
@@ -6423,7 +6423,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001407.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001407.png",
       "sha256": "2e1b085ad18a228f5775dfdf58453569cab60c79351a059c9cdee36ad12067b9",
       "c2w": [
         [
@@ -6453,7 +6453,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001414.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001414.png",
       "sha256": "7f181e313a0e8af22e689a2ca32c1f8cf56455467bcdd3751c55603192c2cd31",
       "c2w": [
         [
@@ -6483,7 +6483,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001420.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001420.png",
       "sha256": "1fcf22d833e19b4fe410494d5d6432fdfbec1a24edde94ebd8af5fff6f1606f7",
       "c2w": [
         [
@@ -6513,7 +6513,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001427.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001427.png",
       "sha256": "c1a55644f8aeec828476a9cdcebc645fa6f57f3d624f5b55fb076b42d5f00807",
       "c2w": [
         [
@@ -6543,7 +6543,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001433.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001433.png",
       "sha256": "f4555ea2f3ce1158becf77a292a01f83190f20e802e10a639a1f26aec121f6a4",
       "c2w": [
         [
@@ -6573,7 +6573,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001440.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001440.png",
       "sha256": "1e3a3e5b795bfad01840e5d08e3979e2eff6e033518c11ab2fa6db98eb41f546",
       "c2w": [
         [
@@ -6603,7 +6603,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001446.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001446.png",
       "sha256": "89b2aaaec8396a9c82791786ad6e61a9c45e1659f65f3238fc0244c67a129d8c",
       "c2w": [
         [
@@ -6633,7 +6633,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001453.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001453.png",
       "sha256": "355985a9fdb0da3449700e4433ce07b4c2608c7a3f338beae9365c2a0bc8f813",
       "c2w": [
         [
@@ -6663,7 +6663,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001460.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001460.png",
       "sha256": "98387f97a0630608acd283233c9fec0356d6364d828052ce0cfe7b2572f8eb16",
       "c2w": [
         [
@@ -6693,7 +6693,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001466.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001466.png",
       "sha256": "5ec8f7b5744b36b599c9a4c8cb28f1ca227e34e6163923a919ff47fd48f1a87a",
       "c2w": [
         [
@@ -6723,7 +6723,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001473.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001473.png",
       "sha256": "723d9f57a62a1a8f8aefa0ef926fd990f727421453829a581b9c8cf34dd2357b",
       "c2w": [
         [
@@ -6753,7 +6753,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001479.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001479.png",
       "sha256": "55e2a35c2c55a93d7c0ed0ebe19e858b6590f089021b94200d90d0df7aa97370",
       "c2w": [
         [
@@ -6783,7 +6783,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001486.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001486.png",
       "sha256": "c3ccb0c9aabbe07d8a86d776b98940e26bea8755dcf2b155022e5314ba1c002a",
       "c2w": [
         [
@@ -6813,7 +6813,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001492.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001492.png",
       "sha256": "65198eaafafc69eb60074c1071a449374c715d17ca8a90018c034226c692ca00",
       "c2w": [
         [
@@ -6843,7 +6843,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001499.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001499.png",
       "sha256": "322ee80837492c865f4a5af1c364ada263c0220626a2dd54a4c5d6d9da576c78",
       "c2w": [
         [
@@ -6873,7 +6873,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001506.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001506.png",
       "sha256": "31db62030991cef94c9da4d61236dc5d19ac3cab13d7aee8488c1ababd4a5c16",
       "c2w": [
         [
@@ -6903,7 +6903,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001512.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001512.png",
       "sha256": "0031901c22dbb7e76e52216f15bf5b7d07386141fd96edd3ccf78acd9a55fae5",
       "c2w": [
         [
@@ -6933,7 +6933,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001519.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001519.png",
       "sha256": "ac9a4b90703d384a5b46d95ec18219628d802b5421c61f985440ebdca930e891",
       "c2w": [
         [
@@ -6963,7 +6963,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001525.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001525.png",
       "sha256": "698005a1a66b555c9554bf0c6a668cef7d0d0a7e5bb77c03acc254481cecf8fe",
       "c2w": [
         [
@@ -6993,7 +6993,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001532.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001532.png",
       "sha256": "ee510d5e71797c3605d9d06e2908b48f763e9a2403c512bd33a0588d412a7a9b",
       "c2w": [
         [
@@ -7023,7 +7023,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001538.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001538.png",
       "sha256": "0d6716bf49c28990ed657293a08ffba708baa82071d8ff33d7ac77c77ab31771",
       "c2w": [
         [
@@ -7053,7 +7053,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001545.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001545.png",
       "sha256": "00913cc2ed6b34b61975e6b837e077f3f5a63543a94805182b403778f8087f83",
       "c2w": [
         [
@@ -7083,7 +7083,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001552.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001552.png",
       "sha256": "61590af8b76d3d3d4792359eb07bbeb8d3af7212c6ce045d53c5be9eb8875282",
       "c2w": [
         [
@@ -7113,7 +7113,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001558.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001558.png",
       "sha256": "0f22f785bd34e055d652ad28dfe2d02276a75dfcc5662f4edb5d142413224992",
       "c2w": [
         [
@@ -7143,7 +7143,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001565.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001565.png",
       "sha256": "18af990df2fa8117e1bea8f0471b1f16f07ab6cd16e361563f7b700693f50e9a",
       "c2w": [
         [
@@ -7173,7 +7173,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001571.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001571.png",
       "sha256": "29a8f33e0e935aa5c1f8bd6fb81c47e94f2f970844c490070738ac4826917954",
       "c2w": [
         [
@@ -7203,7 +7203,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001578.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001578.png",
       "sha256": "f03a7d9730f190eabb7cdfbc84c42537fec5d97243ac6865999619cb3239d13f",
       "c2w": [
         [
@@ -7233,7 +7233,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001584.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001584.png",
       "sha256": "2c67a394108ae8e7a10b307b358d4b0376261c7b3d66cacc44b64485795a8647",
       "c2w": [
         [
@@ -7263,7 +7263,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001591.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001591.png",
       "sha256": "6012511b9e939310d50a48225516729aba2b9f482b592fd1d18233fc8184d9eb",
       "c2w": [
         [
@@ -7293,7 +7293,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001598.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001598.png",
       "sha256": "42c7497c5698fb00eb10894ff25b689b9475d1258cc35d68683ba9798666c173",
       "c2w": [
         [
@@ -7323,7 +7323,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001604.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001604.png",
       "sha256": "13577819c8aa20fc97f0807aebc7d60473fdc3d264753567c175dae14dcd8db6",
       "c2w": [
         [
@@ -7353,7 +7353,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001611.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001611.png",
       "sha256": "5df17ab2aa119500a1ca4c85eb483c9d8da9dced1a744b4b265703edcb3e3c1f",
       "c2w": [
         [
@@ -7383,7 +7383,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001617.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001617.png",
       "sha256": "d7df3460f908abab17d5449a50c6da8a97bfbbdcafbb193df99653ec61f84a92",
       "c2w": [
         [
@@ -7413,7 +7413,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001624.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001624.png",
       "sha256": "60873979b58ce9b1f0f9e6da20ac6e1c80514dc29e55c1060d53d0e99469b909",
       "c2w": [
         [
@@ -7443,7 +7443,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001630.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001630.png",
       "sha256": "16de2ca9ef86a32aae71920ae6a1122f1e2548bb4e8ca0816333b1c93cc76b76",
       "c2w": [
         [
@@ -7473,7 +7473,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001637.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001637.png",
       "sha256": "29503b60744503f52de01f177b1386469d261db256c40176c62e5139d40d0be2",
       "c2w": [
         [
@@ -7503,7 +7503,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001644.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001644.png",
       "sha256": "ee67a019581e1c15e253a27fbbcda6836ff24e38437b9498ceb9a806833dfe96",
       "c2w": [
         [
@@ -7533,7 +7533,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001650.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001650.png",
       "sha256": "c0c25a38547739982fbc453d4146b36858b73b416fd245b7823550f66b22077a",
       "c2w": [
         [
@@ -7563,7 +7563,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001657.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001657.png",
       "sha256": "6b197e8a635b3e93523e2db8fb9d9f925355bdfcebb270d34f8b0d15e564a256",
       "c2w": [
         [
@@ -7593,7 +7593,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001663.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001663.png",
       "sha256": "5c504e6356a38febfdf74012e1cd03c620d7e5510e3821553fc5bbc0d5fd9cc9",
       "c2w": [
         [
@@ -7623,7 +7623,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001670.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001670.png",
       "sha256": "006ad4977db265b5503054539b899458fb7f517aa8011c8fc59fbcf8c5cbe47f",
       "c2w": [
         [
@@ -7653,7 +7653,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/data/nvs/mill19/rubble-pixsfm/images_8/001677.png",
+      "path": "data/nvs/mill19/rubble-pixsfm/images_8/001677.png",
       "sha256": "ffede4ec6f48df76384fa13ca154e3234156a275f7753b9cebc28a99cd1f8a65",
       "c2w": [
         [
@@ -7955,7 +7955,7 @@
   "reference_camera_checkpoint": {
     "checkpoint": [
       {
-        "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+        "path": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
         "size": 4576706117,
         "mtime_ns": 1781505878115243000
       }

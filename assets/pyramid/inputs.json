@@ -3,7 +3,7 @@
   "source_scene": "vggt_videos/pyramid",
   "frames": [
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000000.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000000.png",
       "sha256": "18276c8a86870d631a05852df6e8eaf31fe13dbc3dc83cecce0d66bb094bce3c",
       "c2w": [
         [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000056.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000056.png",
       "sha256": "a1f22a2db1af50d97ec6be0a4aac3b88988f455efa07259d5ea5c2adaf674257",
       "c2w": [
         [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000113.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000113.png",
       "sha256": "7d226b7972d3a8e9c197072ebe681ac8418a59e648d3043f3d64496ed0d4837c",
       "c2w": [
         [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000170.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000170.png",
       "sha256": "5a707f3a2bf332e95ff1d3b230ab266e0b537d4cbef6f4ced23b31747870257d",
       "c2w": [
         [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000227.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000227.png",
       "sha256": "8c47c44d631bc8651a03b0fa7e70fe8a335d9231f5dca8f2697bc01d9a347d20",
       "c2w": [
         [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000284.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000284.png",
       "sha256": "830d0e0f68a12f1191cc5636918221f3f5d148bab9f8742b9d07a7622a472808",
       "c2w": [
         [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000341.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000341.png",
       "sha256": "63124a84e02df66c8cd01b08b7596e3e10a172c1c52c7400249c0b67951425a1",
       "c2w": [
         [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000398.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000398.png",
       "sha256": "cc9300d286024b2c9dcd623b5be5b5e3869daa6c7373ece881d7b291959823a4",
       "c2w": [
         [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000455.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000455.png",
       "sha256": "902933ce3313743fc976b16a75b07a9b056a6684c19fb7c5d384130ddf22a6f4",
       "c2w": [
         [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000512.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000512.png",
       "sha256": "1b66f042041d379d802b0164356043cc0bc2f1a48248e6b920740d8fb446d0bc",
       "c2w": [
         [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000569.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000569.png",
       "sha256": "05b29b7465047b0e526105bb4158eb53a93bbab781f887f493cf6770ec78614f",
       "c2w": [
         [
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000625.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000625.png",
       "sha256": "93396a793ab7bafd8b8f022fc5cb3f20e45bc780696b96cff8d71925817acab5",
       "c2w": [
         [
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000682.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000682.png",
       "sha256": "ef95958fe64874313ac3e34c3e773d7563c0ac7b68efd2ed97a30fa8bb6cfd3c",
       "c2w": [
         [
@@ -393,7 +393,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000739.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000739.png",
       "sha256": "424f281a486f22a1678a5fcc0c53e17a54a2d9b805f6bdca63665602d0db0bb9",
       "c2w": [
         [
@@ -423,7 +423,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000796.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000796.png",
       "sha256": "6430e572b3d2483e7ab50558c769bdf589d3dc8d1b9a9df49959a2342d082ad3",
       "c2w": [
         [
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000882.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/pyramid/frame_000882.png",
       "sha256": "cd23015235cbf883ad97bb410461ca5c0a1dbf6db64e3809836d9d4c72f6605d",
       "c2w": [
         [
@@ -513,7 +513,7 @@
   "reference_camera_checkpoint": {
     "checkpoint": [
       {
-        "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+        "path": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
         "size": 4576706117,
         "mtime_ns": 1781505878115243000
       }

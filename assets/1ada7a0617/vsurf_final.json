@@ -185,24 +185,24 @@
   "checkpoint_identity": {
     "checkpoint": [
       {
-        "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/architecture.yaml",
+        "path": "logs/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/architecture.yaml",
         "size": 756,
         "mtime_ns": 1793819872256854000
       },
       {
-        "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/model.safetensors",
+        "path": "logs/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/model.safetensors",
         "size": 3165580704,
         "mtime_ns": 1793819858501847000
       }
     ],
     "frontend_checkpoint": [
       {
-        "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+        "path": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
         "size": 4576706117,
         "mtime_ns": 1781505878115243000
       }
     ]
   },
-  "inputs_sha256": "f9a55d90a5b5e11e8a3ef06a05756c39cfc4b768ac8596fd401db1789ff91a26",
+  "inputs_sha256": "7a7bd6d8e95eb01f5ccecff8b058f0c822e69a7fb36f4b546ddf85fb8cc559fd",
   "ply_sha256": "b50be8018c9ffb3caed2d03e32039cbaa4e836073ebe770eb5aa4f35c65dde1d"
 }

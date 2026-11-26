@@ -3,7 +3,7 @@
   "source_scene": "dtu/scan114",
   "frames": [
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000000.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000000.png",
       "sha256": "cc78bf253e46906fc8a266334015490328b69cb07e0dcb99d11c241d9b8418a4",
       "c2w": [
         [
@@ -48,11 +48,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000000.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000000.png",
       "mask_sha256": "ab33582029616fface9d26877ecc411d1b04ff4e3530a30244acc73ca0ba336f"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000001.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000001.png",
       "sha256": "0b26b4c88ed94dbcc0d160d3a9348e397616bc407ac5c5ff59fe510257d441e3",
       "c2w": [
         [
@@ -97,11 +97,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000001.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000001.png",
       "mask_sha256": "0beddbc9739dd8f7bea3a0ab47e52b1e11d5a1ae26e8d6242e8e1fc94ab009a2"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000002.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000002.png",
       "sha256": "1214e0898c09ce28afc8cb82747b390fa880f5b809a1a8ee11974222e467b0a2",
       "c2w": [
         [
@@ -146,11 +146,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000002.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000002.png",
       "mask_sha256": "633f34da2b3a2c85df3ef3d1a4dbaaff8be7e96ab819f246f74bd0ed08472df9"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000003.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000003.png",
       "sha256": "075ac3bfdb30b760724b8fe812d22f1bb4e7094c36076f6b2405e1b56dd03687",
       "c2w": [
         [
@@ -195,11 +195,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000003.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000003.png",
       "mask_sha256": "fb5f4f31d057ab8eb9f653891408f026526be95293723f0d99d023a18e21e95b"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000004.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000004.png",
       "sha256": "2fe234258871bd8c49f7b7ddc21ac36b7e63b1f80dae9197fb1cdab654586b68",
       "c2w": [
         [
@@ -244,11 +244,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000004.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000004.png",
       "mask_sha256": "2ba721ce3888b5ee2aaeec3cb98b9d058807a2f92ae57fa50a86f994545c8cbc"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000005.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000005.png",
       "sha256": "162c93429bf6065843332ac7316325eba81373e4b0a041df6ed23b039f6395eb",
       "c2w": [
         [
@@ -293,11 +293,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000005.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000005.png",
       "mask_sha256": "216ab103599725e8d1988fbd9f978e758a25cc834472870c58f31253981dcaa1"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000006.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000006.png",
       "sha256": "cc282d485cfc052364c8955d5bc069a7ee8cf914a07629cb3405989baebf5683",
       "c2w": [
         [
@@ -342,11 +342,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000006.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000006.png",
       "mask_sha256": "4ceeb7e3bcd5fbd4d8d6d93cf9e74fb7727b4e3770590f68a2d2f64dce3846b0"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000007.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000007.png",
       "sha256": "7f94a4475ade9f64d4e1ab6f5695e3e199f84d5de52faf2382d898761705e4c8",
       "c2w": [
         [
@@ -391,11 +391,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000007.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000007.png",
       "mask_sha256": "214187a04d312679919f7d0790aaec5934bb466234d0a9254d023c1a9da5c3ef"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000008.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000008.png",
       "sha256": "af2697bec4ea965702a362584e375ff6d6bf69ab7e96bebb590a44d8f77e415a",
       "c2w": [
         [
@@ -440,11 +440,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000008.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000008.png",
       "mask_sha256": "1bbe585a084828eb953ebbcf86e6c9f87957249d3522445c9be52f53342820cb"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000009.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000009.png",
       "sha256": "cb8eca7f3df5c2011bb0cb85a0cae7c6ca03858054d232cb9a5bd6b6b20d4703",
       "c2w": [
         [
@@ -489,11 +489,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000009.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000009.png",
       "mask_sha256": "779d50c2a522720d13f00b0c089e6ae2e12bca29a3ada4ac99355aeb2ade5615"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000010.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000010.png",
       "sha256": "a6fcd66290416790dd042d63fde2cd97128c411c599365cdb7d73fd9d92a0337",
       "c2w": [
         [
@@ -538,11 +538,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000010.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000010.png",
       "mask_sha256": "7c341afbe345e99524c40c21af22a20f9206b8849a6471e3b7b28022620e7df5"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000011.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000011.png",
       "sha256": "336fba63f110ae5712a66768ecc122e65f6b3ccc30f9bcb3ceddef2090e2c163",
       "c2w": [
         [
@@ -587,11 +587,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000011.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000011.png",
       "mask_sha256": "83fc1bc85371e9ec0befd0fd12a0d4cb7199fad22b91fc474d5dfa3b91a6fe1a"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000012.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000012.png",
       "sha256": "de216af4769e0793bb3fc1e7b4bc186d08c7f604bf5125093b11d576d8d4558c",
       "c2w": [
         [
@@ -636,11 +636,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000012.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000012.png",
       "mask_sha256": "7e260f14e8b41af788fc9d84077e804fd9026ce1e83fa71751f540baeb27f4ce"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000013.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000013.png",
       "sha256": "e56cd72d1d2501834351d796cb26b1a226b5a036d42b24fc8620b542d18f91b8",
       "c2w": [
         [
@@ -685,11 +685,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000013.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000013.png",
       "mask_sha256": "ed98d22f23f1b0a5144c753f947456463887be418486d615f1d821457fe4a53b"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000014.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000014.png",
       "sha256": "6974a57d157d1eb9b36bf580846b94fa42da03be0ab201745bb3b32bff5fa22d",
       "c2w": [
         [
@@ -734,11 +734,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000014.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000014.png",
       "mask_sha256": "cf315fb190971c0c87ae3656479e289208b04b0fe83ac3af24e9ef655e708f89"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000015.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000015.png",
       "sha256": "0be806781af17085fd99caa0ac96451082019a7cc7d0cd73ac5888ded17862c7",
       "c2w": [
         [
@@ -783,11 +783,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000015.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000015.png",
       "mask_sha256": "03ff4ba85312d19d3448117dd160e4f6b73fc6030eca1d19670e958bd9f8191b"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000016.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000016.png",
       "sha256": "f6257650a03a9b822125e39220c92649c5ac6c3763ca52f8898428ff731b149e",
       "c2w": [
         [
@@ -832,11 +832,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000016.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000016.png",
       "mask_sha256": "9571f34323fd057b617563748bd51502b330d34c62ba77e39dd733c59bb0168a"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000017.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000017.png",
       "sha256": "0d318773cc9f594a490ee398cd2d42c7772fb12d144a0e096d8a9ba9184753e5",
       "c2w": [
         [
@@ -881,11 +881,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000017.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000017.png",
       "mask_sha256": "b6ba36d03a8cf2559d42a08af5e62c763968b1aa54f0e8140351124057e7040d"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000018.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000018.png",
       "sha256": "f391c0c52c1c46c9e880dad0ff57bb133f9065d209a1f2167b3ea3986b35e7e3",
       "c2w": [
         [
@@ -930,11 +930,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000018.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000018.png",
       "mask_sha256": "f24c92869976c9d6f1a1a6fd8904f6a47f5193a01259be3998f11df2334088c2"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000019.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000019.png",
       "sha256": "15e53e263c0ac3fd828bd98a9999dd4135c984ec1663b2d52815b47a8e854bc0",
       "c2w": [
         [
@@ -979,11 +979,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000019.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000019.png",
       "mask_sha256": "73558772d611f5dba2d0082ae8c1674ed9b120dbf7c9c471db88f416db441612"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000020.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000020.png",
       "sha256": "1b81dd431eaf089f6d9350b28c100fdd22d7b6446a7b52940877dd8784049b40",
       "c2w": [
         [
@@ -1028,11 +1028,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000020.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000020.png",
       "mask_sha256": "efa296d13de5efcc4b77e0ca348147437cad665cbdd396e68aa700e2337c358f"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000021.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000021.png",
       "sha256": "61887504bf62a1232fdcd175d69b5a7c4d901128850db8dc814f0d395b4054de",
       "c2w": [
         [
@@ -1077,11 +1077,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000021.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000021.png",
       "mask_sha256": "55462b18a069cbb8550dff3df4f96943b356e46145b10edd4ad5d322d280df80"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000022.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000022.png",
       "sha256": "f556b22b4ec2833a5c5ca4bebdb650ff1f9d83ac15b4caa6a0d05aeb86c24b54",
       "c2w": [
         [
@@ -1126,11 +1126,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000022.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000022.png",
       "mask_sha256": "e461952d67ac343c8a3e1bf702f6e304bbdf58f87f02f0493c2c999940b2cf86"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000023.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000023.png",
       "sha256": "c235ff4ba1f665e955646fd36bdded55cee277fe3ccde2b13c70ad5b1fa20c4f",
       "c2w": [
         [
@@ -1175,11 +1175,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000023.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000023.png",
       "mask_sha256": "e0cab4cf3fee16e44b15047a3c15abced938c5a5e0ce73d6fa0070ebf7d1b4de"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000024.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000024.png",
       "sha256": "dc17ecaa9d0fa91b95f3d090e8cbe4bab25cb117b4d862d6a44a64ecc316be48",
       "c2w": [
         [
@@ -1224,11 +1224,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000024.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000024.png",
       "mask_sha256": "51fc01f8b1c45aa6f2dd1fde178ffb88f4fe83a5a1cb61eedfae0dc646848531"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000025.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000025.png",
       "sha256": "871161c38645620a1c48de880404355368efaccaf4561346081e3d2767aefd22",
       "c2w": [
         [
@@ -1273,11 +1273,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000025.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000025.png",
       "mask_sha256": "883f628763218a6068fdeb21813e42ecafd778c96a4d9f0b7c8ff4279e0f3670"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000026.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000026.png",
       "sha256": "918fa542710e7c209f43658b5970246270a6c4e521a1e635e7aa10b34d973514",
       "c2w": [
         [
@@ -1322,11 +1322,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000026.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000026.png",
       "mask_sha256": "415a6d88b6d13ac58ebceffbfe193f9ab7b8ef4862b313a70cb841cab4140b96"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000027.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000027.png",
       "sha256": "71058bffb2bb5d62a623767183d0f5c23bb4e4a9cf4720a9b8d18dbc0bf8b889",
       "c2w": [
         [
@@ -1371,11 +1371,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000027.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000027.png",
       "mask_sha256": "c0014e582d10776613d5b92f578f76217c17ff3721894fbfaebe29ee961e145a"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000028.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000028.png",
       "sha256": "33e294c068c1a2b3be56bea9d46afd624b3a5b501cd92d0112478193ff9e5b07",
       "c2w": [
         [
@@ -1420,11 +1420,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000028.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000028.png",
       "mask_sha256": "df5d99c0b9041913a2f97736252d9d69ce2b5e7c1e5a95342bee8ee9ae6dc38f"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000029.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000029.png",
       "sha256": "6e7e8d32fde8450dfa096e463b08c9b177ae4905d6d1cbf0696db88b2f01bba6",
       "c2w": [
         [
@@ -1469,11 +1469,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000029.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000029.png",
       "mask_sha256": "980c272f4cd882084aaac88f1e490dbc224feeae9d1fff269566654fd7f83881"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000030.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000030.png",
       "sha256": "4dc28bdc3c7d29f7cf2c042fc0ac935b8add06ac8321281b62e019797d8d9e0a",
       "c2w": [
         [
@@ -1518,11 +1518,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000030.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000030.png",
       "mask_sha256": "d9bb01f8bfe8254fe992c48782ece750cc9ba9bd76ddf5282c87e3f2704496f5"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000031.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000031.png",
       "sha256": "ce358eade63291adca752eb20447caebdcd6bdf2cf36912ad0772918f539c5db",
       "c2w": [
         [
@@ -1567,11 +1567,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000031.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000031.png",
       "mask_sha256": "49c69facdfea1a74542aeac67e734b31df5f73782889bb2ec362e90e40d91dcf"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000032.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000032.png",
       "sha256": "7d4a113b8288570576d3cfb0b730dc0ed01768fad729440a8d798b8cfb2518ef",
       "c2w": [
         [
@@ -1616,11 +1616,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000032.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000032.png",
       "mask_sha256": "b3c17784aa280196146a5707e056781389ab81336db70629eaaa7ed8074ac2bb"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000033.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000033.png",
       "sha256": "cf0ab85ea8edb42a5a2a5db466efb338a6379be3920042396e7b03829d393570",
       "c2w": [
         [
@@ -1665,11 +1665,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000033.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000033.png",
       "mask_sha256": "2f9ef40ead5beedad078d79e8644f7b48c68bcd99615a8d306b61a75edf18417"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000034.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000034.png",
       "sha256": "7ce3c39deb6a9ad4310f01e1d71512da144df1b92607a9312ab9ea0e4cc6cef8",
       "c2w": [
         [
@@ -1714,11 +1714,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000034.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000034.png",
       "mask_sha256": "ca17427649b15662a1efb2649e4d04f925fbb0936df41105bdbad8692fd9cb96"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000035.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000035.png",
       "sha256": "0e7ce5aaaf559158acb3971431131d4cafaf4a445e671520f2f51a17051567ac",
       "c2w": [
         [
@@ -1763,11 +1763,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000035.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000035.png",
       "mask_sha256": "072b762379e0de9f9761104a3c4e011055f5c0ecc9b79d58e45c378ccd5925ef"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000036.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000036.png",
       "sha256": "ce1650cd87424532239f5974bdca13f80a000d1c5c1b5ab53904789d5af3ff07",
       "c2w": [
         [
@@ -1812,11 +1812,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000036.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000036.png",
       "mask_sha256": "3ded09457dd60b670ba098555721a6469747a271ab5ec8614875daf4c3d4ff60"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000037.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000037.png",
       "sha256": "c25309374b15b75f1c62670e686a1751f4131e62874d7e8df4d4a44d0dd87ad0",
       "c2w": [
         [
@@ -1861,11 +1861,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000037.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000037.png",
       "mask_sha256": "a740917913b9e26e2ff1efcad516e69edc5844c38bedc6e4f32d29794484a862"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000038.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000038.png",
       "sha256": "aa2e6b00eb0a6534b461901ca72c4836205fb4f2658dc1c2a8e4a5a0e6c38e0e",
       "c2w": [
         [
@@ -1910,11 +1910,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000038.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000038.png",
       "mask_sha256": "8570aedd6d5b9d341d1137e900726be5cbd0fd7d9e34503af26ba4f5eb3e6359"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000039.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000039.png",
       "sha256": "01c68fc0322c4e21ec784cd0f337760055f4feb93f1b8599f46746544f6a6e58",
       "c2w": [
         [
@@ -1959,11 +1959,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000039.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000039.png",
       "mask_sha256": "8c5b4d183be8ab3a749f85d76030d1cd033271841a7c06c81aa1e312de19c747"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000040.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000040.png",
       "sha256": "be4a7136e9cac27b853b313e7bbf83bc3422f9715fad6aa78fe6fe27782a820c",
       "c2w": [
         [
@@ -2008,11 +2008,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000040.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000040.png",
       "mask_sha256": "5411711709e0808f3606f71d2883e5b83cf93222eff649522ffeab78669700f1"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000041.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000041.png",
       "sha256": "b82edc742a73797ac6ac183269e6de802584ddd56672da0ddbf6ee11610ab5a7",
       "c2w": [
         [
@@ -2057,11 +2057,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000041.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000041.png",
       "mask_sha256": "f25114202fe285545c1e97c868903bac5f15472ceb57163b85266ee549838a65"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000042.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000042.png",
       "sha256": "84447f61bbe29920d38601ca83cd4f9934f170c42133045f126ad05aad5a77b2",
       "c2w": [
         [
@@ -2106,11 +2106,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000042.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000042.png",
       "mask_sha256": "94e2180bb0295bbda5b33fe1b4bc8b13424cbb71e4c09c49efcea56bccad3596"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000043.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000043.png",
       "sha256": "4c2ed4d922b942261d38bec697cd68b88fed9b29815906c98c8e9dddc0fb04a5",
       "c2w": [
         [
@@ -2155,11 +2155,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000043.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000043.png",
       "mask_sha256": "637ef41d3c61449f84d3cca9fee0a41e2b422b3341d1a0a8725f4758edbcf653"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000044.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000044.png",
       "sha256": "a3c3d8ab56922b1c436d9c060e3ff710f1f55b10b4b8a14304b695675b8c0b64",
       "c2w": [
         [
@@ -2204,11 +2204,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000044.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000044.png",
       "mask_sha256": "92c1ddf09b8382e02656d9ce1d7ff52c8ba5bafa569c0a26cf6c1a61b139973c"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000045.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000045.png",
       "sha256": "e18cf0867e5334a32b0ceeed62512a177d659c438fb6675ccae879b75eefac63",
       "c2w": [
         [
@@ -2253,11 +2253,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000045.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000045.png",
       "mask_sha256": "fff125f7c71220bcda34ff135bfa2b1888187fb5d28284a56c2f2c4758f30524"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000046.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000046.png",
       "sha256": "ad3c9e684034147280b18a28e34698cf0e7afeeb9ad93c01bedfde1a8bd6d4e9",
       "c2w": [
         [
@@ -2302,11 +2302,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000046.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000046.png",
       "mask_sha256": "873670ba9fb44638af33e82197b418956c542d46b3fec85f273758b434dc00b2"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000047.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000047.png",
       "sha256": "14a37f295b4ecf214a18c7b7c55ec78d1c510c785527414508e19d8a1db4c041",
       "c2w": [
         [
@@ -2351,11 +2351,11 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000047.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000047.png",
       "mask_sha256": "9225f3c85b1bf6ac62e3c06831ccde80ee63c44bf15a616662de931ef0f965b4"
     },
     {
-      "path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/images/000048.png",
+      "path": "data/bench/vsurf/surface_v3/dtu/scan114/images/000048.png",
       "sha256": "56475ab0e71dec581a38808698efb9c139fe5531cec7132c66385e140d3edf96",
       "c2w": [
         [
@@ -2400,7 +2400,7 @@
           1.0
         ]
       ],
-      "mask_path": "/project/visgroup/zwang253/data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000048.png",
+      "mask_path": "data/bench/vsurf/surface_v3/dtu/scan114/valid_masks/000048.png",
       "mask_sha256": "e0b0b320856f9d01c0725d434655e1fe37b8f0b45337efc720e54bcaf21164fd"
     }
   ],

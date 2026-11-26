@@ -212,13 +212,13 @@
     },
     "checkpoint": [
       {
-        "path": "/project/visgroup/zwang253/ckpts/surflo/surflo_v0.pt",
+        "path": "ckpts/surflo/surflo_v0.pt",
         "size": 5542438742,
         "mtime_ns": 1790072516527984000
       }
     ]
   },
-  "inputs_sha256": "5ecad0fdc901d276ed1b71846e0d1f0e05d821575a3d1e68b03172e391e0d635",
+  "inputs_sha256": "333c89b38e8f49ad8051ba6ff3ddd07fe98200d5d90b056174b9a21373db9403",
   "ply_sha256": "37e95f388d413c5393055e38150b9ae9ced28ca6a0c1c2eca105a729c328fb46",
   "post_export_sampling": {
     "source_points": 200000,

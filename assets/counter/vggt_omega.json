@@ -1,0 +1,101 @@
+{
+  "display_camera_c2w": null,
+  "raw_points": 4153344,
+  "saved_points": 100000,
+  "alignment": {
+    "scale": 5.332527344600446,
+    "rotation": [
+      [
+        0.535989755858754,
+        0.424919022458737,
+        -0.7294921562067582
+      ],
+      [
+        -0.4646671449248012,
+        0.8699189046930456,
+        0.16530439705308955
+      ],
+      [
+        0.7048400003134814,
+        0.25036957405076726,
+        0.6637135303334786
+      ]
+    ],
+    "translation": [
+      2.8774780377412594,
+      1.5259421475574981,
+      -0.6977710422786896
+    ],
+    "camera_residuals": [
+      0.017775531057725124,
+      0.013438281407135391,
+      0.06688343424046422,
+      0.05602371251559597,
+      0.06365451748535444,
+      0.05900146419068707,
+      0.008087956210026155,
+      0.056957040652975716,
+      0.13416872198835753,
+      0.031859176838128486,
+      0.009545083621380616,
+      0.022685323491654804,
+      0.021001569241698374,
+      0.009875478996043888,
+      0.01428573686476718,
+      0.015644389364712116
+    ],
+    "camera_rmse": 0.04972461837734412,
+    "icp": false,
+    "method": "camera_center_sim3_ransac_da3",
+    "ransac": true,
+    "random_state": 42,
+    "ransac_max_iters": 10,
+    "sub_n": null,
+    "inlier_thresh": null,
+    "subset_rule": "max(3, ceil(frame_count / 2))",
+    "threshold_rule": "median_nearest_reference_center_after_initial_umeyama",
+    "implementation_sha256": {
+      "depth_anything_3/utils/pose_align.py": "3e58caa51c499b13650f24049f68b7f659e0f1ce07b9bec24df1c23aaf920428",
+      "depth_anything_3/utils/geometry.py": "3d67391f2eeed57ee5d07387947dea7a5d99fc0ce0a63c6890485183c851c29b"
+    },
+    "evo_version": "1.37.0"
+  },
+  "coloring": {
+    "policy": "pixel_aligned_input_rgb"
+  },
+  "prediction_sampling": {
+    "maximum": 200000,
+    "seed": 42,
+    "replacement": false
+  },
+  "method": "vggt_omega",
+  "scene": "counter",
+  "model_metadata": {
+    "preprocessing": "balanced_512_patch16",
+    "architecture": "vggt_omega",
+    "normalization": "none",
+    "camera_pose_optimized": false,
+    "tto_steps": 0,
+    "weights": "checkpoint_native"
+  },
+  "checkpoint_identity": {
+    "checkpoint": [
+      {
+        "path": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
+        "size": 4576706117,
+        "mtime_ns": 1781505878115243000
+      }
+    ]
+  },
+  "inputs_sha256": "0aa58a8787bf68d09ab1d6fe113b0e68cd94bf50694996c25f137967b582833a",
+  "ply_sha256": "6c3733187acfa7cc1ec003abda95f6131c2f97ad11b8b3b3214bca3438a329e3",
+  "post_export_sampling": {
+    "source_points": 200000,
+    "source_ply_sha256": "3f2c89f05cfd2a15573ca5c418edb3de7cd9fc1bdb017acb6f69ec73e7bbf975",
+    "maximum": 100000,
+    "seed": 42,
+    "replacement": false,
+    "algorithm": "numpy.random.default_rng.choice",
+    "preserve_source_order": true
+  }
+}

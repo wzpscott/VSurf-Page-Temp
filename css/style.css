@@ -36,8 +36,6 @@ section[aria-labelledby="comparison-title"]{max-width:1024px;margin-inline:auto}
 /* Cool blue research-page theme. Geometry and figures retain neutral backgrounds. */
 body{background:#f6f9fd}
 .paper-title{position:relative;padding-bottom:28px}
-.paper-brand{white-space:nowrap}
-.paper-icon{width:1.1em;height:1.1em;vertical-align:-.16em;margin-right:.18em}
 .paper-title::after{content:"";position:absolute;bottom:0;left:calc(50% - 42px);width:84px;height:3px;border-radius:3px;background:linear-gradient(90deg,#2563eb,#06b6d4)}
 h1{color:#162b49;letter-spacing:-.04em}
 h1 span{color:#1762da;background:linear-gradient(115deg,#2563eb,#0891b2);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent}

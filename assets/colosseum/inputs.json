@@ -3,7 +3,7 @@
   "input_frames": 16,
   "frames": [
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000000.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000000.png",
       "sha256": "626ef6d5773b089a589ddc684c4b82263546bc5aac4c62c7335f7eb7be505622",
       "c2w": [
         [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000036.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000036.png",
       "sha256": "0129a5dda86a95b2f1bc04478373352609feb63079d9431fbcca99fa0623ec9a",
       "c2w": [
         [
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000073.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000073.png",
       "sha256": "c4c4f343ffdc2fa49b862da6c2cffbd4c007f1fcac562901c46da8bf1085916f",
       "c2w": [
         [
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000109.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000109.png",
       "sha256": "d54df70fd3bf3b1751186c152f6aca90f097109b2e757564a59ccf4ef1aefce8",
       "c2w": [
         [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000146.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000146.png",
       "sha256": "8aa61c4db6f331a4258dc7a563ee7d40e0b450656cfdcdd551a49b3bf4b0f1ce",
       "c2w": [
         [
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000182.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000182.png",
       "sha256": "b6bdfaab7a397552f565d0e9bb63d7a3fb79d4760978e6a6822decc45487614a",
       "c2w": [
         [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000219.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000219.png",
       "sha256": "2b42f0e2f67de50c5531c67adb9f090086da76f472f88d6452f71b54c39cc652",
       "c2w": [
         [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000255.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000255.png",
       "sha256": "b0c4452bfef3af1cdc4b4311e276e9302d7015825a80a4bad6f427ea23227ce7",
       "c2w": [
         [
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000292.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000292.png",
       "sha256": "2d1b46a45f877606f04708c9ede07ac02fd3750f088175d5b7557055c653046a",
       "c2w": [
         [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000328.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000328.png",
       "sha256": "e41282ac93ca5e342bb37f13dc1b11de4f461aadf09184d2ece353c22f2a4015",
       "c2w": [
         [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000365.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000365.png",
       "sha256": "b80da0f3aea741a9a260ac58b22d25fac4d5a4b91f090149c9792e97105e999a",
       "c2w": [
         [
@@ -333,7 +333,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000401.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000401.png",
       "sha256": "bf599ad5168f9dd2a09e0a82dd97e956fee14d79e18c77c1a8be5f68ebccefb2",
       "c2w": [
         [
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000438.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000438.png",
       "sha256": "a99f8b7f95097170b14992213189268d6d6a099c7de8ea2190499e8fef415949",
       "c2w": [
         [
@@ -393,7 +393,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000474.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000474.png",
       "sha256": "cab1fa253b015779898908aa6f4e02f18e2524a55ff9fa17a2ed95736467d324",
       "c2w": [
         [
@@ -423,7 +423,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000511.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000511.png",
       "sha256": "0cbd0fa2cce3916ff5f2a01a7cd5c7ff7424e718d10f5aafed5a6d250f9c19e8",
       "c2w": [
         [
@@ -453,7 +453,7 @@
       ]
     },
     {
-      "path": "/home/zwang253/workspace/scale-up-vggt/GeoSurf/viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000566.png",
+      "path": "viewers/wild/assets/vsurf_final_video32_pi3_bmvs_dtu_200k/frames/colosseum/frame_000566.png",
       "sha256": "78d5ae28e001afc0d9309b18a4ea7f014ade2c70abbb0b2b70ce907c3da5274d",
       "c2w": [
         [

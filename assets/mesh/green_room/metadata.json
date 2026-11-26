@@ -14,7 +14,7 @@
   "vertices": 251540,
   "triangles": 499981,
   "source_points": 1577352,
-  "inputs_sha256": "249319dd2f90414e6f1e113e6b4dd4f556f9d72b26b2e94c53bb2a39160688aa",
+  "inputs_sha256": "8cc0af9a6c99c9a505a26849b6f9303d0bd713d423f163cdce76da248d2cc1e2",
   "source_prediction": {
     "display_camera_c2w": null,
     "raw_points": 1577352,
@@ -170,24 +170,24 @@
       "seed": 42,
       "replacement": false
     },
-    "inputs_sha256": "249319dd2f90414e6f1e113e6b4dd4f556f9d72b26b2e94c53bb2a39160688aa",
+    "inputs_sha256": "8cc0af9a6c99c9a505a26849b6f9303d0bd713d423f163cdce76da248d2cc1e2",
     "ply_sha256": "071b3b3598e846fae4e3a0e61a9e01570f1dc64f7228fa478541a51e182f5a31",
     "checkpoint_identity": {
       "checkpoint": [
         {
-          "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/architecture.yaml",
+          "path": "logs/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/architecture.yaml",
           "size": 756,
           "mtime_ns": 1793819872256854000
         },
         {
-          "path": "/project/visgroup/zwang253/experiment_logs/GeoSurf/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/model.safetensors",
+          "path": "logs/train/geosurf_contract_pruner/train_8gpu/261103-235914/checkpoints/final/model.safetensors",
           "size": 3165580704,
           "mtime_ns": 1793819858501847000
         }
       ],
       "frontend_checkpoint": [
         {
-          "path": "/project/visgroup/zwang253/ckpts/vggt_omega/vggt_omega_1b_512.pt",
+          "path": "ckpts/vggt_omega/vggt_omega_1b_512.pt",
           "size": 4576706117,
           "mtime_ns": 1781505878115243000
         }

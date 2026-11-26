@@ -217,7 +217,7 @@
     },
     "checkpoint": [
       {
-        "path": "/project/visgroup/zwang253/ckpts/surflo/surflo_v0.pt",
+        "path": "ckpts/surflo/surflo_v0.pt",
         "size": 5542438742,
         "mtime_ns": 1790072516527984000
       }
